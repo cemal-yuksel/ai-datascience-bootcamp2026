@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Veri+Bilimi+%26+Makine+%C3%96%C4%9Frenmesi+2026;100+G%C3%BCnl%C3%BCk+Elite+Bootcamp;AI-Powered+Data+Science+Journey" alt="Typing SVG" />
 
