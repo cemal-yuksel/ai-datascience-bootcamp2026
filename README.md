@@ -1,410 +1,1216 @@
 <div align="center">
 
-# 🚀 Veri Bilimi ve Makine Öğrenmesi 2026
-## 100 Günlük Bootcamp - Yönetim Bilişim Sistemleri Özel Eğitim Serisi
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Veri+Bilimi+%26+Makine+%C3%96%C4%9Frenmesi+2026;100+G%C3%BCnl%C3%BCk+Elite+Bootcamp;Yapay+Zeka+Destekli+Veri+Bilimi+Yolculu%C4%9Fu" alt="Typing SVG" />
+
+<br/>
+
+# 🎯 **100 Günlük Elite Bootcamp** 
+## 🚀 Sıfırdan Data Scientist'e Dönüşüm Programı
+
+<br/>
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 💡 *Yapay Zekaya Sıfırdan Başlayarak Profesyonel Veri Bilimci Olma Yolculuğu*
+<br/>
 
-**50+ Veri Seti | Gerçek Dünya Projeleri | Kapsamlı Teorik Altyapı | İş Hayatı Odaklı**
+### 💎 **Premium Özellikler**
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/50+-Veri_Seti-blue?style=flat-square" /><br/>
+      <b>Gerçek Dünya Verileri</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/100+-Saat-green?style=flat-square" /><br/>
+      <b>Canlı Kodlama</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/12+-Modül-orange?style=flat-square" /><br/>
+      <b>Kapsamlı Müfredat</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/15+-ML_Algoritma-red?style=flat-square" /><br/>
+      <b>Advanced AI Models</b>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-## 📋 İçindekiler
-
-- [🎯 Kursun Amacı](#-kursun-amacı)
-- [✨ Öne Çıkan Özellikler](#-öne-çıkan-özellikler)
-- [📚 Program İçeriği](#-program-içeriği)
-- [🗺️ Öğrenme Yol Haritası](#️-öğrenme-yol-haritası)
-- [💼 Projeler ve Veri Setleri](#-projeler-ve-veri-setleri)
-- [👥 Kimler İçin Uygun](#-kimler-için-uygun)
-- [🎓 Öğrenme Çıktıları](#-öğrenme-çıktıları)
-- [🛠️ Kullanılan Teknolojiler](#️-kullanılan-teknolojiler)
-- [📖 Kurulum ve Başlangıç](#-kurulum-ve-başlangıç)
-- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
-- [📜 Lisans ve Referanslar](#-lisans-ve-referanslar)
-- [📞 İletişim](#-iletişim)
-
----
-
-## 🎯 Kursun Amacı
-
-Bu eğitim serisi, **Udemy'de 400.000+ öğrenciye ulaşan ve Boğaziçi Üniversitesi Yazılım Eğitmeni Atıl Samancıoğlu** tarafından hazırlanan "Veri Bilimi ve Makine Öğrenmesi 2026: 100 Günlük Kamp" kursundan esinlenerek, **Yönetim Bilişim Sistemleri** müfredatına özel olarak **revize edilmiş ve genişletilmiştir**.
-
-### 🎪 Neden Bu Bootcamp?
-
-- ✅ **Sıfırdan İleri Seviyeye**: Hiçbir ön bilgi gerektirmeden başlayıp profesyonel seviyeye ulaşın
-- ✅ **Teori + Pratik Dengesi**: Her konunun ardındaki matematiksel ve istatistiksel temelleri anlayın
-- ✅ **Gerçek Dünya Uygulamaları**: İş hayatında kullanılan güncel veri bilimi teknikleri
-- ✅ **Mülakat Hazırlığı**: Veri bilimci pozisyonları için profesyonel ipuçları ve sorular
-- ✅ **YBS Odaklı**: İş analitiği, karar destek sistemleri ve stratejik veri yönetimine özel içerikler
-
----
-
-## ✨ Öne Çıkan Özellikler
+### **Neden Bu Bootcamp Diğerlerinden Özel?**
 
 <div align="center">
 
 | 🎯 Özellik | 📝 Açıklama |
-|-----------|-------------|
-| **100 Gün Süre** | Sistematik ve adım adım ilerleyen program |
-| **50+ Veri Seti** | Gerçek dünya problemleri ve çözümleri |
-| **Kapsamlı Makaleler** | Her konu için özel hazırlanmış dokümantasyon |
-| **Canlı Kodlar** | GitHub üzerinden erişilebilir tüm proje kodları |
-| **İnteraktif Notebook'lar** | Jupyter Notebook ile uygulamalı öğrenme |
-| **Kaggle Projeleri** | Yarışma formatında gerçek veri bilimi deneyimi |
-| **SQL Eğitimi** | Veri tabanı yönetimi ve sorgulama teknikleri |
-| **Model Deployment** | Üretilen modellerin gerçek sistemlere entegrasyonu |
+|:-----------|:-----------|
+| ✨ **YBS Özel Revizyonu** | Yönetim Bilişim Sistemleri perspektifiyle hazırlanmış içerik |
+| 🎯 **Kanıtlanmış Metodoloji** | 400,000+ öğrenci tarafından test edilmiş öğrenme yöntemi |
+| 💼 **Gerçek Vaka Analizleri** | İş dünyasından gerçek problemler ve çözümleri |
+| 🏆 **Production Deployment** | Modellerinizi gerçek sistemlere entegre edin |
+| 📊 **Enterprise Analytics** | Kurumsal veri analitiği uygulamaları |
+| 🔥 **2026 AI/ML Trendleri** | En güncel yapay zeka ve ML teknolojileri |
 
 </div>
 
----
-
-## 📚 Program İçeriği
-
-### 🔹 Modül 1: Python Programlama Temelleri (Gün 1-15)
-- Değişkenler, Veri Tipleri ve Operatörler
-- Kontrol Yapıları (if-else, loops)
-- Fonksiyonlar ve Lambda İfadeleri
-- Nesne Yönelimli Programlama (OOP)
-- Hata Yönetimi ve Exception Handling
-- Dosya İşlemleri ve I/O Operations
-
-### 🔹 Modül 2: Veri Bilimi İçin İstatistik ve Matematik (Gün 16-25)
-- Temel İstatistik Kavramları
-- Olasılık Teorisi ve Dağılımlar
-- Merkezi Eğilim ve Dağılım Ölçüleri
-- Korelasyon ve Kovaryans
-- Hipotez Testleri
-- Lineer Cebir Temelleri
-
-### 🔹 Modül 3: NumPy ile Sayısal Hesaplama (Gün 26-30)
-- NumPy Dizileri ve Array Operasyonları
-- Broadcasting ve Vectorization
-- Matematiksel ve İstatistiksel Fonksiyonlar
-- Matris İşlemleri
-- Random Number Generation
-
-### 🔹 Modül 4: Pandas ile Veri Manipülasyonu (Gün 31-40)
-- DataFrame ve Series Yapıları
-- Veri Okuma ve Yazma (CSV, Excel, JSON)
-- Veri Temizleme ve Preprocessing
-- Veri Birleştirme (Merge, Join, Concat)
-- GroupBy ve Aggregation İşlemleri
-- Time Series Analysis
-
-### 🔹 Modül 5: Matplotlib ve Seaborn ile Görselleştirme (Gün 41-48)
-- Temel Grafik Türleri (Line, Bar, Scatter)
-- İstatistiksel Görselleştirmeler
-- Çok Boyutlu Veri Görselleştirme
-- Isı Haritaları (Heatmaps)
-- Profesyonel Grafik Tasarımı
-- Dashboard Oluşturma
-
-### 🔹 Modül 6: Keşifsel Veri Analizi (EDA) (Gün 49-55)
-- Veri Keşif Süreçleri
-- Univariate, Bivariate, Multivariate Analysis
-- Outlier Detection (Aykırı Değer Tespiti)
-- Missing Value Analysis
-- Veri Dağılımı İnceleme
-- İş Problemine Uygun Analizler
-
-### 🔹 Modül 7: Feature Engineering (Özellik Mühendisliği) (Gün 56-63)
-- Feature Extraction (Özellik Çıkarımı)
-- Feature Selection (Özellik Seçimi)
-- Feature Scaling ve Normalization
-- Encoding Teknikleri (Label, One-Hot, Target)
-- Feature Creation
-- Dimensionality Reduction (PCA, LDA)
-
-### 🔹 Modül 8: SQL ve Veri Tabanı Yönetimi (Gün 64-70)
-- SQL Temelleri ve Sorgu Yazımı
-- JOIN İşlemleri
-- Aggregate Functions
-- Subqueries ve Complex Queries
-- Database Design ve Normalization
-- Python ile Database Connection
-
-### 🔹 Modül 9: Makine Öğrenmesi Temelleri (Gün 71-75)
-- Machine Learning Nedir?
-- Gözetimli vs Gözetimsiz Öğrenme
-- Model Eğitim Süreci
-- Train-Test Split ve Cross Validation
-- Overfitting ve Underfitting
-- Model Performans Metrikleri
-
-### 🔹 Modül 10: Gözetimli Öğrenme Algoritmaları (Gün 76-88)
-#### Regresyon Algoritmaları:
-- Linear Regression
-- Polynomial Regression
-- Ridge & Lasso Regression
-- Decision Trees
-- Random Forest
-- Gradient Boosting (XGBoost, LightGBM, CatBoost)
-- Support Vector Regression (SVR)
-
-#### Sınıflandırma Algoritmaları:
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Random Forest
-- Support Vector Machines (SVM)
-- Naive Bayes
-- Ensemble Methods
-
-### 🔹 Modül 11: Gözetimsiz Öğrenme Algoritmaları (Gün 89-93)
-- K-Means Clustering
-- Hierarchical Clustering
-- DBSCAN
-- Principal Component Analysis (PCA)
-- Association Rule Learning
-- Anomaly Detection
-
-### 🔹 Modül 12: Model Deployment ve İş Hayatı (Gün 94-100)
-- Model Kaydetme (Pickle, Joblib)
-- Model Versiyonlama
-- API Geliştirme (Flask/FastAPI)
-- Cloud Deployment (AWS, Azure, GCP)
-- MLOps Best Practices
-- Kaggle Yarışmalarına Hazırlık
-- Veri Bilimci Mülakat Teknikleri
+<br/>
 
 ---
 
-## 🗺️ Öğrenme Yol Haritası
+</div>
 
-```mermaid
-graph LR
-    A[Python Temelleri] --> B[İstatistik & Matematik]
-    B --> C[NumPy]
-    C --> D[Pandas]
-    D --> E[Görselleştirme]
-    E --> F[EDA]
-    F --> G[Feature Engineering]
-    G --> H[SQL]
-    H --> I[ML Temelleri]
-    I --> J[Gözetimli Öğrenme]
-    I --> K[Gözetimsiz Öğrenme]
-    J --> L[Model Deployment]
-    K --> L
-    L --> M[🎓 Veri Bilimci]
-    
-    style A fill:#3776AB
-    style M fill:#FF6F00
-```
-
-### 📊 Zorluk Seviyeleri
-
-```
-Gün 1-15   : 🟢 Başlangıç
-Gün 16-40  : 🟡 Temel
-Gün 41-70  : 🟠 Orta
-Gün 71-88  : 🔴 İleri
-Gün 89-100 : 🟣 Uzman
-```
-
----
-
-## 💼 Projeler ve Veri Setleri
-
-### 🎯 Ana Projeler
-
-| # | Proje Adı | Teknikler | Seviye |
-|---|-----------|-----------|--------|
-| 1 | **Müşteri Segmentasyonu** | K-Means, PCA, EDA | 🟠 Orta |
-| 2 | **Ev Fiyat Tahmini** | Linear Regression, Random Forest | 🟡 Temel |
-| 3 | **Kredi Riski Analizi** | Logistic Regression, XGBoost | 🔴 İleri |
-| 4 | **Satış Tahmin Sistemi** | Time Series, ARIMA, Prophet | 🔴 İleri |
-| 5 | **Müşteri Churn Analizi** | Feature Engineering, Ensemble | 🟠 Orta |
-| 6 | **Doğal Dil İşleme (Sentiment Analysis)** | NLP, Text Mining | 🟣 Uzman |
-| 7 | **Görüntü Sınıflandırma** | CNN, Transfer Learning | 🟣 Uzman |
-| 8 | **Öneri Sistemi** | Collaborative Filtering | 🔴 İleri |
-| 9 | **Fraud Detection** | Anomaly Detection, Imbalanced Data | 🟣 Uzman |
-| 10 | **A/B Test Analizi** | İstatistiksel Testler, Hipotez | 🟠 Orta |
-
-### 📂 Veri Setleri (50+)
-
-Kurs boyunca kullanılan veri setleri şu kategorilerde:
-- 🏦 **Finans**: Kredi verileri, hisse senedi fiyatları, bankacılık verileri
-- 🏪 **E-ticaret**: Müşteri verileri, satış kayıtları, ürün analitiği
-- 🏥 **Sağlık**: Hasta verileri, hastalık tahminleri, klinik çalışmalar
-- 🏠 **Emlak**: Ev fiyatları, lokasyon verileri, pazar analizleri
-- 🚗 **Otomotiv**: Araç fiyatları, yakıt tüketimi, satış verileri
-- 📱 **Telekomünikasyon**: Müşteri kayıp analizi, network verileri
-- 🎬 **Eğlence**: Film önerileri, kullanıcı yorumları, rating verileri
-
----
-
-## 👥 Kimler İçin Uygun
+##  **İçerik Navigasyonu**
 
 <div align="center">
 
-### ✅ Bu Bootcamp Sizin İçin İdeal Eğer:
+| 📌 Bölüm | 🎯 İçerik |
+|:--------:|:----------|
+| **[🎯 Bootcamp Hakkında](#-bootcamp-hakkında)** | Vizyonumuz, Farklarımız, Hedeflerimiz |
+| **[✨ Premium Özellikler](#-premium-özellikler-ve-avantajlar)** | Benzersiz Eğitim Deneyimi |
+| **[📚 Müfredat Detayları](#-12-modüllük-kapsamlı-müfredat)** | 100 Günlük Yol Haritası |
+| **[🗺️ Öğrenme Rotası](#️-görsel-öğrenme-yol-haritası)** | Adım Adım İlerleme Planı |
+| **[💼 Elite Projeler](#-elite-düzey-projeler--portfolyo)** | 10 Profesyonel Proje |
+| **[👥 Hedef Kitle](#-bu-bootcamp-kimler-için)** | İdeal Katılımcı Profili |
+| **[🏆 Kazanımlar](#-bootcamp-tamamlama-kazanımları)** | Kariyer Dönüşümünüz |
+| **[🛠️ Teknoloji Stack](#️-kullanılan-teknolojiler-ve-araçlar)** | Modern ML/AI Araçları |
+| **[📖 Kurulum](#-hızlı-başlangıç-rehberi)** | 4 Adımda Başlayın |
+| **[🤝 Topluluk](#-topluluk-ve-katkıda-bulunma)** | Birlikte Gelişelim |
+| **[📜 Referanslar](#-lisans-ve-akademik-referanslar)** | Kaynak ve Teşekkürler |
+| **[📞 Bağlantı](#-iletişim-ve-sosyal-medya)** | İletişim Kanalları |
 
 </div>
 
-- 🎓 **Yönetim Bilişim Sistemleri** öğrencisi veya mezunusanız
-- 💼 **İş Analisti** veya **Veri Analisti** olmak istiyorsanız
-- 🐍 **Python** öğrenmek ve veri bilimi alanında uzmanlaşmak istiyorsanız
-- 🤖 **Yapay Zeka** ve **Makine Öğrenmesi** konularına ilgi duyuyorsanız
-- 📊 **Veri odaklı karar verme** süreçlerini öğrenmek istiyorsanız
-- 🚀 Kariyer değişikliği yaparak **Veri Bilimci** olmak istiyorsanız
-- 🎯 **Kaggle** yarışmalarına katılmak istiyorsanız
-- 📈 Şirketinizde **veri analitiği** yapısı kurmak istiyorsanız
-- 🏢 **İş Zekası (BI)** ve **Karar Destek Sistemleri** konularında derinleşmek istiyorsanız
-
 ---
 
-## 🎓 Öğrenme Çıktıları
+<br/>
 
-Bu bootcamp'i tamamladığınızda:
-
-### 🔷 Teknik Beceriler
-- ✅ Python programlama dilinde ileri seviye yetkinlik
-- ✅ Numpy, Pandas, Matplotlib, Seaborn kütüphanelerinde uzmanlaşma
-- ✅ İstatistik ve matematik temellerini veri biliminde uygulama
-- ✅ EDA ve Feature Engineering tekniklerini profesyonel düzeyde kullanma
-- ✅ SQL ile veri tabanı yönetimi ve complex query yazma
-- ✅ 15+ makine öğrenmesi algoritmasını anlama ve uygulama
-- ✅ Model performans değerlendirme ve optimizasyon
-- ✅ Modelleri production ortamına deployment etme
-
-### 🔷 İş Hayatı Becerileri
-- ✅ Gerçek iş problemlerini veri bilimi ile çözme
-- ✅ İş değeri yaratan veri analitiği projeleri geliştirme
-- ✅ Teknik olmayan kişilere veri analizlerini sunma
-- ✅ Veri bilimci pozisyonları için mülakatlara hazır olma
-- ✅ Kaggle yarışmalarına katılabilme
-- ✅ Profesyonel GitHub portfolyosu oluşturma
-
-### 🔷 Sertifikasyon ve Kariyer
-- ✅ Bootcamp tamamlama sertifikası
-- ✅ Veri Bilimci, Machine Learning Engineer pozisyonlarına başvuru
-- ✅ İş Analisti, Data Analyst pozisyonlarında ileri seviye fark yaratma
-- ✅ Freelance veri bilimi projeleri alabilme
-
----
-
-## 🛠️ Kullanılan Teknolojiler
+## 🎯 **Bootcamp Hakkında**
 
 <div align="center">
 
-### 📚 Kütüphaneler ve Framework'ler
+### 🌟 **Veri Biliminde Yeni Bir Çağ**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337ab7?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+</div>
 
-### ☁️ Platform ve Araçlar
 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎪 **Neden Bu Bootcamp Özel?**
+
+```yaml
+🎯 Sıfırdan Elite Seviyeye:
+  - Hiçbir ön bilgi gerektirmeyen müfredat
+  - Her seviye için optimize edilmiş içerik
+  - Kademeli zorluk artışı ile öğrenme
+  
+💡 Teori + Pratik Mükemmelliği:
+  - Matematiksel temellerin derinlemesine analizi
+  - Her konsept için gerçek dünya uygulaması
+  - İstatistiksel düşünme yeteneği kazandırma
+  
+🚀 Endüstri Standartları:
+  - Fortune 500 şirketlerinde kullanılan teknikler
+  - Production-ready kod yazma becerileri
+  - Enterprise düzey veri yönetimi
+
+```
+
+</td>
+<td width="50%">
+
+### 🎖️ **YBS Özel Avantajları**
+
+```yaml
+📊 Business Analytics Odaklı:
+  - İş problemlerini veri ile çözme
+  - ROI odaklı model geliştirme
+  - Stakeholder communication teknikleri
+  
+🏢 Enterprise Data Management:
+  - Kurumsal veri mimarisi prensipleri
+  - Data Governance ve Data Quality
+  - Büyük ölçekli veri işleme stratejileri
+  
+💼 Karar Destek Sistemleri:
+  - BI Dashboard geliştirme
+  - KPI tasarımı ve metrik belirleme
+  - Predictive Analytics ile stratejik planlama
+  
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+## ✨ **Premium Özellikler ve Avantajlar**
+
+<div align="center">
+
+### 💎 **Dünya Standardında Eğitim Deneyimi**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏆 **Özellik** | 📊 **Değer** | 💡 **Açıklama** |
+|:---------------|:-------------|:----------------|
+| **📅 Program Süresi** | `100 Gün` | Sistematik, adım adım öğrenme garantisi |
+| **📦 Veri Seti Havuzu** | `50+ Dataset` | Finans, E-ticaret, Sağlık, Emlak sektörlerinden gerçek veriler |
+| **📚 Kapsamlı Ders Anlatım Notebookları** | `100+ Döküman` | Her konu için özel hazırlanmış from zero to hero konseptinde konu anlatımların yer aldığı notebooklar |
+| **💻 Canlı Kod Örnekleri** | `200+ Kod Bloğu` | GitHub üzerinden erişilebilir production-ready kodlar |
+| **📓 Jupyter Notebook** | `150+ Notebook` | İnteraktif, hands-on öğrenme deneyimi |
+| **🗄️ SQL Mastery** | `Advanced Level` | Complex query yazımı ve database optimization |
+| **🚀 Model Deployment** | `MLOps Pipeline` | AWS/Azure/GCP üzerinde production deployment |
+| **🎯 ML Algoritmaları** | `15+ Algorithm` | Regression, Classification, Clustering, Ensemble Methods |
+| **📈 Time Series** | `Forecasting` | ARIMA, Prophet, Seasonal Decomposition |
+| **🤖 NLP Fundamentals** | `Text Analytics` | Sentiment Analysis, Topic Modeling, Text Classification |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📚 **12 Modüllük Kapsamlı Müfredat**
+
+<div align="center">
+
+### 🎓 **Akademik Mükemmellik ile Endüstri Uygulamaları**
+
+</div>
+
+
+<br/>
+
+<details open>
+<summary><b>🔷 Modül 1: Python Programming Fundamentals</b> <code>Gün 1-15</code> <code>🟢 Başlangıç</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Python'un temellerinden nesne yönelimli programlamaya kadar kapsamlı bilgi
+
+### 📖 **İçerik**
+- ✅ **Variables & Data Types**: `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`
+- ✅ **Control Flow**: `if-elif-else`, `for`, `while`, `break`, `continue`, `pass`
+- ✅ **Functions**: `def`, `lambda`, `args`, `kwargs`, `decorators`, `generators`
+- ✅ **OOP Concepts**: `class`, `inheritance`, `polymorphism`, `encapsulation`, `abstraction`
+- ✅ **Exception Handling**: `try-except-finally`, `raise`, `custom exceptions`
+- ✅ **File Operations**: `open()`, `read()`, `write()`, `with statement`, `json`, `csv`
+- ✅ **Advanced Topics**: `list comprehension`, `map()`, `filter()`, `reduce()`, `zip()`
+
+### 🎯 **Mini Projeler**
+- 📝 To-Do List Uygulaması
+- 🎲 Sayı Tahmin Oyunu
+- 📊 Basit Veri Analizi Scripti
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 2: Statistics & Mathematics for AI</b> <code>Gün 16-25</code> <code>🟡 Temel</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Veri bilimi için gerekli matematiksel ve istatistiksel altyapı
+
+### 📖 **İçerik**
+- ✅ **Descriptive Statistics**: Mean, Median, Mode, Variance, Standard Deviation
+- ✅ **Probability Theory**: Probability distributions (Normal, Binomial, Poisson)
+- ✅ **Inferential Statistics**: Hypothesis testing, p-value, confidence intervals
+- ✅ **Correlation Analysis**: Pearson, Spearman correlation coefficients
+- ✅ **Linear Algebra**: Vectors, matrices, eigenvalues, eigenvectors
+- ✅ **Calculus Basics**: Derivatives, gradients (for ML optimization)
+
+### 🎯 **Uygulamalar**
+- 📊 İstatistiksel veri analizi
+- 🔬 Hipotez testi senaryoları
+- 🎲 Monte Carlo simülasyonları
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 3: NumPy - Numerical Computing</b> <code>Gün 26-30</code> <code>🟡 Temel</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Yüksek performanslı sayısal hesaplama ve array işlemleri
+
+### 📖 **İçerik**
+- ✅ **Array Creation**: `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, `np.linspace()`
+- ✅ **Array Operations**: Indexing, slicing, reshaping, stacking
+- ✅ **Broadcasting**: Efficient array operations without loops
+- ✅ **Mathematical Functions**: `np.sum()`, `np.mean()`, `np.std()`, `np.dot()`
+- ✅ **Random Module**: `np.random.rand()`, `np.random.randn()`, `np.random.choice()`
+- ✅ **Linear Algebra**: `np.linalg.inv()`, `np.linalg.det()`, `np.linalg.eig()`
+
+### 🎯 **Performance Tips**
+- ⚡ Vectorization techniques
+- 🚀 Memory-efficient operations
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 4: Pandas - Data Manipulation Master</b> <code>Gün 31-40</code> <code>🟠 Orta</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Profesyonel seviye veri manipülasyonu ve analiz
+
+### 📖 **İçerik**
+- ✅ **Data Structures**: `DataFrame`, `Series`, `Index`
+- ✅ **I/O Operations**: CSV, Excel, JSON, SQL, Parquet
+- ✅ **Data Cleaning**: Missing values, duplicates, outliers
+- ✅ **Data Transformation**: `apply()`, `map()`, `applymap()`, `transform()`
+- ✅ **Merging Data**: `merge()`, `join()`, `concat()`, `append()`
+- ✅ **GroupBy**: `groupby()`, `agg()`, `transform()`, `filter()`
+- ✅ **Time Series**: `datetime`, `resample()`, `rolling()`, `shift()`
+- ✅ **Advanced Indexing**: `loc[]`, `iloc[]`, `query()`, `MultiIndex`
+
+### 🎯 **Real-World Scenarios**
+- 🏪 E-commerce data analysis
+- 📈 Financial time series
+- 👥 Customer segmentation prep
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 5: Data Visualization Excellence</b> <code>Gün 41-48</code> <code>🟠 Orta</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Storytelling with data - İmpactful görselleştirme teknikleri
+
+### 📖 **İçerik**
+- ✅ **Matplotlib**: `plot()`, `scatter()`, `bar()`, `hist()`, `subplots()`
+- ✅ **Seaborn**: `distplot()`, `boxplot()`, `heatmap()`, `pairplot()`, `catplot()`
+- ✅ **Advanced Plots**: Violin plots, swarm plots, joint plots
+- ✅ **Customization**: Colors, styles, themes, annotations
+- ✅ **3D Visualization**: 3D scatter, surface plots
+- ✅ **Interactive Plots**: Plotly basics
+
+### 🎯 **Visualization Projects**
+- 📊 Executive dashboard creation
+- 📈 Financial market analysis
+- 🗺️ Geospatial data visualization
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 6: Exploratory Data Analysis (EDA)</b> <code>Gün 49-55</code> <code>🟠 Orta</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Veriden insight çıkarma sanatı
+
+### 📖 **İçerik**
+- ✅ **Data Profiling**: `info()`, `describe()`, `value_counts()`
+- ✅ **Univariate Analysis**: Single variable exploration
+- ✅ **Bivariate Analysis**: Relationship between two variables
+- ✅ **Multivariate Analysis**: Multiple variable interactions
+- ✅ **Outlier Detection**: IQR method, Z-score, Isolation Forest
+- ✅ **Missing Value Analysis**: MCAR, MAR, MNAR patterns
+- ✅ **Distribution Analysis**: Normality tests, QQ plots
+
+### 🎯 **Industry Applications**
+- 🏦 Credit risk assessment EDA
+- 🏥 Medical data exploration
+- 🚗 Automotive sales analysis
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 7: Feature Engineering Mastery</b> <code>Gün 56-63</code> <code>🔴 İleri</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Model performansını artıran özellik mühendisliği teknikleri
+
+### 📖 **İçerik**
+- ✅ **Feature Extraction**: Creating new features from existing data
+- ✅ **Feature Selection**: `SelectKBest`, `RFE`, `RFECV`, Feature Importance
+- ✅ **Feature Scaling**: `StandardScaler`, `MinMaxScaler`, `RobustScaler`
+- ✅ **Encoding**: `LabelEncoder`, `OneHotEncoder`, `TargetEncoder`, `FrequencyEncoder`
+- ✅ **Dimensionality Reduction**: `PCA`, `LDA`, `t-SNE`, `UMAP`
+- ✅ **Feature Interaction**: Polynomial features, feature crosses
+- ✅ **Binning**: Equal-width, equal-frequency, custom binning
+
+### 🎯 **Advanced Techniques**
+- 🧬 Genetic algorithms for feature selection
+- 🤖 AutoML feature engineering
+- 📊 Domain-specific feature creation
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 8: SQL & Database Management</b> <code>Gün 64-70</code> <code>🟠 Orta</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Enterprise-level database yönetimi ve optimizasyon
+
+### 📖 **İçerik**
+- ✅ **SQL Fundamentals**: `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`
+- ✅ **JOIN Operations**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, `CROSS JOIN`
+- ✅ **Aggregate Functions**: `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()`
+- ✅ **Subqueries**: Correlated subqueries, nested queries
+- ✅ **Window Functions**: `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`
+- ✅ **CTE**: Common Table Expressions for complex queries
+- ✅ **Database Design**: Normalization (1NF, 2NF, 3NF), ER diagrams
+- ✅ **Python Integration**: `sqlite3`, `sqlalchemy`, `psycopg2`
+
+### 🎯 **Real Database Projects**
+- 🏪 E-commerce database design
+- 📊 Data warehouse structure
+- 🔍 Query optimization challenges
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 9: Machine Learning Foundations</b> <code>Gün 71-75</code> <code>🔴 İleri</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+ML kavramları, workflow ve best practices
+
+### 📖 **İçerik**
+- ✅ **ML Basics**: Supervised vs Unsupervised vs Reinforcement
+- ✅ **Training Process**: Data split, model training, evaluation
+- ✅ **Cross Validation**: K-Fold, Stratified K-Fold, Time Series Split
+- ✅ **Bias-Variance Tradeoff**: Overfitting, underfitting solutions
+- ✅ **Performance Metrics**: Accuracy, Precision, Recall, F1-Score, AUC-ROC
+- ✅ **Hyperparameter Tuning**: Grid Search, Random Search, Bayesian Optimization
+
+### 🎯 **Practical Foundations**
+- 🎯 Model selection strategies
+- 📊 Performance evaluation frameworks
+- ⚙️ Pipeline construction
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 10: Supervised Learning Algorithms</b> <code>Gün 76-88</code> <code>🔴 İleri</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Regression & Classification algoritmaları master
+
+### 📖 **Regression Algorithms**
+- ✅ Linear Regression (OLS, Ridge, Lasso, ElasticNet)
+- ✅ Polynomial Regression
+- ✅ Decision Tree Regressor
+- ✅ Random Forest Regressor
+- ✅ Gradient Boosting (XGBoost, LightGBM, CatBoost)
+- ✅ Support Vector Regression (SVR)
+
+### 📖 **Classification Algorithms**
+- ✅ Logistic Regression
+- ✅ K-Nearest Neighbors (KNN)
+- ✅ Decision Tree Classifier
+- ✅ Random Forest Classifier
+- ✅ Support Vector Machines (SVM)
+- ✅ Naive Bayes (Gaussian, Multinomial, Bernoulli)
+- ✅ Ensemble Methods (Bagging, Boosting, Stacking)
+
+### 🎯 **Competition-Level Projects**
+- 🏆 Kaggle house price prediction
+- 💳 Credit card fraud detection
+- 🏥 Disease prediction system
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 11: Unsupervised Learning</b> <code>Gün 89-93</code> <code>🟣 Uzman</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Clustering, dimensionality reduction ve pattern discovery
+
+### 📖 **İçerik**
+- ✅ **Clustering**: K-Means, Hierarchical, DBSCAN, Mean Shift
+- ✅ **Dimensionality Reduction**: PCA, LDA, t-SNE, UMAP
+- ✅ **Association Rules**: Apriori, FP-Growth (Market Basket Analysis)
+- ✅ **Anomaly Detection**: Isolation Forest, One-Class SVM, LOF
+
+### 🎯 **Business Applications**
+- 👥 Customer segmentation
+- 🔍 Anomaly detection in transactions
+- 📊 Market basket analysis
+
+</details>
+
+<details>
+<summary><b>🔷 Modül 12: MLOps & Production Deployment</b> <code>Gün 94-100</code> <code>🟣 Uzman</code></summary>
+
+<br/>
+
+### 📚 **Öğrenme Hedefleri**
+Production-ready ML sistemleri geliştirme
+
+### 📖 **İçerik**
+- ✅ **Model Serialization**: Pickle, Joblib, ONNX
+- ✅ **Model Versioning**: MLflow, DVC
+- ✅ **API Development**: Flask, FastAPI, Docker
+- ✅ **Cloud Deployment**: AWS SageMaker, Azure ML, GCP AI Platform
+- ✅ **Monitoring**: Model drift, performance tracking
+- ✅ **CI/CD**: GitHub Actions, Jenkins for ML
+- ✅ **MLOps Best Practices**: Reproducibility, scalability
+
+### 🎯 **Capstone Project**
+- 🚀 End-to-end ML pipeline deployment
+- ☁️ Cloud-based production system
+- 📊 Real-time monitoring dashboard
+
+</details>
+
+---
+
+<br/>
+
+## 🗺️ **Görsel Öğrenme Yol Haritası**
+
+
+<div align="center">
+
+### 🎯 **100 Günlük Dönüşüm Yolculuğu**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/python.png" width="64"/><br/>
+<b>🐍 Python</b><br/>
+<b>Temelleri</b><br/>
+<sub>Gün 1-15</sub><br/>
+<code>15 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/statistics.png" width="64"/><br/>
+<b>📊 İstatistik &</b><br/>
+<b>Matematik</b><br/>
+<sub>Gün 16-25</sub><br/>
+<code>10 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/module.png" width="64"/><br/>
+<b>🔢 NumPy</b><br/>
+<b>Hesaplama</b><br/>
+<sub>Gün 26-30</sub><br/>
+<code>5 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/panda.png" width="64"/><br/>
+<b>🐼 Pandas</b><br/>
+<b>Uzmanlığı</b><br/>
+<sub>Gün 31-40</sub><br/>
+<code>10 gün</code>
+</td>
+</tr>
+</table>
+
+<div align="center"><b>⬇️</b></div>
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/combo-chart.png" width="64"/><br/>
+<b>📈 Veri</b><br/>
+<b>Görselleştirme</b><br/>
+<sub>Gün 41-48</sub><br/>
+<code>8 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/search.png" width="64"/><br/>
+<b>🔍 Keşifsel</b><br/>
+<b>Veri Analizi</b><br/>
+<sub>Gün 49-55</sub><br/>
+<code>7 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/settings.png" width="64"/><br/>
+<b>⚙️ Özellik</b><br/>
+<b>Mühendisliği</b><br/>
+<sub>Gün 56-63</sub><br/>
+<code>8 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="10%">
+<img src="https://img.icons8.com/fluency/96/000000/database.png" width="64"/><br/>
+<b>🗄️ SQL &</b><br/>
+<b>Veritabanı</b><br/>
+<sub>Gün 64-70</sub><br/>
+<code>7 gün</code>
+</td>
+</tr>
+</table>
+
+<div align="center"><b>⬇️</b></div>
+
+<table>
+<tr>
+<td align="center" width="15%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/><br/>
+<b>🤖 Makine Öğrenmesi</b><br/>
+<b>Temelleri</b><br/>
+<sub>Gün 71-75</sub><br/>
+<code>5 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="15%">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="80"/><br/>
+<b>🎯 Gözetimli</b><br/>
+<b>Öğrenme</b><br/>
+<sub>Gün 76-88</sub><br/>
+<code>13 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="15%">
+<img src="https://img.icons8.com/fluency/96/000000/puzzle.png" width="80"/><br/>
+<b>🧩 Gözetimsiz</b><br/>
+<b>Öğrenme</b><br/>
+<sub>Gün 89-93</sub><br/>
+<code>5 gün</code>
+</td>
+<td align="center" width="2%">
+<b>➜</b>
+</td>
+<td align="center" width="15%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/><br/>
+<b>🚀 MLOps &</b><br/>
+<b>Dağıtım</b><br/>
+<sub>Gün 94-100</sub><br/>
+<code>7 gün</code>
+</td>
+</tr>
+</table>
+
+<div align="center"><b>⬇️</b></div>
+
+<div align="center">
+<img src="https://img.icons8.com/fluency/128/000000/trophy.png" width="100"/><br/>
+<h2>🏆 <b>Veri Bilimci</b> 🏆</h2>
+<sub>100 Günlük Yolculuğun Tamamlandı!</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 **Zorluk Seviyesi İlerlemesi**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/İlerleme-20%25-success?style=for-the-badge" /><br/>
+<b>Gün 1-15</b><br/>
+🟢 <code>Başlangıç Dostu</code><br/>
+<sub>Python Temelleri</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/İlerleme-40%25-yellow?style=for-the-badge" /><br/>
+<b>Gün 16-40</b><br/>
+🟡 <code>Temel Seviye</code><br/>
+<sub>Matematik, NumPy, Pandas</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/İlerleme-60%25-orange?style=for-the-badge" /><br/>
+<b>Gün 41-70</b><br/>
+🟠 <code>Orta Seviye</code><br/>
+<sub>EDA, Görselleştirme, SQL</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/İlerleme-80%25-red?style=for-the-badge" /><br/>
+<b>Gün 71-88</b><br/>
+🔴 <code>İleri Seviye</code><br/>
+<sub>ML Algoritmaları</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/İlerleme-100%25-blueviolet?style=for-the-badge" /><br/>
+<b>Gün 89-100</b><br/>
+🟣 <code>Uzman Seviye</code><br/>
+<sub>MLOps, Dağıtım</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+
+---
+
+<br/>
+
+## 💼 **Elite Düzey Projeler & Portfolyo**
+
+<div align="center">
+
+### 🏆 **10 Profesyonel Düzey Endüstri Projesi**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏅 **Kademe 1: Temel Projeler**
+
+| 🎯 | **Proje** | **Teknolojiler** | **Seviye** |
+|:--:|:----------|:----------|:---------:|
+| 1️⃣ | **🏠 Ev Fiyat Tahmini** | Doğrusal Reg, RF, Özellik Müh. | 🟡 |
+| 2️⃣ | **👥 Müşteri Segmentasyonu** | K-Means, PCA, KVA, Görselleştirme | 🟠 |
+| 3️⃣ | **📊 A/B Test Çerçevesi** | İstatistik Testler, Hipotez | 🟠 |
+| 4️⃣ | **🛒 Pazar Sepeti Analizi** | Apriori, FP-Growth, Kurallar | 🟠 |
+
+### **Temel Kazanımlar**
+✅ Uçtan uca ML süreçleri<br/>
+✅ Özellik mühendisliği uzmanlığı<br/>
+✅ İstatistiksel düşünme<br/>
+✅ İş problemlerini çözme
+
+</td>
+<td width="50%">
+
+### 🚀 **Kademe 2: İleri Seviye Projeler**
+
+| 🎯 | **Proje** | **Teknolojiler** | **Seviye** |
+|:--:|:----------|:----------|:---------:|
+| 5️⃣ | **💳 Kredi Riski Modelleme** | XGBoost, SMOTE, Kalibrasyon | 🔴 |
+| 6️⃣ | **📈 Satış Tahmin Sistemi** | ARIMA, Prophet, LSTM | 🔴 |
+| 7️⃣ | **🔄 Müşteri Kaybı Tahmini** | Ensemble, Hiperparametre Ayarlama | 🔴 |
+| 8️⃣ | **🎬 Öneri Motoru** | Işbirlikçi Filtreleme, ALS | 🔴 |
+
+### **İleri Seviye Beceriler**
+🎯 Dengesiz veri işleme<br/>
+🎯 Zaman serisi tahmini<br/>
+🎯 Derin öğrenme girişi<br/>
+🎯 Üretim ortamına dağıtım
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 💎 **Kademe 3: Uzman Seviye Bitirme Projeleri**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/financial-growth-analysis.png" width="64"/><br/>
+<b>9️⃣ Dolandırıcılık Tespit Sistemi</b><br/>
+<code>Anomali Tespiti • Isolation Forest • SMOTE</code><br/>
+🟣 <b>Uzman Seviye</b><br/>
+<sub>%99 doğrulukla gerçek zamanlı dolandırıcılık tespiti</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/chat.png" width="64"/><br/>
+<b>🔟 Doğal Dil İşleme Duygu Analizi</b><br/>
+<code>BERT • Transformers • Metin Madenciliği</code><br/>
+🟣 <b>Uzman Seviye</b><br/>
+<sub>Çok dilli duygu sınıflandırması</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/deployment.png" width="64"/><br/>
+<b>🎁 MLOps Hattı</b><br/>
+<code>Docker • Kubernetes • CI/CD</code><br/>
+🟣 <b>Uzman Seviye</b><br/>
+<sub>Üretim sınıfı dağıtım sistemi</sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📂 **50+ Düzenlenmiş Veri Seti**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/bank-building.png" width="48"/><br/>
+<b>🏦 Finans</b><br/>
+<sub>• Kredi Skorlama<br/>• Borsa Piyasası<br/>• Bankacılık Analitiği<br/>• Dolandırıcılık Tespiti</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/shopping-cart.png" width="48"/><br/>
+<b>🛒 E-Ticaret</b><br/>
+<sub>• Müşteri Davranışı<br/>• Satış Tahmini<br/>• Ürün Analitiği<br/>• Müşteri Kaybı Tahmini</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/hospital.png" width="48"/><br/>
+<b>🏥 Sağlık</b><br/>
+<sub>• Hastalık Tahmini<br/>• Hasta Kayıtları<br/>• Klinik Çalışmalar<br/>• Tıbbi Görüntüleme</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/home.png" width="48"/><br/>
+<b>🏠 Emlak</b><br/>
+<sub>• Fiyat Tahmini<br/>• Lokasyon Analizi<br/>• Pazar Trendleri<br/>• Yatırım Getirisi</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/car.png" width="48"/><br/>
+<b>🚗 Otomotiv</b><br/>
+<sub>• Araç Fiyatlaması<br/>• Yakıt Verimliliği<br/>• Satış Tahmini<br/>• Pazar Analizi</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/phone.png" width="48"/><br/>
+<b>📱 Telekomünikasyon</b><br/>
+<sub>• Müşteri Kaybı Analizi<br/>• Ağ Verileri<br/>• Kullanım Örüntüleri<br/>• Müşteri Yaşam Değeri</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/movie.png" width="48"/><br/>
+<b>🎬 Eğlence</b><br/>
+<sub>• Öneri Sistemleri<br/>• Duygu Analizi<br/>• Puan Tahmini<br/>• İçerik Analitiği</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/social-media.png" width="48"/><br/>
+<b>📱 Sosyal Medya</b><br/>
+<sub>• Kullanıcı Analitiği<br/>• Etkileşim Metrikleri<br/>• Trend Analizi<br/>• Etki Skorlaması</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📖 Kurulum ve Başlangıç
+<br/>
 
-### 🔧 Gereksinimler
+## 👥 **Bu Bootcamp Kimler İçin?**
 
-```bash
-Python 3.11+
-Anaconda, VSCode, veya Miniconda
-Jupyter Notebook veya JupyterLab
-Git
+<div align="center">
+
+### 🎯 **İdeal Katılımcı Profilleri**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ **Bu Program Sizin İçin İdeal Eğer:**
+
+```yaml
+🎓 Eğitim Durumu:
+  - Yönetim Bilişim Sistemleri öğrencisi
+  - Mühendislik fakültesi öğrencisi
+  - İktisat/İşletme mezunu
+  - Self-learner / Otodidakt
+  
+💼 Kariyer Hedefleri:
+  - Data Scientist olmak
+  - Machine Learning Engineer
+  - Data Analyst / Business Analyst
+  - AI Engineer pozisyonları
+  - Freelance veri bilimci
+  
+🔬 Teknik İlgi Alanları:
+  - Python programlama
+  - Yapay zeka ve makine öğrenmesi
+  - Büyük veri analizleri
+  - İstatistik ve matematik
+  - Veri görselleştirme
+  
+🎯 Kişisel Özellikler:
+  - Analitik düşünme yeteneği
+  - Problem çözme tutkusu
+  - Sürekli öğrenme isteği
+  - Detaylara dikkat
+  - Sabır ve azim
 ```
 
-### 📥 Kurulum Adımları
+</td>
+<td width="50%">
 
-1️⃣ **Repository'yi Klonlayın**
-```bash
-git clone https://github.com/[kullanici-adiniz]/veri-bilimi-makine-ogrenmesi-2026.git
-cd veri-bilimi-makine-ogrenmesi-2026
+### 🚀 **Kariyer Dönüşümü Yapanlar İçin:**
+
+```yaml
+🔄 Transition Scenarios:
+  - Farklı sektörden tech'e geçiş
+  - Excel'den Python'a evrilme
+  - Manuel analizden automation'a
+  - BI tool'lardan ML'e geçiş
+  - Academic'ten industry'ye adım
+  
+🏛️ Profesyonel Gereksinimler:
+  - Şirkette veri analytics kurma
+  - Mevcut role AI yetenekleri ekleme
+  - Freelance projeler almak
+  - Startup kurmayı hedefleme
+  - Akademik araştırma yapmak
+  
+🏆 Yükselme Hedefleri:
+  - Senior positions
+  - Team lead / Manager
+  - Chief Data Officer (CDO)
+  - ML/AI consultant
+  - Kaggle Competitions Master
+  
+⚠️ Ön Koşul:
+  - Temel bilgisayar kullanımı bilgisi
+  - İngilizce teknik doküman okuma
+  - Matematik temelleri (lise seviyesi yeterli)
+  - Haftalık 10-15 saat zaman ayırabilme
 ```
 
-2️⃣ **Sanal Ortam Oluşturun**
-```bash
-conda create -n veri_bilimi python=3.11
-conda activate veri_bilimi
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+
+---
+
+
+<br/>
+
+## 🛠️ **Kullanılan Teknolojiler ve Araçlar**
+
+<div align="center">
+
+### 🎨 **Modern Data Science Tech Stack**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 **Core Python Ecosystem**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 📊 **Visualization & Analytics**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🤖 **Machine Learning Frameworks**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337ab7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+
+### 🧠 **Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🗄️ **Data & Database**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ **Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 **Development Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🚀 **Deployment & API**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 📚 **Learning Platforms**
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+## 📖 **Hızlı Başlangıç Rehberi**
+
+<div align="center">
+
+### ⚡ **4 Adımda Başlayın**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 **Sistem Gereksinimleri**
+
+```yaml
+💻 İşletim Sistemi:
+  - Windows 10/11
+  - macOS 10.15+
+  - Linux (Ubuntu 20.04+)
+
+🐍 Python:
+  - Version: 3.11 veya üzeri
+  - Anaconda Distribution önerili
+
+💾 Disk Alanı:
+  - Minimum: 10 GB
+  - Önerilen: 20 GB+
+
+🧠 RAM:
+  - Minimum: 8 GB
+  - Önerilen: 16 GB+
+
+🌐 İnternet:
+  - Stabil bağlantı
+  - Veri setleri için
 ```
 
-3️⃣ **Gerekli Kütüphaneleri Yükleyin**
+</td>
+<td width="50%">
+
+### 📦 **Kurulum Gereksinimleri**
+
+```yaml
+🛠️ Temel Araçlar:
+  ✅ Git (version control)
+  ✅ Anaconda veya Miniconda
+  ✅ VS Code veya PyCharm
+  ✅ Jupyter Notebook/Lab
+
+📚 Python Kütüphaneleri:
+  ✅ NumPy, Pandas, Matplotlib
+  ✅ Seaborn, Plotly
+  ✅ Scikit-learn
+  ✅ XGBoost, LightGBM, CatBoost
+  ✅ TensorFlow/PyTorch (optional)
+  ✅ Flask, FastAPI
+
+☁️ Optional (İleri Seviye):
+  ✅ Docker Desktop
+  ✅ AWS CLI / Azure CLI
+  ✅ Kaggle API credentials
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🚀 **Kurulum Adımları**
+
+<details open>
+<summary><b>📥 Adım 1: Repository'yi Klonlayın</b></summary>
+
+<br/>
+
 ```bash
+# HTTPS ile klonlama
+git clone https://github.com/cemal-yuksel/ai-datascience-bootcamp2026.git
+
+# veya SSH ile
+git clone git@github.com:cemal-yuksel/ai-datascience-bootcamp2026.git
+
+# Proje dizinine girin
+cd ai-datascience-bootcamp2026
+```
+
+</details>
+
+<details>
+<summary><b>🐍 Adım 2: Python Ortamını Hazırlayın</b></summary>
+
+<br/>
+
+**Anaconda ile:**
+```bash
+# Yeni conda environment oluştur
+conda create -n datascience python=3.11
+
+# Environment'ı aktif et
+conda activate datascience
+
+# veya
+source activate datascience  # Linux/macOS
+```
+
+**venv ile (alternative):**
+```bash
+# Virtual environment oluştur
+python -m venv venv
+
+# Aktif et
+venv\Scripts\activate  # Windows
+source venv/bin/activate  # Linux/macOS
+```
+
+</details>
+
+<details>
+<summary><b>📦 Adım 3: Kütüphaneleri Yükleyin</b></summary>
+
+<br/>
+
+```bash
+# Tüm gereksinimleri yükle
 pip install -r requirements.txt
+
+# veya conda ile
+conda install --file requirements.txt
+
+# Kurulumu doğrula
+python -c "import numpy, pandas, sklearn; print('✅ Kurulum başarılı!')"
 ```
 
-4️⃣ **Jupyter Notebook'u Başlatın**
+**Manuel kurulum (gerekirse):**
 ```bash
+# Temel kütüphaneler
+pip install numpy pandas matplotlib seaborn
+
+# Machine Learning
+pip install scikit-learn xgboost lightgbm catboost
+
+# Deep Learning (optional)
+pip install tensorflow torch torchvision
+
+# Web & API
+pip install flask fastapi streamlit
+
+# Utilities
+pip install jupyter jupyterlab ipython
+```
+
+</details>
+
+<details>
+<summary><b>▶️ Adım 4: Jupyter Notebook'u Başlatın</b></summary>
+
+<br/>
+
+```bash
+# Jupyter Notebook başlat
 jupyter notebook
+
+# veya JupyterLab (modern interface)
+jupyter lab
+
+# Belirli bir notebook'u aç
+jupyter notebook day1/Day1.ipynb
 ```
 
-### 📁 Proje Yapısı
+**VS Code ile Jupyter:**
+- VS Code'u aç
+- Python extension yükle
+- `.ipynb` dosyasını aç
+- Kernel seç ve çalıştır
 
-```
-📦 Veri Bilimi ve Makine Öğrenmesi 2026
- ┣ 📂 day1-15_python_temelleri/
- ┣ 📂 day16-25_istatistik_matematik/
- ┣ 📂 day26-30_numpy/
- ┣ 📂 day31-40_pandas/
- ┣ 📂 day41-48_gorsellestirme/
- ┣ 📂 day49-55_eda/
- ┣ 📂 day56-63_feature_engineering/
- ┣ 📂 day64-70_sql/
- ┣ 📂 day71-75_ml_temelleri/
- ┣ 📂 day76-88_gozetimli_ogrenme/
- ┣ 📂 day89-93_gozetimsiz_ogrenme/
- ┣ 📂 day94-100_model_deployment/
- ┣ 📂 datasets/
- ┣ 📂 projects/
- ┣ 📂 articles/
- ┣ 📂 notebooks/
- ┣ 📜 README.md
- ┗ 📜 requirements.txt
-```
+</details>
 
----
 
-## 🤝 Katkıda Bulunma
+<div align="center">
 
-Bu proje açık kaynak olup, geliştirmelere ve katkılara açıktır! 
+### 🎉 **Hazırsınız! Öğrenme Yolculuğunuz Başlasın!**
 
-### 🌟 Nasıl Katkıda Bulunabilirsiniz?
+[![Start Learning](https://img.shields.io/badge/🚀_Hemen_Başla-Day_1-success?style=for-the-badge)](./day1/)
+[![Join Discord](https://img.shields.io/badge/💬_Discord-Topluluğa_Katıl-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/datascience)
+[![Watch Tutorial](https://img.shields.io/badge/📺_YouTube-Tutorial_İzle-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
-1. 🍴 Bu repository'yi **fork** edin
-2. 🌿 Yeni bir **branch** oluşturun (`git checkout -b feature/yeniOzellik`)
-3. ✏️ Değişikliklerinizi **commit** edin (`git commit -m 'Yeni özellik eklendi'`)
-4. 📤 Branch'inizi **push** edin (`git push origin feature/yeniOzellik`)
-5. 🔃 Bir **Pull Request** oluşturun
-
-### 💡 Katkı Fikirleri
-- Yeni veri setleri ekleme
-- Alternatif çözüm yöntemleri önerme
-- Dökümantasyon iyileştirmeleri
-- Hata düzeltmeleri
-- Yeni proje örnekleri
+</div>
 
 ---
 
@@ -421,15 +1227,6 @@ Bu eğitim serisi, **Udemy platformunda yayınlanan** ve **400.000+ öğrenciye 
 > 🎓 **Platform**: Udemy  
 > 👥 **Öğrenci Sayısı**: 400,000+
 
-### 🎯 Revizyonlar ve Genişletmeler
-
-Bu bootcamp, orijinal kursun tüm içeriklerini kapsarken, özellikle **Yönetim Bilişim Sistemleri (YBS)** müfredatına uygun olarak:
-
-- ✅ İş Analitiği odaklı case study'ler eklenmiştir
-- ✅ Karar Destek Sistemleri konularına ağırlık verilmiştir
-- ✅ SQL ve veri tabanı yönetimi daha detaylı işlenmiştir
-- ✅ İş dünyası uygulamalarına odaklanılmıştır
-- ✅ Enterprise veri yönetimi konuları eklenmiştir
 
 ### ⚖️ Lisans
 
@@ -437,9 +1234,9 @@ Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Eğitim amaçlı k
 
 ### 🙏 Teşekkürler
 
-- **Atıl Samancıoğlu**'na kaliteli içerik ve ilham için teşekkür ederiz
-- **Boğaziçi Üniversitesi** ekibine katkıları için teşekkür ederiz
-- Tüm **açık kaynak topluluk**larına katkıları için teşekkür ederiz
+ **Atıl Samancıoğlu**'na kaliteli içerik ve ilham için teşekkür ederiz
+ **Boğaziçi Üniversitesi** ekibine katkıları için teşekkür ederiz
+ Tüm **açık kaynak topluluk**larına katkıları için teşekkür ederiz
 
 ---
 
@@ -447,17 +1244,21 @@ Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Eğitim amaçlı k
 
 ### 🌐 Bağlantılar
 
-- 🔗 **GitHub**: [github.com/cemal-yuksel](https://github.com)
-- 💼 **LinkedIn**: [linkedin.com/in/cemal-yuksel](https://linkedin.com)
-- 📧 **E-posta**: [cyuksel@bandirma.edu.tr](mailto:cyuksel@bandirma.edu.tr)
-- 🌍 **Website**: [www.cemalyuksel.org](https://www.cemalyuksel.org)
+ 🔗 **GitHub**: [github.com/cemal-yuksel](https://github.com)
+ 
+ 💼 **LinkedIn**: [linkedin.com/in/cemal-yuksel](https://linkedin.com)
+
+ 📧 **E-posta**: [cyuksel@bandirma.edu.tr](mailto:cyuksel@bandirma.edu.tr)
+
+ 🌍 **Website**: [www.cemalyuksel.org](https://www.cemalyuksel.org)
+ 
 
 ### 💬 Destek ve Sorular
 
-- 💡 **Sorularınız için**: GitHub Issues bölümünü kullanabilirsiniz
-- 🐛 **Hata bildirimi**: Bug report şablonuyla issue açabilirsiniz
-- 🚀 **Özellik önerileri**: Feature request ile görüşlerinizi paylaşabilirsiniz
-- 📖 **Dokümantasyon**: Wiki sayfasını inceleyebilirsiniz
+ 💡 **Sorularınız için**: GitHub Issues bölümünü kullanabilirsiniz
+ 🐛 **Hata bildirimi**: Bug report şablonuyla issue açabilirsiniz
+ 🚀 **Özellik önerileri**: Feature request ile görüşlerinizi paylaşabilirsiniz
+ 📖 **Dokümantasyon**: Wiki sayfasını inceleyebilirsiniz
 
 ---
 
