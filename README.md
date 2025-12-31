@@ -51,17 +51,21 @@
 
 <br/>
 
-### 🌟 **Sektör Lideri Müfredat**
+### � **Neden Bu Bootcamp Özel?**
 
-```diff
-+ ✨ Yönetim Bilişim Sistemleri (YBS) Özel Revizyonu
-+ 🎯 400,000+ Öğrenci Tarafından Onaylanmış Metodoloji  
-+ 💼 İş Dünyası Odaklı Gerçek Vaka Analizleri
-+ 🚀 Kaggle Master Level İçerikler
-+ 🏆 Production-Ready Model Deployment
-+ 📊 Enterprise Data Analytics Uygulamaları
-+ 🔥 Güncel 2026 AI/ML Trendleri
-```
+<div align="center">
+
+| 🎯 Özellik | 📝 Açıklama |
+|:-----------|:-----------|
+| ✨ **YBS Özel Revizyonu** | Yönetim Bilişim Sistemleri perspektifiyle hazırlanmış içerik |
+| 🎯 **Kanıtlanmış Metodoloji** | 400,000+ öğrenci tarafından test edilmiş öğrenme yöntemi |
+| 💼 **Gerçek Vaka Analizleri** | İş dünyasından gerçek problemler ve çözümleri |
+| 🚀 **Kaggle Master Seviyesi** | Yarışma düzeyinde makine öğrenmesi teknikleri |
+| 🏆 **Production Deployment** | Modellerinizi gerçek sistemlere entegre edin |
+| 📊 **Enterprise Analytics** | Kurumsal veri analitiği uygulamaları |
+| 🔥 **2026 AI/ML Trendleri** | En güncel yapay zeka ve ML teknolojileri |
+
+</div>
 
 <br/>
 
@@ -176,10 +180,9 @@
 |:---------------|:-------------|:----------------|
 | **📅 Program Süresi** | `100 Gün` | Sistematik, adım adım öğrenme garantisi |
 | **📦 Veri Seti Havuzu** | `50+ Dataset` | Finans, E-ticaret, Sağlık, Emlak sektörlerinden gerçek veriler |
-| **📚 Kapsamlı Makaleler** | `100+ Döküman` | Her konu için özel hazırlanmış akademik içerikler |
+| **📚 Kapsamlı Ders Anlatım Notebookları** | `100+ Döküman` | Her konu için özel hazırlanmış from zero to hero konseptinde konu anlatımların yer aldığı notebooklar |
 | **💻 Canlı Kod Örnekleri** | `200+ Kod Bloğu` | GitHub üzerinden erişilebilir production-ready kodlar |
 | **📓 Jupyter Notebook** | `150+ Notebook` | İnteraktif, hands-on öğrenme deneyimi |
-| **🏅 Kaggle Integration** | `10+ Yarışma` | Gerçek rekabet ortamında model geliştirme |
 | **🗄️ SQL Mastery** | `Advanced Level` | Complex query yazımı ve database optimization |
 | **🚀 Model Deployment** | `MLOps Pipeline` | AWS/Azure/GCP üzerinde production deployment |
 | **🎯 ML Algoritmaları** | `15+ Algorithm` | Regression, Classification, Clustering, Ensemble Methods |
@@ -189,37 +192,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-### 🎁 **Bonus İçerikler**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="64"/><br/>
-<b>Career Guide</b><br/>
-<sub>Mülakat Hazırlık<br/>Resume Building<br/>LinkedIn Optimization</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/><br/>
-<b>Coding Challenges</b><br/>
-<sub>100+ LeetCode Style<br/>Algorithm Questions<br/>Data Structure Problems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64"/><br/>
-<b>Project Templates</b><br/>
-<sub>End-to-End ML Pipelines<br/>Production Code Base<br/>Docker Configurations</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/diploma.png" width="64"/><br/>
-<b>Certification</b><br/>
-<sub>Bootcamp Certificate<br/>Project Completion<br/>Skill Badges</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
