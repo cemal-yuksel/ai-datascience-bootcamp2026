@@ -51,7 +51,7 @@
 
 <br/>
 
-### � **Neden Bu Bootcamp Özel?**
+### **Neden Bu Bootcamp Diğerlerinden Özel?**
 
 <div align="center">
 
@@ -60,7 +60,6 @@
 | ✨ **YBS Özel Revizyonu** | Yönetim Bilişim Sistemleri perspektifiyle hazırlanmış içerik |
 | 🎯 **Kanıtlanmış Metodoloji** | 400,000+ öğrenci tarafından test edilmiş öğrenme yöntemi |
 | 💼 **Gerçek Vaka Analizleri** | İş dünyasından gerçek problemler ve çözümleri |
-| 🚀 **Kaggle Master Seviyesi** | Yarışma düzeyinde makine öğrenmesi teknikleri |
 | 🏆 **Production Deployment** | Modellerinizi gerçek sistemlere entegre edin |
 | 📊 **Enterprise Analytics** | Kurumsal veri analitiği uygulamaları |
 | 🔥 **2026 AI/ML Trendleri** | En güncel yapay zeka ve ML teknolojileri |
