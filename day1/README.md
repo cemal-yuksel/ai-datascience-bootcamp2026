@@ -39,7 +39,7 @@
 <p>Girdi-İşleme-Çıktı döngüsü ve bilgisayarların çalışma mantığı</p>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/ON!%20Arrow.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20One.png" width="80" />
 <h4>⚡ Binary Sistem</h4>
 <p>0 ve 1'lerle her şeyi temsil etme sanatı</p>
 </td>
