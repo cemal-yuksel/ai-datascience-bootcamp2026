@@ -1263,9 +1263,9 @@ Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Eğitim amaçlı k
 
 ### 🙏 Teşekkürler
 
-- **Atıl Samancıoğlu**'na kaliteli içerik ve ilham için teşekkür ederiz
-- **Boğaziçi Üniversitesi** ekibine katkıları için teşekkür ederiz
-- Tüm **açık kaynak topluluk**larına katkıları için teşekkür ederiz
+ **Atıl Samancıoğlu**'na kaliteli içerik ve ilham için teşekkür ederiz
+ **Boğaziçi Üniversitesi** ekibine katkıları için teşekkür ederiz
+ Tüm **açık kaynak topluluk**larına katkıları için teşekkür ederiz
 
 ---
 
@@ -1274,9 +1274,13 @@ Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Eğitim amaçlı k
 ### 🌐 Bağlantılar
 
  🔗 **GitHub**: [github.com/cemal-yuksel](https://github.com)
+ 
  💼 **LinkedIn**: [linkedin.com/in/cemal-yuksel](https://linkedin.com)
+
  📧 **E-posta**: [cyuksel@bandirma.edu.tr](mailto:cyuksel@bandirma.edu.tr)
+
  🌍 **Website**: [www.cemalyuksel.org](https://www.cemalyuksel.org)
+ 
 
 ### 💬 Destek ve Sorular
 
