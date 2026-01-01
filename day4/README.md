@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
 ║   ██████╗  █████╗ ██╗   ██╗    ██╗  ██╗    ██████╗  █████╗ ████████╗ █████╗ ║
@@ -13,7 +13,7 @@
 ║        🎯 DATA STRUCTURES - Dictionary • Set • Tuple • Boolean 🎯            ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <h3>💎 100 Günlük Veri Bilimi & Makine Öğrenmesi Bootcamp - Dördüncü Gün</h3>
 
@@ -40,7 +40,7 @@
 <p>Key-Value pairing ile verileri organize etme, keys(), values(), get() metodları</p>
 </td>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="80" />
 <h4>🎨 Set</h4>
 <p>Benzersiz elemanlar, union(), intersection() ve matematiksel küme işlemleri</p>
 </td>
