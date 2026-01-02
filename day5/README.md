@@ -320,23 +320,6 @@ Bu quiz, aşağıdaki konuları kapsamaktadır:
 
 ---
 
-## 💪 Motivasyon
-
-<div align="center">
-
-### 🎓 Öğrenme Yolculuğunuz
-
-```
-Day 1: Variables & Data Types ✅
-Day 2: String Methods ✅
-Day 3: List Operations ✅
-Day 4: Dictionary & Set ✅
-Day 5: Python Quiz 🔥 ← Buradasınız!
-Day 6-100: Daha fazla öğrenme macerası sizi bekliyor! 🚀
-```
-
-</div>
-
 <div align="center">
 <pre>
 ╔═══════════════════════════════════════════════════════════╗
