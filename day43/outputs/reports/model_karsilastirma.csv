@@ -1,0 +1,5 @@
+model,eğitim doğruluğu,test doğruluğu,dengeli doğruluk,makro F1,derinlik,yaprak
+Taban (hep unacc),0.7004,0.6994,0.25,0.2058,0,1
+Sığ ağaç (d=3),0.7887,0.8035,0.3868,0.3722,3,4
+Sınırsız ağaç,1.0,0.9913,0.9765,0.976,12,81
+Optimize ağaç,1.0,0.9913,0.9743,0.9684,12,100
