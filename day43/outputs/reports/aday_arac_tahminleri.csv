@@ -1,0 +1,9 @@
+arac_id,aciklama,buying,maint,doors,persons,lug_boot,safety,tahmin,güven,aksiyon
+ARC-01,Ekonomik şehir aracı,low,low,4,4,med,high,vgood,1.0,⭐ Öncelikli onay
+ARC-07,Orta segment hatchback,med,low,3,4,small,high,good,1.0,✅ Onayla
+ARC-02,Kompakt sedan — filo standardı,med,med,4,4,med,med,acc,1.0,🟡 Koşullu onay
+ARC-03,Geniş aile SUV'u,high,med,5more,more,big,high,acc,1.0,🟡 Koşullu onay
+ARC-08,Personel servis minibüsü,med,high,5more,more,big,med,acc,1.0,🟡 Koşullu onay
+ARC-04,Lüks yönetici aracı,vhigh,vhigh,4,4,big,high,unacc,1.0,❌ Reddet
+ARC-05,İki kişilik ticari kamyonet,low,low,2,2,big,high,unacc,1.0,❌ Reddet
+ARC-06,Bütçe dostu ama düşük güvenlik,low,low,4,more,big,low,unacc,1.0,❌ Reddet

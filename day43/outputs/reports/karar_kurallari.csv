@@ -1,0 +1,101 @@
+EĞER,İSE,saflık,örnek sayısı
+"Alım fiyatı ∈ {high, vhigh} VE Güvenlik ∈ {low}",unacc,1.0,247
+"Alım fiyatı ∈ {low, med} VE Güvenlik ∈ {low}",unacc,1.0,218
+"Alım fiyatı ∈ {high, vhigh} VE Kişi kapasitesi ∈ {2} VE Güvenlik ∈ {med, high}",unacc,1.0,157
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {vhigh} VE Kişi kapasitesi ∈ {4, more} VE Güvenlik ∈ {med, high}",unacc,1.0,71
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {med, high}",acc,1.0,57
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kişi kapasitesi ∈ {2} VE Güvenlik ∈ {med}",unacc,1.0,32
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {high}",vgood,1.0,28
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,26
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",acc,1.0,26
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {med}",unacc,1.0,25
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {med}",acc,1.0,25
+"Alım fiyatı ∈ {vhigh} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {4, more} VE Güvenlik ∈ {high}",unacc,1.0,23
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",acc,1.0,19
+"Alım fiyatı ∈ {vhigh} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {4, more} VE Güvenlik ∈ {med}",unacc,1.0,19
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",acc,1.0,18
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",acc,1.0,18
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,15
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",acc,1.0,15
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",unacc,1.0,14
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {med}",good,1.0,14
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",vgood,1.0,13
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Güvenlik ∈ {high}",acc,1.0,13
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,13
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {2, 3} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {med}",acc,1.0,13
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,12
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {med}",acc,1.0,12
+"Alım fiyatı ∈ {vhigh} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",acc,1.0,12
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {high}",unacc,1.0,12
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,11
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,11
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",acc,1.0,10
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",good,1.0,9
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",unacc,1.0,7
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",unacc,1.0,7
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,7
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {med}",good,1.0,7
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,7
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {high}",vgood,1.0,6
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {med}",acc,1.0,6
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",unacc,1.0,5
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",acc,1.0,5
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2, 3} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {med}",good,1.0,5
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,5
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2, 3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,4
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",good,1.0,4
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",acc,1.0,4
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",good,1.0,4
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,3
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",acc,1.0,3
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",acc,1.0,3
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",good,1.0,3
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,3
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",good,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",acc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3, 4, 5more} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",vgood,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",good,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {big} VE Güvenlik ∈ {med}",good,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,2
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,2
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,2
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",acc,1.0,2
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med, big} VE Güvenlik ∈ {high}",acc,1.0,2
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",acc,1.0,2
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",good,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",vgood,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high}",unacc,1.0,2
+"Alım fiyatı ∈ {low, med} VE Bakım maliyeti ∈ {low, med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {2} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",unacc,1.0,2
+Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med},acc,1.0,1
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",unacc,1.0,1
+Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med},unacc,1.0,1
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {med}",acc,1.0,1
+Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med},unacc,1.0,1
+Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med},acc,1.0,1
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,1
+"Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {high, vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,1
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {vhigh} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4, more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",unacc,1.0,1
+Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},acc,1.0,1
+Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {med} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},unacc,1.0,1
+Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},good,1.0,1
+Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {5more} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high},vgood,1.0,1
+"Alım fiyatı ∈ {low} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3, 4} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {high}",acc,1.0,1
+Alım fiyatı ∈ {med} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},unacc,1.0,1
+"Alım fiyatı ∈ {high, vhigh} VE Bakım maliyeti ∈ {low} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,1
+Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {3} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med},unacc,1.0,1
+"Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {4, 5more} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {med} VE Güvenlik ∈ {med}",acc,1.0,1
+Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {4} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},acc,1.0,1
+Alım fiyatı ∈ {high} VE Bakım maliyeti ∈ {high} VE Kapı sayısı ∈ {2} VE Kişi kapasitesi ∈ {more} VE Bagaj hacmi ∈ {small} VE Güvenlik ∈ {high},unacc,1.0,1
