@@ -1,0 +1,6 @@
+grup,kişi,gerçek >50K oranı,teklif alma oranı,yakalama (recall),kesinlik
+Cinsiyet: Female,3217,0.114,0.181,0.837,0.53
+Cinsiyet: Male,6545,0.303,0.55,0.943,0.52
+Irk: Asian-Pac-Islander,324,0.281,0.512,0.923,0.506
+Irk: Black,977,0.127,0.244,0.895,0.466
+Irk: White,8279,0.256,0.45,0.929,0.528

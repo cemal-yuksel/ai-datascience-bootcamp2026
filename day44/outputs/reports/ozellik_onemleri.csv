@@ -1,0 +1,14 @@
+,gini_onemi,permutasyon_onemi,permutasyon_std
+capital_gain,0.1042,0.0457,0.0013
+marital_status,0.1038,0.0424,0.0011
+education_num,0.1134,0.0317,0.0015
+age,0.1347,0.0246,0.0018
+occupation,0.081,0.0153,0.001
+relationship,0.078,0.0133,0.0007
+hours_per_week,0.0768,0.0132,0.0009
+capital_loss,0.0322,0.0091,0.0006
+workclass,0.0395,0.0041,0.0007
+sex,0.0148,0.002,0.0006
+native_country,0.0678,0.0014,0.0004
+fnlwgt,0.1374,0.0008,0.0006
+race,0.0163,0.0007,0.0005
