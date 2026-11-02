@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" width="1600" height="760" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.74" cy="0.42" r="0.5">
+    <stop offset="0" stop-color="#4ADE80" stop-opacity="0.42"/><stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45">
+    <stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#4ADE80"/>
+  </linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+  </pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/>
+  </marker>
+<linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C4B5FD"/><stop offset="0.5" stop-color="#67E8F9"/><stop offset="1" stop-color="#6EE7B7"/></linearGradient></defs>
+<rect width="1600" height="760" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="760" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="760" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="760" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="760" fill="url(#isik)" transform="skewX(-20)"></rect>
+<circle cx="844" cy="540" r="1.5" fill="#E0E7FF" opacity="0.43"></circle>
+<circle cx="601" cy="37" r="0.8" fill="#E0E7FF" opacity="0.20"></circle>
+<circle cx="1060" cy="713" r="1.1" fill="#E0E7FF" opacity="0.43"></circle>
+<circle cx="1423" cy="694" r="1.1" fill="#E0E7FF" opacity="0.29"></circle>
+<circle cx="333" cy="122" r="1.5" fill="#E0E7FF" opacity="0.18"></circle>
+<circle cx="228" cy="648" r="1.1" fill="#E0E7FF" opacity="0.16"></circle>
+<circle cx="398" cy="201" r="0.8" fill="#E0E7FF" opacity="0.25"></circle>
+<circle cx="1387" cy="704" r="1.1" fill="#E0E7FF" opacity="0.43"></circle>
+<circle cx="1346" cy="344" r="1.1" fill="#E0E7FF" opacity="0.48"></circle>
+<circle cx="1115" cy="162" r="0.8" fill="#E0E7FF" opacity="0.34"></circle>
+<circle cx="716" cy="639" r="1.5" fill="#E0E7FF" opacity="0.17"></circle>
+<circle cx="37" cy="601" r="1.5" fill="#E0E7FF" opacity="0.41"></circle>
+<circle cx="738" cy="585" r="0.8" fill="#E0E7FF" opacity="0.31"></circle>
+<circle cx="466" cy="629" r="1.5" fill="#E0E7FF" opacity="0.17"></circle>
+<circle cx="1284" cy="493" r="0.8" fill="#E0E7FF" opacity="0.21"></circle>
+<circle cx="19" cy="642" r="1.5" fill="#E0E7FF" opacity="0.27"></circle>
+<circle cx="21" cy="453" r="1.1" fill="#E0E7FF" opacity="0.22"></circle>
+<circle cx="132" cy="294" r="1.1" fill="#E0E7FF" opacity="0.53"></circle>
+<circle cx="1057" cy="622" r="1.1" fill="#E0E7FF" opacity="0.37"></circle>
+<circle cx="622" cy="418" r="1.1" fill="#E0E7FF" opacity="0.27"></circle>
+<circle cx="658" cy="266" r="0.8" fill="#E0E7FF" opacity="0.53"></circle>
+<circle cx="912" cy="413" r="1.5" fill="#E0E7FF" opacity="0.29"></circle>
+<circle cx="1187" cy="144" r="1.1" fill="#E0E7FF" opacity="0.45"></circle>
+<circle cx="78" cy="726" r="0.8" fill="#E0E7FF" opacity="0.37"></circle>
+<circle cx="852" cy="716" r="0.8" fill="#E0E7FF" opacity="0.55"></circle>
+<circle cx="1231" cy="382" r="1.5" fill="#E0E7FF" opacity="0.20"></circle>
+<circle cx="305" cy="12" r="0.8" fill="#E0E7FF" opacity="0.52"></circle>
+<circle cx="1420" cy="420" r="1.1" fill="#E0E7FF" opacity="0.38"></circle>
+<circle cx="1047" cy="467" r="0.8" fill="#E0E7FF" opacity="0.24"></circle>
+<circle cx="18" cy="349" r="1.1" fill="#E0E7FF" opacity="0.16"></circle>
+<circle cx="349" cy="200" r="1.5" fill="#E0E7FF" opacity="0.16"></circle>
+<circle cx="1034" cy="60" r="1.5" fill="#E0E7FF" opacity="0.50"></circle>
+<circle cx="1302" cy="173" r="1.5" fill="#E0E7FF" opacity="0.40"></circle>
+<circle cx="660" cy="676" r="1.5" fill="#E0E7FF" opacity="0.48"></circle>
+<circle cx="247" cy="207" r="0.8" fill="#E0E7FF" opacity="0.22"></circle>
+<circle cx="330" cy="447" r="1.5" fill="#E0E7FF" opacity="0.53"></circle>
+<circle cx="516" cy="607" r="1.1" fill="#E0E7FF" opacity="0.54"></circle>
+<circle cx="1581" cy="175" r="1.5" fill="#E0E7FF" opacity="0.53"></circle>
+<circle cx="1006" cy="491" r="1.1" fill="#E0E7FF" opacity="0.47"></circle>
+<circle cx="1024" cy="394" r="1.1" fill="#E0E7FF" opacity="0.33"></circle>
+<circle cx="403" cy="265" r="0.8" fill="#E0E7FF" opacity="0.34"></circle>
+<circle cx="92" cy="380" r="0.8" fill="#E0E7FF" opacity="0.32"></circle>
+<circle cx="1111" cy="726" r="1.1" fill="#E0E7FF" opacity="0.19"></circle>
+<circle cx="47" cy="184" r="1.5" fill="#E0E7FF" opacity="0.23"></circle>
+<circle cx="1311" cy="355" r="1.1" fill="#E0E7FF" opacity="0.35"></circle>
+<circle cx="606" cy="180" r="1.5" fill="#E0E7FF" opacity="0.24"></circle>
+<circle cx="27" cy="364" r="0.8" fill="#E0E7FF" opacity="0.17"></circle>
+<circle cx="1426" cy="82" r="1.1" fill="#E0E7FF" opacity="0.30"></circle>
+<circle cx="480" cy="551" r="0.8" fill="#E0E7FF" opacity="0.29"></circle>
+<circle cx="45" cy="573" r="1.5" fill="#E0E7FF" opacity="0.37"></circle>
+<circle cx="1113" cy="347" r="1.1" fill="#E0E7FF" opacity="0.24"></circle>
+<circle cx="69" cy="53" r="0.8" fill="#E0E7FF" opacity="0.31"></circle>
+<circle cx="192" cy="123" r="1.5" fill="#E0E7FF" opacity="0.46"></circle>
+<circle cx="896" cy="579" r="1.5" fill="#E0E7FF" opacity="0.17"></circle>
+<circle cx="1074" cy="697" r="0.8" fill="#E0E7FF" opacity="0.54"></circle>
+<circle cx="1083" cy="144" r="0.8" fill="#E0E7FF" opacity="0.19"></circle>
+<circle cx="1105" cy="359" r="0.8" fill="#E0E7FF" opacity="0.40"></circle>
+<circle cx="688" cy="208" r="1.1" fill="#E0E7FF" opacity="0.16"></circle>
+<circle cx="36" cy="412" r="0.8" fill="#E0E7FF" opacity="0.23"></circle>
+<circle cx="694" cy="439" r="1.1" fill="#E0E7FF" opacity="0.50"></circle>
+<circle cx="1141" cy="558" r="1.1" fill="#E0E7FF" opacity="0.39"></circle>
+<circle cx="1569" cy="508" r="1.5" fill="#E0E7FF" opacity="0.39"></circle>
+<circle cx="503" cy="303" r="1.5" fill="#E0E7FF" opacity="0.39"></circle>
+<circle cx="1267" cy="92" r="0.8" fill="#E0E7FF" opacity="0.35"></circle>
+<circle cx="1388" cy="240" r="1.1" fill="#E0E7FF" opacity="0.21"></circle>
+<circle cx="856" cy="491" r="1.5" fill="#E0E7FF" opacity="0.52"></circle>
+<circle cx="485" cy="731" r="1.5" fill="#E0E7FF" opacity="0.50"></circle>
+<circle cx="1172" cy="340" r="0.8" fill="#E0E7FF" opacity="0.55"></circle>
+<circle cx="1133" cy="639" r="1.1" fill="#E0E7FF" opacity="0.30"></circle>
+<circle cx="101" cy="94" r="1.5" fill="#E0E7FF" opacity="0.29"></circle>
+<text x="110" y="150" text-anchor="start" font-size="17" font-weight="700" fill="#A78BFA" letter-spacing="5">GÜN 45  ·  VERİ BİLİMİ VE MAKİNE ÖĞRENMESİ 2026</text><text x="104" y="270" font-size="92" font-weight="800" fill="url(#baslik)" filter="url(#parilti)">Spor Salonu</text><text x="104" y="372" font-size="92" font-weight="800" fill="url(#baslik)" filter="url(#parilti)">Yoğunluk</text><text x="104" y="474" font-size="92" font-weight="800" fill="url(#baslik)" filter="url(#parilti)">Tahmini</text><text x="110" y="536" text-anchor="start" font-size="27" font-weight="500" fill="#CBD5E1" font-style="italic">Veriden karara: uçtan uca bir makine öğrenmesi projesi</text><rect x="110" y="590" width="168" height="44" rx="22.0" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.75" stroke-width="1.5"/><text x="194.0" y="618.3" text-anchor="middle" font-size="18" font-weight="700" fill="#22D3EE" >📦 Veri kalitesi</text><rect x="294" y="590" width="178" height="44" rx="22.0" fill="#F6B84B" fill-opacity="0.14" stroke="#F6B84B" stroke-opacity="0.75" stroke-width="1.5"/><text x="383.0" y="618.3" text-anchor="middle" font-size="18" font-weight="700" fill="#F6B84B" >🛡️ Zaman testi</text><rect x="488" y="590" width="238" height="44" rx="22.0" fill="#4ADE80" fill-opacity="0.14" stroke="#4ADE80" stroke-opacity="0.75" stroke-width="1.5"/><text x="607.0" y="618.3" text-anchor="middle" font-size="18" font-weight="700" fill="#4ADE80" >🌲 Regresyon</text><rect x="742" y="590" width="238" height="44" rx="22.0" fill="#F472B6" fill-opacity="0.14" stroke="#F472B6" stroke-opacity="0.75" stroke-width="1.5"/><text x="861.0" y="618.3" text-anchor="middle" font-size="18" font-weight="700" fill="#F472B6" >🏢 YBS Kararı</text><text x="110" y="700" text-anchor="start" font-size="18" font-weight="500" fill="#94A3B8" >Veri: Campus Gym (62.184 kayıt)  ·  6 model  ·  sızıntısız pipeline</text><line x1="1000" y1="215" x2="954.0" y2="259.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1000" y1="215" x2="1046.0" y2="259.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><line x1="954.0" y1="259.0" x2="931.0" y2="303.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><line x1="954.0" y1="259.0" x2="977.0" y2="303.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1046.0" y1="259.0" x2="1023.0" y2="303.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1046.0" y1="259.0" x2="1069.0" y2="303.0" stroke="#4ADE80" stroke-opacity="0.7" stroke-width="2.2"/><circle cx="1000" cy="215" r="11.0" fill="#0F1535" stroke="#4ADE80" stroke-width="2.2"/><circle cx="954.0" cy="259.0" r="11.0" fill="#0F1535" stroke="#4ADE80" stroke-width="2.2"/><circle cx="1046.0" cy="259.0" r="11.0" fill="#0F1535" stroke="#4ADE80" stroke-width="2.2"/><circle cx="931.0" cy="303.0" r="9.0" fill="#4ADE80" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="977.0" cy="303.0" r="9.0" fill="#4ADE80" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1023.0" cy="303.0" r="9.0" fill="#4ADE80" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1069.0" cy="303.0" r="9.0" fill="#4ADE80" fill-opacity="0.9" filter="url(#parilti)"></circle><rect x="948" y="343.0" width="104" height="34" rx="17.0" fill="#4ADE80" fill-opacity="0.14" stroke="#4ADE80" stroke-opacity="0.75" stroke-width="1.5"/><text x="1000.0" y="365.6" text-anchor="middle" font-size="16" font-weight="700" fill="#4ADE80" >34 kişi</text><line x1="1215" y1="195" x2="1162.1" y2="245.6" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1215" y1="195" x2="1267.9" y2="245.6" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1162.1" y1="245.6" x2="1135.6499999999999" y2="296.2" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1162.1" y1="245.6" x2="1188.55" y2="296.2" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1267.9" y1="245.6" x2="1241.45" y2="296.2" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1267.9" y1="245.6" x2="1294.3500000000001" y2="296.2" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2.2"/><circle cx="1215" cy="195" r="12.35" fill="#0F1535" stroke="#22D3EE" stroke-width="2.2"/><circle cx="1162.1" cy="245.6" r="12.35" fill="#0F1535" stroke="#22D3EE" stroke-width="2.2"/><circle cx="1267.9" cy="245.6" r="12.35" fill="#0F1535" stroke="#22D3EE" stroke-width="2.2"/><circle cx="1135.6499999999999" cy="296.2" r="10.2" fill="#22D3EE" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1188.55" cy="296.2" r="10.2" fill="#22D3EE" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1241.45" cy="296.2" r="10.2" fill="#22D3EE" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1294.3500000000001" cy="296.2" r="10.2" fill="#22D3EE" fill-opacity="0.9" filter="url(#parilti)"></circle><rect x="1163" y="336.2" width="104" height="34" rx="17.0" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.75" stroke-width="1.5"/><text x="1215.0" y="358.8" text-anchor="middle" font-size="16" font-weight="700" fill="#22D3EE" >42 kişi</text><line x1="1430" y1="215" x2="1384.0" y2="259.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1430" y1="215" x2="1476.0" y2="259.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1384.0" y1="259.0" x2="1361.0" y2="303.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1384.0" y1="259.0" x2="1407.0" y2="303.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1476.0" y1="259.0" x2="1453.0" y2="303.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><line x1="1476.0" y1="259.0" x2="1499.0" y2="303.0" stroke="#F6B84B" stroke-opacity="0.7" stroke-width="2.2"/><circle cx="1430" cy="215" r="11.0" fill="#0F1535" stroke="#F6B84B" stroke-width="2.2"/><circle cx="1384.0" cy="259.0" r="11.0" fill="#0F1535" stroke="#F6B84B" stroke-width="2.2"/><circle cx="1476.0" cy="259.0" r="11.0" fill="#0F1535" stroke="#F6B84B" stroke-width="2.2"/><circle cx="1361.0" cy="303.0" r="9.0" fill="#F6B84B" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1407.0" cy="303.0" r="9.0" fill="#F6B84B" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1453.0" cy="303.0" r="9.0" fill="#F6B84B" fill-opacity="0.9" filter="url(#parilti)"></circle><circle cx="1499.0" cy="303.0" r="9.0" fill="#F6B84B" fill-opacity="0.9" filter="url(#parilti)"></circle><rect x="1378" y="343.0" width="104" height="34" rx="17.0" fill="#F6B84B" fill-opacity="0.14" stroke="#F6B84B" stroke-opacity="0.75" stroke-width="1.5"/><text x="1430.0" y="365.6" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B" >38 kişi</text><rect x="1020" y="520" width="440" height="150" rx="22" fill="#4ADE80" fill-opacity="0.10" stroke="#4ADE80" stroke-width="2.4" filter="url(#parilti)"/><text x="1082" y="612" text-anchor="middle" font-size="56" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">📈</text><text x="1140" y="582" text-anchor="start" font-size="17" font-weight="800" fill="#4ADE80" letter-spacing="3">TAHMİNDEN AKSİYONA</text><text x="1140" y="622" text-anchor="start" font-size="24" font-weight="800" fill="#F8FAFC" >Beklenen yoğunluk: 38 kişi</text><text x="1140" y="652" text-anchor="start" font-size="17" font-weight="500" fill="#CBD5E1" >Personel · bakım · kapasite planı</text><path d="M1000,377.0 C1075.0,377.0 1075.0,520 1150.0,520" fill="none" stroke="#4ADE80" stroke-width="2.6" stroke-opacity="0.35"/><path d="M1000,377.0 C1075.0,377.0 1075.0,520 1150.0,520" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-opacity="0.75" stroke-dasharray="14 220" stroke-linecap="round"></path><circle r="5" fill="#4ADE80" filter="url(#parilti)"><animateMotion dur="2.6s" begin="0.0s" repeatCount="indefinite" path="M1000,377.0 C1075.0,377.0 1075.0,520 1150.0,520"/></circle><path d="M1215,370.2 C1227.5,370.2 1227.5,520 1240.0,520" fill="none" stroke="#22D3EE" stroke-width="2.6" stroke-opacity="0.35"/><path d="M1215,370.2 C1227.5,370.2 1227.5,520 1240.0,520" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-opacity="0.75" stroke-dasharray="14 220" stroke-linecap="round"></path><circle r="5" fill="#22D3EE" filter="url(#parilti)"><animateMotion dur="2.9s" begin="0.5s" repeatCount="indefinite" path="M1215,370.2 C1227.5,370.2 1227.5,520 1240.0,520"/></circle><path d="M1430,377.0 C1380.0,377.0 1380.0,520 1330.0,520" fill="none" stroke="#F6B84B" stroke-width="2.6" stroke-opacity="0.35"/><path d="M1430,377.0 C1380.0,377.0 1380.0,520 1330.0,520" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-opacity="0.75" stroke-dasharray="14 220" stroke-linecap="round"></path><circle r="5" fill="#F6B84B" filter="url(#parilti)"><animateMotion dur="3.2s" begin="1.0s" repeatCount="indefinite" path="M1430,377.0 C1380.0,377.0 1380.0,520 1330.0,520"/></circle><text x="1500" y="105" text-anchor="middle" font-size="36" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🌲</text><text x="920" y="150" text-anchor="middle" font-size="30" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🏋️</text>
+<rect x="1" y="1" width="1598" height="758" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
