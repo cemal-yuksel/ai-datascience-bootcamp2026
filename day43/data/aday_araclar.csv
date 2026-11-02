@@ -1,0 +1,9 @@
+arac_id,aciklama,buying,maint,doors,persons,lug_boot,safety
+ARC-01,Ekonomik şehir aracı,low,low,4,4,med,high
+ARC-02,Kompakt sedan — filo standardı,med,med,4,4,med,med
+ARC-03,Geniş aile SUV'u,high,med,5more,more,big,high
+ARC-04,Lüks yönetici aracı,vhigh,vhigh,4,4,big,high
+ARC-05,İki kişilik ticari kamyonet,low,low,2,2,big,high
+ARC-06,Bütçe dostu ama düşük güvenlik,low,low,4,more,big,low
+ARC-07,Orta segment hatchback,med,low,3,4,small,high
+ARC-08,Personel servis minibüsü,med,high,5more,more,big,med
