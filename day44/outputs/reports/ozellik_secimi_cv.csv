@@ -1,0 +1,8 @@
+senaryo,özellik sayısı,CV ROC-AUC,± std,CV F1 (>50K),CV doğruluk
+Tüm özellikler (13),13,0.9062,0.0026,0.6738,0.8573
+− Nüfus ağırlığı (fnlwgt),12,0.898,0.0038,0.6662,0.8507
+fnlwgt yerine RASTGELE SAYI,13,0.9058,0.0032,0.6719,0.8561
+− fnlwgt − ırk,11,0.8975,0.0022,0.6679,0.8512
+"− Hassas özellikler (cinsiyet, ırk, ülke)",10,0.8996,0.0025,0.6644,0.8514
+Yalnızca en önemli 8,8,0.8832,0.0046,0.6434,0.839
+Yalnızca en önemli 5,5,0.8637,0.0037,0.626,0.8285
