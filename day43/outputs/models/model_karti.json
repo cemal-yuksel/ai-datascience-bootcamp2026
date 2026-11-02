@@ -1,0 +1,40 @@
+{
+  "model": "DecisionTreeClassifier (OrdinalEncoder pipeline)",
+  "egitim_tarihi": "2026-11-02",
+  "veri": {
+    "kaynak": "UCI Car Evaluation",
+    "egitim_satiri": 1382,
+    "test_satiri": 346
+  },
+  "ozellikler": [
+    "buying",
+    "maint",
+    "doors",
+    "persons",
+    "lug_boot",
+    "safety"
+  ],
+  "siniflar": [
+    "unacc",
+    "acc",
+    "good",
+    "vgood"
+  ],
+  "en_iyi_parametreler": {
+    "class_weight": "balanced",
+    "criterion": "entropy",
+    "max_depth": 12,
+    "min_samples_leaf": 1
+  },
+  "cv_makro_f1": 0.9562,
+  "test_metrikleri": {
+    "test doğruluğu": 0.9913,
+    "dengeli doğruluk": 0.9743,
+    "makro F1": 0.9684
+  },
+  "agac_yapisi": {
+    "derinlik": 12,
+    "yaprak": 100
+  },
+  "sklearn_surumu": "1.8.0"
+}
