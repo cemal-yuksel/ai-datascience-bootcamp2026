@@ -17,7 +17,7 @@
 
 Bir kamu kurumunun lojistik departmanı için **filo satın alma karar destek sistemi** kuruyoruz. Karar ağacı; aday araçları *kabul edilemez / kabul edilebilir / iyi / çok iyi* olarak sınıflandırıyor ve her kararı **"EĞER … İSE …" kurallarıyla** gerekçelendiriyor.
 
-👉 Ders notu: [`Karar_Agaclari_YBS_Ders_Notu.ipynb`](Karar_Agaclari_YBS_Ders_Notu.ipynb)
+👉 Ders notu: [`day43.ipynb`](day43.ipynb)
 
 ## 🗺️ İçerik
 
@@ -52,7 +52,7 @@ Bir kamu kurumunun lojistik departmanı için **filo satın alma karar destek si
 
 ```text
 day43/
-├── Karar_Agaclari_YBS_Ders_Notu.ipynb    ← ders notu (çıktılarıyla birlikte)
+├── day43.ipynb                           ← ders notu (çıktılarıyla birlikte)
 ├── README.md
 ├── assets/                               ← notebook'un görsel dili (animasyonlu SVG)
 │   ├── hero.svg                          ← giriş banner'ı
