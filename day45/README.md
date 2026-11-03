@@ -11,7 +11,15 @@
 ![Veri](https://img.shields.io/badge/Veri-Campus_Gym-16A34A?style=flat-square)
 ![Seviye](https://img.shields.io/badge/Seviye-Orta-EDAE49?style=flat-square)
 
+<p>
+  <a href="#-özet"><b>Özet</b></a> ·
+  <a href="#-bir-bakışta"><b>Bir Bakışta</b></a> ·
+  <a href="#-sonuçlar-kilitli-final-test-17263-gözlem"><b>Sonuçlar</b></a>
+</p>
+
 </div>
+
+> 💡 **Tek cümlede:** Skoru şişiren rastgele bölmeyi bırakıp zamana saygılı, sızıntısız ve dürüst bir regresyon hattı kuruyoruz; sonunda *"R² 0,92"* hayalinin gerçekte *0,24* olduğunu görüyoruz.
 
 ## 📌 Özet
 
@@ -20,6 +28,24 @@ Bir üniversite spor salonunun **o anki kişi sayısını** (`number_people`) sa
 Random Forest teorisi Gün 44'te işlendiği için tekrar edilmez; bu derste **veri bütünlüğü, zamana saygılı değerlendirme ve sonuçların dürüst yorumu** öne çıkar. Kapsam: veri kalitesi → zaman bölmesi → keşifçi analiz → sızıntısız `Pipeline` → baseline'lar → 6 algoritmanın karşılaştırması → ileri zaman CV'si ve `RandomizedSearchCV` → kilitli final test → hata analizi → özellik önemi → karar senaryosu → model teslimi.
 
 👉 Ders notu: [`day45.ipynb`](day45.ipynb) · Kaydedilmiş çıktıların önizlemesi: [`day45.html`](day45.html)
+
+<p align="center">
+  <img src="assets/diyagram_proje_akisi.svg" width="100%" alt="Veriden karara 8 adımlı uçtan uca akış">
+</p>
+
+## ⚡ Bir Bakışta
+
+| 🎯 Hedef | 🧪 Veri | 🧱 Yöntem | 🏁 Sonuç |
+|:--|:--|:--|:--|
+| `number_people` (anlık kişi sayısı), regresyon | Campus Gym · 62.184 kayıt · 2015–2017 | Zaman bölmesi, `Pipeline`, ileri zaman CV'si, `RandomizedSearchCV` | RF **MAE 10,03** · R² **0,24** (kilitli final test) |
+
+| 🔑 Ders | Anlamı |
+|:--|:--|
+| ⏱️ **Zamana saygı** | Gelecek, geçmişle eğitilen modelle sınanır; rastgele bölme komşu saatleri sızdırır. |
+| 🚰 **Sızıntısızlık** | Imputer, scaler ve model tek `Pipeline` içinde; her kat kendi istatistiğini öğrenir. |
+| 📏 **Baseline önce** | "Gün × saat" ortalaması bile güçlü bir rakip; kazancı ona karşı ölçeriz. |
+| 🔒 **Kilitli test** | Final test seçimden sonra yalnızca bir kez açılır. |
+| 🧭 **Karar odaklılık** | Doğru model, iş maliyetine (kaçırılan yoğunluk vs. yanlış alarm) göre seçilir. |
 
 ## 🗺️ İçerik
 
@@ -35,6 +61,10 @@ Random Forest teorisi Gün 44'te işlendiği için tekrar edilmez; bu derste **v
 | 8 | Sızıntısız imputer / scaler / model `Pipeline`'ı | 16 | Yönetici özeti, kontrol listesi, quiz, görevler |
 
 ## 📊 Sonuçlar (kilitli final test, 17.263 gözlem)
+
+<p align="center">
+  <img src="assets/sonuc_panosu.svg" width="100%" alt="Sonuç panosu: MAE 10,03 · RMSE 13,27 · R² 0,24; rastgele bölme R² 0,92'ye karşı">
+</p>
 
 Veri 62.184 kayıttır; eğitim 2015-08-14 → 2016-07-01, doğrulama 2016-07-02 → 2016-09-20, **final test 2016-09-21 → 2017-03-18** (son %25 gözlenen takvim günü).
 
@@ -59,13 +89,32 @@ Yoğun saat uyarısı senaryosunda (50 kişi eşiği, 3:1 maliyet oranı; eğiti
 
 Random Forest daha az yoğun saati yakalıyor ama çok daha az yanlış alarm veriyor; toplam maliyette önde. Hangisinin seçileceği, kaçırılan yoğunluğun gerçek maliyetine bağlı bir **iş kararıdır**.
 
-<p align="center">
-  <img src="outputs/figures/04_yogunluk_haritasi.png" width="48%">
-  <img src="outputs/figures/09_cv_secimi.png" width="48%"><br>
-  <img src="outputs/figures/10_final_tahmin_ve_tolerans.png" width="90%"><br>
-  <img src="outputs/figures/14_donem_kaymasi.png" width="48%">
-  <img src="outputs/figures/15_permutasyon_onemi.png" width="48%">
-</p>
+## 🖼️ Grafik Galerisi
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="outputs/figures/01_zaman_bolmesi.png"><br><sub><b>Zaman bölmesi</b> · eğitim / doğrulama / kilitli test</sub></td>
+    <td align="center" width="50%"><img src="outputs/figures/04_yogunluk_haritasi.png"><br><sub><b>Yoğunluk haritası</b> · gün × saat</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="outputs/figures/08_model_yarismasi.png"><br><sub><b>Model yarışı</b> · 6 algoritma</sub></td>
+    <td align="center"><img src="outputs/figures/09_cv_secimi.png"><br><sub><b>İleri zaman CV'si</b> · seçim</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="outputs/figures/10_final_tahmin_ve_tolerans.png" width="90%"><br><sub><b>Final test</b> · gerçek–tahmin ve tolerans</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="outputs/figures/11_test_zaman_serisi.png" width="90%"><br><sub><b>Test dönemi zaman serisi</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="outputs/figures/14_donem_kaymasi.png"><br><sub><b>Dönem kayması</b> · 33 → 19 kişi</sub></td>
+    <td align="center"><img src="outputs/figures/15_permutasyon_onemi.png"><br><sub><b>Permütasyon önemi</b> · <code>hour</code> önde</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="outputs/figures/17_karar_maliyeti.png"><br><sub><b>Karar maliyeti</b> · RF vs baseline</sub></td>
+    <td align="center"><img src="outputs/figures/18_ornek_plan.png"><br><sub><b>Yöneticiye örnek plan</b></sub></td>
+  </tr>
+</table>
 
 ## 🔍 Referans Notebook'tan Farklar
 
@@ -90,7 +139,8 @@ day45/
 ├── requirements.txt                      ← doğrulanmış sürümler (Python 3.12)
 ├── 15-gym_crowdedness.csv                ← Campus Gym (62.184 satır)
 ├── assets/                               ← görsel dil (SVG)
-│   ├── hero.svg · yol_haritasi.svg
+│   ├── hero.svg · kapanis.svg · yol_haritasi.svg
+│   ├── sonuc_panosu.svg · diyagram_proje_akisi.svg
 │   ├── bolum_01.svg … bolum_16.svg       ← bölüm banner'ları
 │   └── etiket_*.svg                      ← bilgi kartı etiketleri
 └── outputs/
@@ -125,3 +175,7 @@ pip install -r requirements.txt
 - Veri: [Kaggle · Crowdedness at the Campus Gym](https://www.kaggle.com/datasets/nsrose7224/crowdedness-at-the-campus-gym/data)
 - [scikit-learn · TimeSeriesSplit](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html)
 - [scikit-learn · RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+
+<p align="center">
+  <img src="assets/kapanis.svg" width="100%" alt="Gün 45 tamamlandı: yüksek skor değil, dürüst skor">
+</p>
