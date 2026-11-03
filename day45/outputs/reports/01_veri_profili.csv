@@ -1,0 +1,12 @@
+﻿sütun,tip,eksik,benzersiz
+number_people,int64,0,128
+date,str,0,62184
+timestamp,int64,0,31321
+day_of_week,int64,0,7
+is_weekend,int64,0,2
+is_holiday,int64,0,2
+temperature,float64,0,2599
+is_start_of_semester,int64,0,2
+is_during_semester,int64,0,2
+month,int64,0,12
+hour,int64,0,24

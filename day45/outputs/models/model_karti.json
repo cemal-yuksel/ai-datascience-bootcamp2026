@@ -1,0 +1,48 @@
+{
+  "proje": "Gün 45 · Campus Gym yoğunluk tahmini",
+  "hedef": "number_people",
+  "ozellikler": [
+    "day_of_week",
+    "is_weekend",
+    "is_holiday",
+    "temperature",
+    "is_start_of_semester",
+    "is_during_semester",
+    "month",
+    "hour",
+    "year"
+  ],
+  "secim": "Random Forest",
+  "secim_olcutu": "3 ileri zaman katında ortalama MAE",
+  "veri_dosyasi": "15-gym_crowdedness.csv",
+  "veri_sha256": "490412204d0d90c58036788adaaba1a16968dfab525fad3fefe78a18bc998ff4",
+  "surumler": {
+    "python": "3.12.13",
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0"
+  },
+  "egitim_son": "2016-09-20",
+  "test_ilk": "2016-09-21",
+  "test_son": "2017-03-18",
+  "test_metrikleri": {
+    "MAE": 10.033044855953715,
+    "RMSE": 13.268843110746246,
+    "R2": 0.24347579220988813,
+    "ortalama_hata": 9.36858538973856
+  },
+  "varsayimlar": [
+    "Sıcaklık girdisi tahmin anında bulunmalı; bu test gözlenmiş sıcaklıkla yapılmıştır.",
+    "Sıcaklık birimi doğrulanmadı; özgün ölçek korunur.",
+    "50 kişi, 10 kişi tolerans ve 3:1 maliyet örnek varsayımlardır.",
+    "Gözlem toplamı günlük benzersiz ziyaretçi değildir.",
+    "Veri 2015–2017 dönemine aittir; güncel salona doğrudan genellenemez."
+  ],
+  "izleme": [
+    "Günlük giriş şeması ve eksik oranı",
+    "Gerçekleşen MAE / RMSE ve yoğun saat eksik tahmini",
+    "Saat ve dönem bazında kapsam / dağılım değişimi",
+    "Yeni dönemle gölge test ve yeniden eğitim"
+  ]
+}
