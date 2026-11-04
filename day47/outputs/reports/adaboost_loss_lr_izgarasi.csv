@@ -1,0 +1,19 @@
+loss,learning_rate,CV MAE (₹)
+linear,0.05,118539.0
+linear,0.1,117141.0
+linear,0.3,115628.0
+linear,0.5,117074.0
+linear,1.0,117489.0
+linear,2.0,117467.0
+square,0.05,119716.0
+square,0.1,119524.0
+square,0.3,117639.0
+square,0.5,117058.0
+square,1.0,117824.0
+square,2.0,211930.0
+exponential,0.05,118222.0
+exponential,0.1,117859.0
+exponential,0.3,115938.0
+exponential,0.5,116104.0
+exponential,1.0,117419.0
+exponential,2.0,117257.0

@@ -1,0 +1,16 @@
+segment,n,yanlılık (%),MdAPE (%),kapsama (%),bayrak
+kademe = ekonomi (<6 lakh),2447,0.16,9.44,91.3,
+kademe = orta (6–15 lakh),349,-0.56,10.81,83.09,⚠️
+kademe = premium (>15 lakh),253,0.19,11.39,83.79,⚠️
+yas_grubu = 0–2 yıl,280,-0.81,7.0,96.07,
+yas_grubu = 10+ yıl,416,-0.33,15.06,78.37,⚠️
+yas_grubu = 3–5 yıl,1272,-0.37,8.32,93.47,
+yas_grubu = 6–9 yıl,1081,1.27,11.2,88.07,
+fuel_type = CNG,57,-2.67,8.21,92.98,
+fuel_type = Diesel,1428,-0.45,10.54,87.04,
+fuel_type = Petrol,1553,0.6,9.0,92.08,
+transmission_type = Automatic,619,0.69,8.58,89.34,
+transmission_type = Manual,2430,-0.09,10.0,89.84,
+seller_type = Dealer,1921,0.16,9.69,90.21,
+seller_type = Individual,1094,-0.31,9.81,88.67,
+seller_type = Trustmark Dealer,34,0.77,6.48,97.06,

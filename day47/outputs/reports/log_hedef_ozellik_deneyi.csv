@@ -1,0 +1,13 @@
+model,hedef,özellik,CV R²,CV MAE (₹)
+Ridge,ham fiyat,temel özellikler,0.7290026609336169,214330.52625964652
+Ridge,ham fiyat,+ türetilmiş,0.7400274953492255,205134.8665868948
+Ridge,log fiyat,temel özellikler,0.8213351245751814,131064.51726864962
+Ridge,log fiyat,+ türetilmiş,0.8313545811651256,128518.30026902263
+Random Forest,ham fiyat,temel özellikler,0.9106713818018427,98565.53027251114
+Random Forest,ham fiyat,+ türetilmiş,0.9100809064196314,98960.72601711765
+Random Forest,log fiyat,temel özellikler,0.886046076125415,98130.52046008725
+Random Forest,log fiyat,+ türetilmiş,0.8851835088116078,98406.04955106713
+AdaBoost (derinlik 6),ham fiyat,temel özellikler,0.8825026701469076,173572.82208394253
+AdaBoost (derinlik 6),ham fiyat,+ türetilmiş,0.884575649279929,168767.03067350533
+AdaBoost (derinlik 6),log fiyat,temel özellikler,0.8808708862886737,116946.79639790153
+AdaBoost (derinlik 6),log fiyat,+ türetilmiş,0.8753124547128539,117489.27425240674

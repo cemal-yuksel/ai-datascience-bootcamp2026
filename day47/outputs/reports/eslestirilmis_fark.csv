@@ -1,0 +1,22 @@
+model,aile,ΔMAE (₹),"alt (%2,5)","üst (%97,5)",fark anlamlı mı?
+XGBoost,Boosting ailesi,494.0,-937.0,2050.0,ayırt edilemez
+LightGBM,Boosting ailesi,951.0,-598.0,2597.0,ayırt edilemez
+HistGradientBoosting,Boosting ailesi,2418.0,1003.0,4035.0,evet — rakip daha kötü
+Extra Trees,Bagging ailesi,2479.0,444.0,4478.0,evet — rakip daha kötü
+Random Forest,Bagging ailesi,2983.0,1069.0,4996.0,evet — rakip daha kötü
+Bagging (ağaç),Bagging ailesi,3084.0,1166.0,5088.0,evet — rakip daha kötü
+SVR (RBF),Komşuluk ve çekirdek,10837.0,7720.0,14181.0,evet — rakip daha kötü
+Gradient Boosting,Boosting ailesi,11631.0,9903.0,13318.0,evet — rakip daha kötü
+KNN,Komşuluk ve çekirdek,18609.0,15875.0,21659.0,evet — rakip daha kötü
+MLP (64-32),Sinir ağı,19334.0,16513.0,22474.0,evet — rakip daha kötü
+AdaBoost (derinlik 6),Boosting ailesi,22686.0,20601.0,24554.0,evet — rakip daha kötü
+Karar Ağacı,Tek ağaç,24793.0,19629.0,30910.0,evet — rakip daha kötü
+Polinom Ridge (d=2),Doğrusal,28029.0,17313.0,47085.0,evet — rakip daha kötü
+Ridge,Doğrusal,33170.0,30201.0,36640.0,evet — rakip daha kötü
+Doğrusal Regresyon,Doğrusal,33171.0,30211.0,36631.0,evet — rakip daha kötü
+Bayesian Ridge,Doğrusal,33176.0,30191.0,36635.0,evet — rakip daha kötü
+Huber,Doğrusal,33659.0,30668.0,37368.0,evet — rakip daha kötü
+ElasticNet,Doğrusal,33664.0,30603.0,37300.0,evet — rakip daha kötü
+Lasso,Doğrusal,34185.0,31031.0,37961.0,evet — rakip daha kötü
+SGD Regressor,Doğrusal,37449.0,34146.0,41231.0,evet — rakip daha kötü
+AdaBoost (varsayılan),Boosting ailesi,70240.0,66296.0,74044.0,evet — rakip daha kötü

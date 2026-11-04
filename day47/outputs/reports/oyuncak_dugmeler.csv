@@ -1,0 +1,9 @@
+yapılandırma,gerçek eğriye MAE,kullanılan ağaç
+Derinlik 1 (kütük),0.38121270557380543,6.0
+Derinlik 2,0.42359639738755134,8.0
+Derinlik 4,0.4845613566516627,100.0
+Derinlik 10 (derin),0.28379680843328015,100.0
+loss = linear,0.4618206229422091,9.0
+loss = square,0.9777630607811107,100.0
+loss = exponential,0.7505077684176831,100.0
+learning_rate = 0.05,0.3580790758822098,100.0

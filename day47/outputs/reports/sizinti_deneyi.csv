@@ -1,0 +1,4 @@
+ölçüt,naif (sızıntılı) kodlama,pipeline içinde TargetEncoder
+CV R² (log fiyat),0.9371637458521411,0.9368088745459915
+test R² (log fiyat),0.9288097726480093,0.9366353799853147
+CV – test farkı,0.008353973204131782,0.00017349456067683455
