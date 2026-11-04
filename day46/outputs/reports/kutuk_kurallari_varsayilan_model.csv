@@ -1,0 +1,51 @@
+tur,özellik,eşik,kütüğün kuralı,hata ε,söz hakkı α
+1,Glucose,154.5,"Glukoz ≤ 154.5 ise → Diyabet yok, değilse → Diyabet var",0.2394,1.1559
+2,BMI,27.35,"Beden kitle indeksi ≤ 27.3 ise → Diyabet yok, değilse → Diyabet var",0.3469,0.6327
+3,Glucose,99.5,"Glukoz ≤ 99.5 ise → Diyabet yok, değilse → Diyabet var",0.421,0.3185
+4,Age,30.5,"Yaş ≤ 30.5 ise → Diyabet yok, değilse → Diyabet yok",0.379,0.4937
+5,Age,27.5,"Yaş ≤ 27.5 ise → Diyabet yok, değilse → Diyabet var",0.3757,0.5077
+6,Glucose,124.5,"Glukoz ≤ 124.5 ise → Diyabet yok, değilse → Diyabet var",0.3933,0.4335
+7,BMI,40.85,"Beden kitle indeksi ≤ 40.9 ise → Diyabet yok, değilse → Diyabet var",0.4167,0.3364
+8,DiabetesPedigreeFunction,0.3185,"Soy geçmişi skoru ≤ 0.3 ise → Diyabet yok, değilse → Diyabet var",0.4119,0.356
+9,Pregnancies,6.5,"Hamilelik sayısı ≤ 6.5 ise → Diyabet yok, değilse → Diyabet var",0.4332,0.2687
+10,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet var",0.4302,0.281
+11,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4824,0.0706
+12,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4791,0.0837
+13,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4799,0.0804
+14,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4807,0.0773
+15,BMI,47.35,"Beden kitle indeksi ≤ 47.4 ise → Diyabet yok, değilse → Diyabet var",0.4631,0.1479
+16,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4658,0.1369
+17,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet yok, değilse → Diyabet yok",0.4838,0.0648
+18,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet var, değilse → Diyabet yok",0.4776,0.0898
+19,Insulin,113.0,"İnsülin ≤ 113.0 ise → Diyabet yok, değilse → Diyabet var",0.463,0.1484
+20,Age,56.5,"Yaş ≤ 56.5 ise → Diyabet yok, değilse → Diyabet yok",0.455,0.1805
+21,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet var",0.4834,0.0665
+22,Age,56.5,"Yaş ≤ 56.5 ise → Diyabet var, değilse → Diyabet yok",0.4786,0.0858
+23,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet yok, değilse → Diyabet yok",0.4659,0.1365
+24,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet var, değilse → Diyabet yok",0.4791,0.0836
+25,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4803,0.079
+26,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4844,0.0622
+27,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet yok",0.4849,0.0603
+28,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet var",0.4846,0.0616
+29,Insulin,544.0,"İnsülin ≤ 544.0 ise → Diyabet yok, değilse → Diyabet yok",0.4851,0.0597
+30,Insulin,544.0,"İnsülin ≤ 544.0 ise → Diyabet var, değilse → Diyabet yok",0.4844,0.0625
+31,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4849,0.0605
+32,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4853,0.0587
+33,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet yok",0.4858,0.057
+34,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet var",0.4855,0.0581
+35,BMI,47.35,"Beden kitle indeksi ≤ 47.4 ise → Diyabet yok, değilse → Diyabet var",0.47,0.1202
+36,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4718,0.113
+37,Insulin,261.5,"İnsülin ≤ 261.5 ise → Diyabet var, değilse → Diyabet yok",0.4789,0.0844
+38,BMI,29.85,"Beden kitle indeksi ≤ 29.8 ise → Diyabet yok, değilse → Diyabet var",0.46,0.1604
+39,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet yok, değilse → Diyabet yok",0.4517,0.1939
+40,Insulin,544.0,"İnsülin ≤ 544.0 ise → Diyabet var, değilse → Diyabet yok",0.4857,0.0573
+41,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet yok, değilse → Diyabet yok",0.4861,0.0556
+42,DiabetesPedigreeFunction,1.397,"Soy geçmişi skoru ≤ 1.4 ise → Diyabet var, değilse → Diyabet yok",0.4817,0.0734
+43,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4826,0.0696
+44,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4872,0.051
+45,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet yok",0.4876,0.0498
+46,BMI,22.75,"Beden kitle indeksi ≤ 22.8 ise → Diyabet yok, değilse → Diyabet var",0.4876,0.0496
+47,Insulin,544.0,"İnsülin ≤ 544.0 ise → Diyabet yok, değilse → Diyabet yok",0.4879,0.0484
+48,Insulin,544.0,"İnsülin ≤ 544.0 ise → Diyabet var, değilse → Diyabet yok",0.4869,0.0525
+49,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet yok",0.4872,0.051
+50,Glucose,79.5,"Glukoz ≤ 79.5 ise → Diyabet yok, değilse → Diyabet var",0.4878,0.0486
