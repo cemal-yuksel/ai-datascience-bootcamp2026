@@ -1,0 +1,56 @@
+{
+  "model": "CatBoost",
+  "hedef": "selling_price (₹, log1p ile eğitildi)",
+  "ozellikler": [
+    "brand",
+    "model",
+    "vehicle_age",
+    "km_driven",
+    "seller_type",
+    "fuel_type",
+    "transmission_type",
+    "mileage",
+    "engine",
+    "max_power",
+    "seats"
+  ],
+  "egitim_satiri": 12193,
+  "random_state": 42,
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "test_metrikleri": {
+    "R²": 0.6504,
+    "MAE (₹)": 102068.0619,
+    "RMSE (₹)": 637620.4404,
+    "MdAE (₹)": 52794.2845,
+    "MAPE (%)": 12.4876,
+    "MdAPE (%)": 9.6804,
+    "R² (log fiyat)": 0.9403
+  },
+  "aralik": {
+    "alfa": 0.1,
+    "log_oran_nicelikleri_global": [
+      -0.2563275359160087,
+      0.25614528414269566
+    ],
+    "tahmin_ucte_birlik_kesimleri_inr": [
+      444836.4614376717,
+      697011.5711501334
+    ],
+    "log_oran_nicelikleri_dilim": {
+      "0": [
+        -0.2963500623365659,
+        0.3098861676907285
+      ],
+      "1": [
+        -0.23467667254368585,
+        0.22087234135083567
+      ],
+      "2": [
+        -0.23549876432031472,
+        0.23381294382479817
+      ]
+    }
+  },
+  "not": "Model yalnızca eğitim kümesiyle eğitildi; üretimde aynı hiperparametrelerle tüm veriyle yeniden eğitilmesi önerilir."
+}

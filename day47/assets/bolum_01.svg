@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="1600" height="300" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.85" cy="0.45" r="0.5">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.42"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45">
+    <stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+  </pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/>
+  </marker>
+</defs>
+<rect width="1600" height="300" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="300" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="300" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="300" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="300" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.3s" repeatCount="indefinite"/></rect>
+<circle cx="1200" cy="107" r="1.5" fill="#E0E7FF" opacity="0.52"><animate attributeName="opacity" values="0.52;0.13;0.52" dur="4.2s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="449" cy="121" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="5.2s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="906" cy="44" r="1.1" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="3.0s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="106" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="3.5s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="874" cy="114" r="0.8" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1289" cy="176" r="1.5" fill="#E0E7FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="3.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="479" cy="224" r="0.8" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="4.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="118" r="1.5" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="5.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="746" cy="12" r="1.1" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="3.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="380" cy="150" r="0.8" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.12;0.46" dur="4.0s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="251" r="0.8" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="381" cy="279" r="1.5" fill="#E0E7FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="5.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1188" cy="185" r="1.5" fill="#E0E7FF" opacity="0.53"><animate attributeName="opacity" values="0.53;0.13;0.53" dur="5.5s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="253" cy="243" r="1.5" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="3.3s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="1521" cy="288" r="1.1" fill="#E0E7FF" opacity="0.54"><animate attributeName="opacity" values="0.54;0.14;0.54" dur="5.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="317" cy="167" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="2.9s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="727" cy="245" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.9s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="583" cy="86" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="663" cy="133" r="0.8" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="38" cy="210" r="1.5" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="4.5s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="498" cy="147" r="1.1" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.10;0.42" dur="4.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="694" cy="17" r="0.8" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="4.9s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="35" r="1.5" fill="#E0E7FF" opacity="0.25"><animate attributeName="opacity" values="0.25;0.06;0.25" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="256" cy="82" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="2.8s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="424" cy="194" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.10;0.42" dur="4.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="1127" cy="292" r="1.1" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="3.7s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="901" cy="112" r="1.1" fill="#E0E7FF" opacity="0.54"><animate attributeName="opacity" values="0.54;0.14;0.54" dur="5.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="1194" cy="183" r="1.5" fill="#E0E7FF" opacity="0.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="4.1s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="1142" cy="112" r="0.8" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.12;0.46" dur="4.2s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="129" cy="14" r="1.1" fill="#E0E7FF" opacity="0.52"><animate attributeName="opacity" values="0.52;0.13;0.52" dur="4.8s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="303" cy="257" r="1.5" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.7s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="554" cy="70" r="1.5" fill="#E0E7FF" opacity="0.2"><animate attributeName="opacity" values="0.2;0.05;0.2" dur="4.7s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="1075" cy="45" r="0.8" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="5.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="23" cy="130" r="1.1" fill="#E0E7FF" opacity="0.25"><animate attributeName="opacity" values="0.25;0.06;0.25" dur="5.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="485" cy="106" r="1.5" fill="#E0E7FF" opacity="0.23"><animate attributeName="opacity" values="0.23;0.06;0.23" dur="5.0s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1371" cy="106" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="5.9s" begin="3.4s" repeatCount="indefinite"/></circle>
+<text x="64" y="212" text-anchor="start" font-size="176" font-weight="800" fill="url(#vurguGrad)" letter-spacing="-6" filter="url(#parilti)" opacity="0.95">01</text>
+<rect x="338" y="62" width="3" height="176" rx="1.5" fill="#22D3EE" opacity="0.7"/>
+<text x="376" y="92" text-anchor="start" font-size="17" font-weight="700" fill="#22D3EE" letter-spacing="4">BÖLÜM 01 / 16  ·  KURULUM</text>
+<text x="374" y="169" text-anchor="start" font-size="62" font-weight="800" fill="#F8FAFC" letter-spacing="-1">Kurulum</text>
+<text x="376" y="218" text-anchor="start" font-size="27" font-weight="500" fill="#CBD5E1" font-style="italic">Araçlar, sabitler, tekrarlanabilirlik</text>
+<line x1="380" y1="258" x2="1230" y2="258" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="4" stroke-linecap="round"/><line x1="380" y1="258" x2="380" y2="258" stroke="#22D3EE" stroke-width="4" stroke-linecap="round" filter="url(#parilti)"/><circle cx="380" cy="258" r="9" fill="#22D3EE" filter="url(#parilti)"><animate attributeName="r" values="8;11;8" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="437" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="493" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="550" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="607" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="663" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="720" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="777" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="833" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="890" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="947" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="1003" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="1060" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="1117" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="1173" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="1230" cy="258" r="5" fill="#1E2547" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/>
+<circle cx="1430" cy="150" r="96" fill="#22D3EE" opacity="0.28" filter="url(#yumusak)"/>
+<circle cx="1430" cy="150" r="82" fill="#0F1535" stroke="#22D3EE" stroke-width="2.5" filter="url(#parilti)"/>
+<circle cx="1430" cy="150" r="104" fill="none" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="4 14"><animateTransform attributeName="transform" type="rotate" from="0 1430 150" to="360 1430 150" dur="24s" repeatCount="indefinite"/></circle>
+<g><circle cx="1430" cy="28" r="6" fill="#22D3EE" filter="url(#parilti)"/><animateTransform attributeName="transform" type="rotate" from="0 1430 150" to="-360 1430 150" dur="9s" repeatCount="indefinite"/></g>
+<text x="1430" y="180" text-anchor="middle" font-size="84" font-weight="500" fill="#E2E8F0" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif" >🧰</text>
+<rect x="1" y="1" width="1598" height="298" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
