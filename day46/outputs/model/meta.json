@@ -1,0 +1,38 @@
+{
+  "model": "AdaBoostClassifier (medyan doldurma + sigmoid kalibrasyon)",
+  "en_iyi_parametreler": {
+    "ada__estimator__max_depth": 2,
+    "ada__learning_rate": 0.1,
+    "ada__n_estimators": 200
+  },
+  "ozellik_sirasi": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "sifir_eksik_sayilacak_sutunlar": [
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI"
+  ],
+  "maliyet_esigi": 0.27,
+  "risk_sinirlari": {
+    "dusuk_orta": 0.27,
+    "orta_yuksek": 0.5
+  },
+  "sklearn_surumu": "1.9.1",
+  "test_metrikleri": {
+    "roc_auc": 0.824537037037037,
+    "pr_auc": 0.6847182449437488,
+    "duyarlilik_esikte": 0.8703703703703703,
+    "kesinlik_esikte": 0.5662650602409639
+  },
+  "uyari": "Egitim amaclidir; klinik tani araci degildir."
+}
