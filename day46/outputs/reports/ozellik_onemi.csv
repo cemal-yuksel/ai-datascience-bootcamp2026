@@ -1,0 +1,9 @@
+,model içi önem,permütasyon önemi (AUC düşüşü),perm. std
+Glukoz,0.36268,0.109,0.0274
+Beden kitle indeksi,0.25586,0.06297,0.01951
+Yaş,0.15582,0.03851,0.00998
+Hamilelik sayısı,0.03303,0.00763,0.00396
+İnsülin,0.06309,0.00455,0.00231
+Soy geçmişi skoru,0.12951,0.00304,0.00595
+Deri kıvrımı,0.0,0.0,0.0
+Kan basıncı,0.0,0.0,0.0
