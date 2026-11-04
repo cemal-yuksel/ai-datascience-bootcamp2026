@@ -1,0 +1,6 @@
+kontrol,bulgu,aksiyon
+Tekrarlanan satır,167,silindi (bölmeden önce)
+Yedek sütun (car_name),1,çıkarıldı
+"km ≥ 1,000,000",2,silindi (imkânsız değer)
+seats = 0 (gizli eksik),2,NaN yapıldı → pipeline'da medyanla doldurulur
+Lüks / yüksek fiyat,2,SİLİNMEDİ (gerçek segment)

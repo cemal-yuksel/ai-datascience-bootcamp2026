@@ -1,0 +1,5 @@
+senaryo,τ = cᵤ/(cᵤ+cₒ),önerilen çarpan m*,maliyet · m=1 (%),maliyet · m* (%),tasarruf (%)
+Simetrik (cᵤ = cₒ),0.5,1.001,12.593,12.593,-0.005
+Bekleme pahalı (cₒ = 2·cᵤ),0.333,0.941,18.156,16.666,8.206
+Bekleme çok pahalı (cₒ = 4·cᵤ),0.2,0.887,29.281,21.104,27.927
+Kaçan gelir pahalı (cᵤ = 2·cₒ),0.667,1.061,19.623,18.039,8.069

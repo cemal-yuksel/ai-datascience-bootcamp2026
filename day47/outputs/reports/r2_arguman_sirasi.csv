@@ -1,0 +1,4 @@
+model,"doğru sıra  r2_score(y_gercek, y_tahmin)","ters sıra  r2_score(y_tahmin, y_gercek)"
+Model A,0.966895367781168,0.9682393312371961
+Model B,0.9866200003404895,0.9868452751811512
+Model C (kötü),-0.4247928084137569,0.46560772758336055
