@@ -1,0 +1,5 @@
+model,ham 8 sütun,+ mühendislik (13 sütun),iyileşme %
+Ridge,8.534,5.7436,32.6968
+SVR (RBF),5.8307,4.7115,19.1958
+Random Forest,4.4797,4.1747,6.8078
+Gradient Boosting,4.5738,4.3742,4.363

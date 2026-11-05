@@ -1,0 +1,3 @@
+# Çalıştırma artıkları (notebook çalışırken oluşur)
+__pycache__/
+catboost_info/

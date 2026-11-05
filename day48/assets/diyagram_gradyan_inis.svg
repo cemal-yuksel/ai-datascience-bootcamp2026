@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F6B84B" stop-opacity="0.40"/><stop offset="1" stop-color="#F6B84B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FCA5A5"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="600" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="600" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="600" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="600" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="600" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="123" cy="101" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="3.4s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="639" cy="265" r="1.5" fill="#E0E7FF" opacity="0.25"><animate attributeName="opacity" values="0.25;0.06;0.25" dur="3.1s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="890" cy="410" r="1.5" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="4.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="919" cy="522" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="5.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="397" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.4s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="491" cy="244" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="3.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="744" cy="534" r="1.5" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="857" cy="545" r="1.1" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="3.9s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="173" r="1.1" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="4.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1011" cy="293" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="939" cy="480" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1004" cy="235" r="1.1" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="5.2s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="1270" cy="282" r="1.1" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.5s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="583" r="1.5" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1504" cy="220" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.4s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="162" cy="357" r="1.5" fill="#E0E7FF" opacity="0.18"><animate attributeName="opacity" values="0.18;0.05;0.18" dur="5.1s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="68" r="1.5" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="542" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="131" cy="441" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="518" cy="32" r="0.8" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.05;0.22" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="51" cy="390" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1079" cy="9" r="1.1" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="5.1s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="82" cy="12" r="1.1" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="593" cy="353" r="1.1" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="4.2s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="1523" cy="54" r="1.1" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="5.2s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="976" cy="238" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="925" cy="138" r="1.5" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="302" cy="357" r="1.1" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="5.5s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="1440" cy="579" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="357" cy="106" r="1.1" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.3s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="260" r="0.8" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="475" cy="376" r="1.1" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.7s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="317" cy="44" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.3s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="501" cy="112" r="0.8" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="5.0s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="58" cy="541" r="1.5" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.8s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="443" cy="223" r="1.5" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="4.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="1219" cy="60" r="1.1" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.5s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="1366" cy="499" r="1.1" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="5.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="758" cy="304" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="4.0s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="1411" cy="430" r="0.8" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="3.5s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="40" cy="470" r="0.8" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="4.3s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1213" cy="83" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="4.0s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="164" cy="232" r="1.1" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="956" cy="151" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="172" cy="350" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text letter-spacing="5" x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B">NEDEN &#x27;GRADIENT&#x27;?</text>
+<polyline points="200,130 220,151 240,171 260,190 280,208 300,226 320,243 340,260 360,276 380,291 400,305 420,319 440,332 460,344 480,355 500,366 520,376 540,386 560,395 580,403 600,410 620,417 640,423 660,428 680,432 700,436 720,439 740,442 760,444 780,445 800,445 820,445 840,444 860,442 880,439 900,436 920,432 940,428 960,423 980,417 1000,410 1020,403 1040,395 1060,386 1080,376 1100,366 1120,355 1140,344 1160,332 1180,319 1200,305 1220,291 1240,276 1260,260 1280,243 1300,226 1320,208 1340,190 1360,171 1380,151 1400,130" fill="none" stroke="#E2E8F0" stroke-width="4" opacity="0.85"/>
+<circle cx="280" cy="208" r="9" fill="#F472B6" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.00;0.05;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M280 208 L460 344" stroke="#F472B6" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04;0.09;1" dur="8s" repeatCount="indefinite"/></path>
+<text x="256" y="186.39999999999998" text-anchor="middle" font-size="15" font-weight="800" fill="#F472B6">başlangıç</text>
+<circle cx="460" cy="344" r="9" fill="#FB923C" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.11;0.16;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M460 344 L590 406" stroke="#FB923C" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.20;1" dur="8s" repeatCount="indefinite"/></path>
+<text x="436" y="321.85" text-anchor="middle" font-size="15" font-weight="800" fill="#FB923C">ağaç 2</text>
+<circle cx="590" cy="406" r="9" fill="#F6B84B" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22;0.27;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M590 406 L680 432" stroke="#F6B84B" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.31;1" dur="8s" repeatCount="indefinite"/></path>
+<text x="566.0" y="384.41249999999997" text-anchor="middle" font-size="15" font-weight="800" fill="#F6B84B">ağaç 3</text>
+<circle cx="680" cy="432" r="9" fill="#34D399" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.33;0.38;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M680 432 L736 441" stroke="#34D399" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37;0.42;1" dur="8s" repeatCount="indefinite"/></path>
+<text x="656" y="410.4" text-anchor="middle" font-size="15" font-weight="800" fill="#34D399">ağaç 4</text>
+<circle cx="736" cy="441" r="9" fill="#38BDF8" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.44;0.49;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M736 441 L772 444" stroke="#38BDF8" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48;0.53;1" dur="8s" repeatCount="indefinite"/></path>
+
+<circle cx="772" cy="444" r="9" fill="#22D3EE" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56;0.61;1" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M772 444 L792 445" stroke="#22D3EE" stroke-width="3" stroke-dasharray="6 7" marker-end="url(#ok)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60;0.65;1" dur="8s" repeatCount="indefinite"/></path>
+
+<circle cx="792" cy="445" r="9" fill="#A78BFA" filter="url(#parilti)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.67;0.72;1" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="800" y="528" text-anchor="middle" font-size="20" font-weight="600" fill="#E2E8F0">Dağın yamacında gözünüz kapalı iniyorsunuz: her adımda yalnızca &#x27;hangi yön daha aşağı?&#x27; diye bakarsınız.</text>
+<text x="800" y="562" text-anchor="middle" font-size="18" font-weight="500" fill="#94A3B8" font-style="italic">Her ağaç = bir adım; yokuş yönü = hatanın azaldığı yön; adım büyüklüğü = öğrenme hızı.</text>
+<text x="800" y="478" text-anchor="middle" font-size="17" font-weight="800" fill="#A78BFA">▲ en düşük hata (hedef)</text>
+<text x="230" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#94A3B8">hata yüksek</text>
+<rect x="1" y="1" width="1598" height="598" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

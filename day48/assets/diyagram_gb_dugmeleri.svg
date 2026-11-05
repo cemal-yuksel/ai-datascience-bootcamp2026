@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 660" width="1600" height="660" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F6B84B" stop-opacity="0.40"/><stop offset="1" stop-color="#F6B84B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FCA5A5"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="660" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="660" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="660" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="660" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="660" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="123" cy="101" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="3.4s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="639" cy="265" r="1.5" fill="#E0E7FF" opacity="0.25"><animate attributeName="opacity" values="0.25;0.06;0.25" dur="3.1s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="890" cy="410" r="1.5" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="4.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="919" cy="522" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="5.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="397" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.4s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="491" cy="244" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="3.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="744" cy="534" r="1.5" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="857" cy="545" r="1.1" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="3.9s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="173" r="1.1" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="4.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1011" cy="293" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="939" cy="480" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1004" cy="235" r="1.1" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="5.2s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="1270" cy="282" r="1.1" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.5s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="583" r="1.5" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1504" cy="220" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.4s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="162" cy="357" r="1.5" fill="#E0E7FF" opacity="0.18"><animate attributeName="opacity" values="0.18;0.05;0.18" dur="5.1s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="68" r="1.5" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="542" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="131" cy="441" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="518" cy="32" r="0.8" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.05;0.22" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="51" cy="390" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1079" cy="9" r="1.1" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="5.1s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="82" cy="12" r="1.1" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="593" cy="353" r="1.1" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="4.2s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="1523" cy="54" r="1.1" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="5.2s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="976" cy="238" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="925" cy="138" r="1.5" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="302" cy="357" r="1.1" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="5.5s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="1440" cy="579" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="357" cy="106" r="1.1" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.3s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="260" r="0.8" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="475" cy="647" r="1.5" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.7s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="1085" cy="12" r="0.8" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1490" cy="97" r="0.8" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="3.1s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="223" cy="230" r="0.8" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1322" cy="397" r="0.8" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="5.0s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="896" cy="443" r="1.5" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="4.5s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="1083" cy="603" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.7s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="47" cy="539" r="0.8" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.09;0.38" dur="3.8s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="770" cy="323" r="0.8" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="414" cy="24" r="1.1" fill="#E0E7FF" opacity="0.20"><animate attributeName="opacity" values="0.20;0.05;0.20" dur="4.7s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="1213" cy="636" r="0.8" fill="#E0E7FF" opacity="0.18"><animate attributeName="opacity" values="0.18;0.05;0.18" dur="3.1s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1489" cy="86" r="0.8" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="3.5s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="810" cy="482" r="0.8" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="4.0s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="257" cy="133" r="0.8" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.09;0.38" dur="3.9s" begin="1.6s" repeatCount="indefinite"/></circle>
+<text letter-spacing="5" x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B">GRADIENT BOOSTING&#x27;IN DÜĞMELERI</text>
+<g><rect x="60" y="100" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="60" y="100" width="470" height="240" rx="20" fill="#F6B84B" fill-opacity="0.10" stroke="#F6B84B" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="295.0" y="146" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🌲</text>
+<text x="295.0" y="184" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Ağaç sayısı</text>
+<text x="295.0" y="210" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Kaç tur?</text>
+<text x="295.0" y="231" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Çok → öğrenir, çok fazla → ezberler</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="295" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#F6B84B">n_estimators</text>
+<circle cx="480" cy="150" r="22" fill="none" stroke="#F6B84B" stroke-width="3"/><line x1="480" y1="150" x2="480" y2="132" stroke="#F6B84B" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 480 150;60 480 150;-60 480 150" dur="3.0s" repeatCount="indefinite"/></line>
+<g><rect x="560" y="100" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="560" y="100" width="470" height="240" rx="20" fill="#F472B6" fill-opacity="0.10" stroke="#F472B6" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="795.0" y="146" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🐢</text>
+<text x="795.0" y="184" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Öğrenme hızı</text>
+<text x="795.0" y="210" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Adım büyüklüğü</text>
+<text x="795.0" y="231" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Küçük + çok ağaç = sağlam</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="795" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#F472B6">learning_rate</text>
+<circle cx="980" cy="150" r="22" fill="none" stroke="#F472B6" stroke-width="3"/><line x1="980" y1="150" x2="980" y2="132" stroke="#F472B6" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 980 150;60 980 150;-60 980 150" dur="3.4s" repeatCount="indefinite"/></line>
+<g><rect x="1060" y="100" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="1060" y="100" width="470" height="240" rx="20" fill="#38BDF8" fill-opacity="0.10" stroke="#38BDF8" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="1295.0" y="146" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🪜</text>
+<text x="1295.0" y="184" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Ağaç derinliği</text>
+<text x="1295.0" y="210" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Her ağaç kaç soru sorar?</text>
+<text x="1295.0" y="231" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Derin → etkileşimleri yakalar</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="1295" y="324" text-anchor="middle" font-size="15" font-weight="700" fill="#38BDF8">max_depth</text>
+<circle cx="1480" cy="150" r="22" fill="none" stroke="#38BDF8" stroke-width="3"/><line x1="1480" y1="150" x2="1480" y2="132" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 1480 150;60 1480 150;-60 1480 150" dur="3.8s" repeatCount="indefinite"/></line>
+<g><rect x="60" y="370" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="60" y="370" width="470" height="240" rx="20" fill="#34D399" fill-opacity="0.10" stroke="#34D399" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="295.0" y="416" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🎲</text>
+<text x="295.0" y="454" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Alt örnekleme</text>
+<text x="295.0" y="480" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Her turda satırların bir kısmı</text>
+<text x="295.0" y="501" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Rastgelelik = dayanıklılık</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="295" y="594" text-anchor="middle" font-size="15" font-weight="700" fill="#34D399">subsample</text>
+<circle cx="480" cy="420" r="22" fill="none" stroke="#34D399" stroke-width="3"/><line x1="480" y1="420" x2="480" y2="402" stroke="#34D399" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 480 420;60 480 420;-60 480 420" dur="4.2s" repeatCount="indefinite"/></line>
+<g><rect x="560" y="370" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="560" y="370" width="470" height="240" rx="20" fill="#FB923C" fill-opacity="0.10" stroke="#FB923C" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="795.0" y="416" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">⚖️</text>
+<text x="795.0" y="454" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Kayıp işlevi</text>
+<text x="795.0" y="480" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">squared_error · absolute_error</text>
+<text x="795.0" y="501" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">huber · quantile</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="795" y="594" text-anchor="middle" font-size="15" font-weight="700" fill="#FB923C">loss</text>
+<circle cx="980" cy="420" r="22" fill="none" stroke="#FB923C" stroke-width="3"/><line x1="980" y1="420" x2="980" y2="402" stroke="#FB923C" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 980 420;60 980 420;-60 980 420" dur="4.6s" repeatCount="indefinite"/></line>
+<g><rect x="1060" y="370" width="470" height="240" rx="20" fill="#0B1026" opacity="0.9"/><rect x="1060" y="370" width="470" height="240" rx="20" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-width="2.2" filter="url(#parilti)"/>
+<text x="1295.0" y="416" text-anchor="middle" font-size="34" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🛑</text>
+<text x="1295.0" y="454" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC">Erken durdurma</text>
+<text x="1295.0" y="480" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">Doğrulama artık iyileşmiyor mu?</text>
+<text x="1295.0" y="501" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1">O zaman dur</text>
+</g>
+<text font-family="Consolas, Menlo, monospace" x="1295" y="594" text-anchor="middle" font-size="15" font-weight="700" fill="#A78BFA">n_iter_no_change</text>
+<circle cx="1480" cy="420" r="22" fill="none" stroke="#A78BFA" stroke-width="3"/><line x1="1480" y1="420" x2="1480" y2="402" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-60 1480 420;60 1480 420;-60 1480 420" dur="5.0s" repeatCount="indefinite"/></line>
+<rect x="1" y="1" width="1598" height="658" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

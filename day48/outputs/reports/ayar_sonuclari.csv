@@ -1,0 +1,11 @@
+model,varsayılan CV MAE,ayarlı CV MAE (seçim katları),süre (sn),taze katlarda CV MAE,iyileşme % (taze),seçim yanlılığı (taze − seçim),en iyi parametreler
+Gradient Boosting (ayarlı),4.3742,3.7534,64.9226,3.7135,15.1054,-0.0399,"{""learning_rate"": 0.0304, ""loss"": ""huber"", ""max_depth"": 5, ""max_features"": 0.4271, ""min_samples_leaf"": 8, ""n_estimators"": 924, ""subsample"": 0.6943}"
+LightGBM (ayarlı),4.2587,3.7783,6.4467,3.7636,11.6269,-0.0148,"{""colsample_bytree"": 0.5739, ""learning_rate"": 0.0173, ""min_child_samples"": 4, ""n_estimators"": 881, ""num_leaves"": 50, ""reg_lambda"": 0.0946, ""subsample"": 0.5527}"
+CatBoost (ayarlı),3.8251,3.7681,31.3085,3.7692,1.4606,0.0011,"{""depth"": 6, ""iterations"": 999, ""l2_leaf_reg"": 2.9967, ""learning_rate"": 0.0688}"
+Gradient Boosting · log hedef (ayarlı),4.3742,3.8393,64.4269,3.7813,13.5549,-0.058,"{""learning_rate"": 0.0304, ""loss"": ""huber"", ""max_depth"": 5, ""max_features"": 0.4271, ""min_samples_leaf"": 8, ""n_estimators"": 924, ""subsample"": 0.6943}"
+Extra Trees (ayarlı),3.7687,3.7647,19.7677,3.788,-0.5115,0.0232,"{""max_depth"": 20, ""max_features"": 0.8893, ""min_samples_leaf"": 1, ""n_estimators"": 591}"
+XGBoost (ayarlı),4.0895,3.8731,15.7231,3.8368,6.1791,-0.0363,"{""colsample_bytree"": 0.5925, ""learning_rate"": 0.0189, ""max_depth"": 6, ""min_child_weight"": 3, ""n_estimators"": 859, ""reg_lambda"": 0.5624, ""subsample"": 0.6101}"
+HistGradientBoosting (ayarlı),4.1712,3.9392,30.754,3.8517,7.6597,-0.0875,"{""l2_regularization"": 2.5128, ""learning_rate"": 0.0675, ""max_features"": 0.4572, ""max_iter"": 702, ""max_leaf_nodes"": 30, ""min_samples_leaf"": 26}"
+AdaBoost (ayarlı),6.0906,4.088,15.0021,4.078,33.0447,-0.0099,"{""estimator__max_depth"": 12, ""learning_rate"": 0.0873, ""loss"": ""linear"", ""n_estimators"": 121}"
+Random Forest (ayarlı),4.1881,4.0938,29.14,4.1213,1.5944,0.0275,"{""max_depth"": 15, ""max_features"": 0.3093, ""min_samples_leaf"": 1, ""n_estimators"": 515}"
+SVR (ayarlı),4.7193,4.6063,1.1969,4.6951,0.5134,0.0888,"{""C"": 43.7671, ""epsilon"": 0.1792, ""gamma"": 0.0194}"

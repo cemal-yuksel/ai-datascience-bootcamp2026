@@ -1,0 +1,5 @@
+model,ölçeksiz,StandardScaler
+KNN,7.2922,5.4309
+SVR (RBF),8.8413,4.7115
+MLP,6.0914,4.5158
+Gradient Boosting,4.3742,4.373

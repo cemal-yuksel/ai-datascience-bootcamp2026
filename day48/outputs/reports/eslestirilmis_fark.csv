@@ -1,0 +1,12 @@
+model,MAE farkı (model − en iyi CV),alt %95,üst %95,fark anlamlı mı?
+CatBoost,0.1919,-0.0576,0.4548,hayır (belirsiz)
+Stacking (grup bilinçli),-0.064,-0.1987,0.0722,hayır (belirsiz)
+Voting (ET+GB+SVR+Cat),0.0711,-0.1928,0.3589,hayır (belirsiz)
+XGBoost,0.4812,0.1636,0.8037,evet
+Bagging (100 ağaç),0.4074,0.1216,0.7032,evet
+HistGradientBoosting,0.5626,0.1531,0.9937,evet
+Random Forest,0.3318,0.0665,0.6179,evet
+LightGBM,0.5336,0.1543,0.9393,evet
+Gradient Boosting,0.7191,0.2901,1.1561,evet
+MLP (64-32),0.6318,0.1407,1.1428,evet
+Kernel Ridge (RBF),0.4381,-0.084,0.9934,hayır (belirsiz)

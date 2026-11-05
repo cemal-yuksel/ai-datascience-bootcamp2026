@@ -1,0 +1,7 @@
+T (MPa),kural,kabul edilen,yanlış kabul (gerçek < T),yanlış kabul oranı %,kaçırılan yeterli reçete %
+20,nokta: tahmin ≥ T,159,9,5.66,0.0
+20,güvenli: alt sınır ≥ T,113,0,0.0,24.667
+30,nokta: tahmin ≥ T,113,6,5.31,4.464
+30,güvenli: alt sınır ≥ T,67,0,0.0,40.179
+40,nokta: tahmin ≥ T,63,6,9.524,8.065
+40,güvenli: alt sınır ≥ T,37,0,0.0,40.323
