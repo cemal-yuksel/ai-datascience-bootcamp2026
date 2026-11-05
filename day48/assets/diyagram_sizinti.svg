@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" width="1600" height="620" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F6B84B" stop-opacity="0.40"/><stop offset="1" stop-color="#F6B84B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FCA5A5"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="620" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="620" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="620" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="620" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="620" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="123" cy="101" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="3.4s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="639" cy="265" r="1.5" fill="#E0E7FF" opacity="0.25"><animate attributeName="opacity" values="0.25;0.06;0.25" dur="3.1s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="890" cy="410" r="1.5" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="4.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="919" cy="522" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="5.3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="397" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.4s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="491" cy="244" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="3.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="744" cy="534" r="1.5" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="857" cy="545" r="1.1" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="3.9s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="173" r="1.1" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="4.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1011" cy="293" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="939" cy="480" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1004" cy="235" r="1.1" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="5.2s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="1270" cy="282" r="1.1" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.5s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="583" r="1.5" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1504" cy="220" r="1.1" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.09;0.34" dur="5.4s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="162" cy="357" r="1.5" fill="#E0E7FF" opacity="0.18"><animate attributeName="opacity" values="0.18;0.05;0.18" dur="5.1s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="68" r="1.5" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="542" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="131" cy="441" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="518" cy="32" r="0.8" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.05;0.22" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="51" cy="390" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="5.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1079" cy="9" r="1.1" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="5.1s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="82" cy="12" r="1.1" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="593" cy="353" r="1.1" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="4.2s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="1523" cy="54" r="1.1" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="5.2s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="976" cy="238" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="925" cy="138" r="1.5" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="302" cy="357" r="1.1" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="5.5s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="1440" cy="579" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="357" cy="106" r="1.1" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.3s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="260" r="0.8" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="475" cy="376" r="1.1" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.7s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="317" cy="44" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.3s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="501" cy="112" r="0.8" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="5.0s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="58" cy="541" r="1.5" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.8s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="443" cy="223" r="1.5" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="4.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="1219" cy="60" r="1.1" fill="#E0E7FF" opacity="0.48"><animate attributeName="opacity" values="0.48;0.12;0.48" dur="4.5s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="1366" cy="499" r="1.1" fill="#E0E7FF" opacity="0.19"><animate attributeName="opacity" values="0.19;0.05;0.19" dur="5.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="758" cy="304" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="4.0s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="1411" cy="430" r="0.8" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="3.5s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="40" cy="470" r="0.8" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="4.3s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1213" cy="83" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="4.0s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="164" cy="232" r="1.1" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="956" cy="151" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="172" cy="350" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text letter-spacing="5" x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B">VERI SIZINTISI: AYNI REÇETE IKI TARAFTA</text>
+<text x="400" y="110" text-anchor="middle" font-size="26" font-weight="800" fill="#FCA5A5">❌ Rastgele bölme</text>
+<text x="1200" y="110" text-anchor="middle" font-size="26" font-weight="800" fill="#86EFAC">✅ Reçete bazlı bölme</text>
+<rect x="60" y="140" width="680" height="190" rx="18" fill="#0B1026" stroke="#F472B6" stroke-opacity="0.5"/>
+<text x="130" y="172" text-anchor="start" font-size="15" font-weight="800" fill="#F6B84B">EĞİTİM</text>
+<text x="130" y="330" text-anchor="middle" font-size="1" font-weight="600" fill="#E2E8F0"></text>
+<rect x="80" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="130" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="130" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">3. gün</text>
+<rect x="200" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="250" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="250" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">28. gün</text>
+<rect x="320" y="190" width="100" height="56" rx="12" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2"/><text x="370" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete B</text><text x="370" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">7. gün</text>
+<rect x="440" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="490" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="490" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">90. gün</text>
+<rect x="60" y="350" width="680" height="120" rx="18" fill="#0B1026" stroke="#FCA5A5" stroke-opacity="0.6" stroke-dasharray="6 6"/>
+<text x="130" y="380" text-anchor="start" font-size="15" font-weight="800" fill="#FCA5A5">TEST</text>
+<rect x="80" y="396" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="130" y="421" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="130" y="440" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">14. gün</text>
+<rect x="200" y="396" width="100" height="56" rx="12" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2"/><text x="250" y="421" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete B</text><text x="250" y="440" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">28. gün</text>
+<text x="555" y="440" text-anchor="middle" font-size="16" font-weight="700" fill="#FCA5A5">Model A&#x27;yı eğitimde gördü → &#x27;ezberden&#x27; bilir</text>
+<rect x="860" y="140" width="680" height="190" rx="18" fill="#0B1026" stroke="#34D399" stroke-opacity="0.5"/>
+<text x="930" y="172" text-anchor="start" font-size="15" font-weight="800" fill="#F6B84B">EĞİTİM</text>
+<rect x="880" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="930" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="930" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">3. gün</text>
+<rect x="1000" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="1050" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="1050" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">28. gün</text>
+<rect x="1120" y="190" width="100" height="56" rx="12" fill="#F472B6" fill-opacity="0.18" stroke="#F472B6" stroke-width="2"/><text x="1170" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete A</text><text x="1170" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">90. gün</text>
+<rect x="1240" y="190" width="100" height="56" rx="12" fill="#FB923C" fill-opacity="0.18" stroke="#FB923C" stroke-width="2"/><text x="1290" y="215" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete C</text><text x="1290" y="234" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">7. gün</text>
+<rect x="860" y="350" width="680" height="120" rx="18" fill="#0B1026" stroke="#34D399" stroke-opacity="0.7" stroke-dasharray="6 6"/>
+<text x="930" y="380" text-anchor="start" font-size="15" font-weight="800" fill="#86EFAC">TEST</text>
+<rect x="880" y="396" width="100" height="56" rx="12" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2"/><text x="930" y="421" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete B</text><text x="930" y="440" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">7. gün</text>
+<rect x="1000" y="396" width="100" height="56" rx="12" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2"/><text x="1050" y="421" text-anchor="middle" font-size="16" font-weight="800" fill="#F8FAFC">Reçete B</text><text x="1050" y="440" text-anchor="middle" font-size="13" font-weight="500" fill="#CBD5E1">28. gün</text>
+<text x="1345" y="440" text-anchor="middle" font-size="16" font-weight="700" fill="#86EFAC">Model B&#x27;yi hiç görmedi → gerçek sınav</text>
+<text x="800" y="540" text-anchor="middle" font-size="21" font-weight="600" fill="#E2E8F0">Aynı reçete farklı yaşlarda ölçülmüş: rastgele bölmede model reçeteyi tanır ve skor şişer.</text>
+<text x="800" y="574" text-anchor="middle" font-size="18" font-weight="500" fill="#94A3B8" font-style="italic">Gerçekte yeni bir reçete denenecek; bu yüzden reçeteleri bölmenin her iki yanına birden koymuyoruz.</text>
+<rect x="1" y="1" width="1598" height="618" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

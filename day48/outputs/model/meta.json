@@ -1,0 +1,42 @@
+{
+  "model": "Voting (ayarlı ilk 3: Gradient Boosting, LightGBM, CatBoost)",
+  "hedef": "basinc_dayanimi_MPa",
+  "ozellikler": [
+    "cimento",
+    "curuf",
+    "kul",
+    "su",
+    "akiskanlastirici",
+    "iri_agrega",
+    "ince_agrega",
+    "yas_gun"
+  ],
+  "veri_md5": "c19971ff2f0b5f180aa663e62d4d14f3",
+  "egitim_satir": 838,
+  "egitim_recete": 341,
+  "bolme": "GroupShuffleSplit (recete_id), test_size=0.2, random_state=42",
+  "cv": "GroupKFold(5, shuffle=True, random_state=42)",
+  "test_metrikleri": {
+    "MAE": 3.0854,
+    "RMSE": 4.4625,
+    "R²": 0.9169,
+    "MdAPE %": 6.1631
+  },
+  "konformal_pay_MPa": {
+    "global": 8.1603,
+    "≤ 7 gün": 8.9275,
+    "8–28 gün": 10.5673,
+    "> 28 gün": 8.1603,
+    "kapsama_hedefi": 0.9
+  },
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0",
+    "catboost": "1.2.10",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "uyari": "Egitim amaclidir; yapisal tasarimda kirma deneyi ve ilgili standartlarin yerine gecmez."
+}

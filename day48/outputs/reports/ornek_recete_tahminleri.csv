@@ -1,0 +1,10 @@
+reçete,yaş (gün),tahmin (MPa),alt sınır (MPa),üst sınır (MPa)
+Klasik çimentolu (cüruf/kül yok),7,20.4,11.5,29.4
+Klasik çimentolu (cüruf/kül yok),28,34.9,24.4,45.5
+Klasik çimentolu (cüruf/kül yok),90,41.1,32.9,49.2
+Cüruflu + akışkanlaştırıcılı,7,35.4,26.4,44.3
+Cüruflu + akışkanlaştırıcılı,28,52.4,41.8,63.0
+Cüruflu + akışkanlaştırıcılı,90,61.4,53.2,69.5
+"Uçucu küllü, düşük çimento",7,18.2,9.3,27.2
+"Uçucu küllü, düşük çimento",28,29.7,19.1,40.2
+"Uçucu küllü, düşük çimento",90,39.4,31.2,47.5

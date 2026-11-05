@@ -1,0 +1,12 @@
+model,taze katlarda CV MAE,aile
+"Voting (ayarlı ilk 3: Gradient Boosting, LightGBM, CatBoost)",3.6656,Topluluk
+Gradient Boosting (ayarlı),3.7135,Boosting
+LightGBM (ayarlı),3.7636,Boosting
+CatBoost (ayarlı),3.7692,Boosting
+Gradient Boosting · log hedef (ayarlı),3.7813,Boosting
+Extra Trees (ayarlı),3.788,Ağaç ve orman
+XGBoost (ayarlı),3.8368,Boosting
+HistGradientBoosting (ayarlı),3.8517,Boosting
+AdaBoost (ayarlı),4.078,Boosting
+Random Forest (ayarlı),4.1213,Ağaç ve orman
+SVR (ayarlı),4.6951,Komşuluk ve çekirdek

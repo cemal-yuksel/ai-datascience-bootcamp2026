@@ -1,0 +1,5 @@
+model,ham hedef (MPa),log hedef
+Ridge,5.7436,5.9621
+SVR (RBF),4.7115,4.8937
+Random Forest,4.1747,4.2004
+Gradient Boosting,4.3742,4.2742
