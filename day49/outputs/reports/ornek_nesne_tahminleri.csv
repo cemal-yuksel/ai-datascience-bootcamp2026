@@ -1,0 +1,5 @@
+nesne,u,g,r,i,z,gerçek,P(GALAXY),P(QSO),P(STAR),tahmin,kuasar adayı (spektrum öner)
+Test'ten bir GALAXY,19.19234,17.33534,16.35525,15.85395,15.51435,GALAXY,0.985,0.012,0.003,GALAXY,False
+Test'ten bir QSO,17.72604,17.4621,17.24036,17.21479,17.09174,QSO,0.042,0.953,0.006,QSO,True
+Test'ten bir STAR,18.85902,17.89643,17.5961,17.49184,17.44213,STAR,0.007,0.001,0.992,STAR,False
+"Elle girilen: mavi, morötesi parlak",18.4,18.2,18.1,18.0,17.9,?,0.005,0.992,0.003,QSO,True

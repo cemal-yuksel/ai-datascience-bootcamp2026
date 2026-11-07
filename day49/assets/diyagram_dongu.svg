@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" width="1600" height="560" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F6B84B" stop-opacity="0.40"/><stop offset="1" stop-color="#F6B84B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FCA5A5"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="560" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="560" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="560" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="560" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="934" cy="484" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.5s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="1056" cy="495" r="1.5" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="3.5s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="298" cy="100" r="1.5" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="4.7s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="819" cy="471" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="4.6s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="72" r="0.8" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="5.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="958" cy="342" r="1.1" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.09;0.38" dur="3.5s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="519" r="0.8" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="4.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="1136" cy="93" r="1.5" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="4.9s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="68" cy="79" r="1.5" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="4.0s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="799" cy="76" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.0s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="115" cy="489" r="1.1" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="4.0s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1297" cy="211" r="1.5" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="3.2s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="847" cy="128" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="3.3s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="1005" cy="189" r="1.5" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.1s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1506" cy="142" r="1.1" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.3s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="443" cy="8" r="1.1" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="5.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="48" cy="223" r="0.8" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="5.1s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="213" cy="51" r="0.8" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="3.6s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="681" cy="311" r="1.1" fill="#E0E7FF" opacity="0.22"><animate attributeName="opacity" values="0.22;0.06;0.22" dur="3.2s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="505" cy="23" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="4.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="1210" cy="503" r="1.5" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.0s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="644" cy="241" r="1.5" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="3.5s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="1142" cy="209" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="5.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="871" cy="56" r="0.8" fill="#E0E7FF" opacity="0.23"><animate attributeName="opacity" values="0.23;0.06;0.23" dur="4.3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1523" cy="409" r="1.1" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="5.3s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1073" cy="187" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="3.3s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="1346" cy="83" r="1.1" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="5.3s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="149" cy="283" r="1.1" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="763" cy="551" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="346" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.10;0.42" dur="4.3s" begin="3.8s" repeatCount="indefinite"/></circle>
+<text x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B" letter-spacing="5">XGBOOST&#x27;UN KALP ATIŞI</text>
+<text x="800.0" y="100" text-anchor="middle" font-size="24" font-weight="700" fill="#F8FAFC" >Her tur aynı beş adım: başla → hatayı bul → ağaç kur → düzelt → tekrarla</text>
+<rect x="50" y="170" width="255" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#F6B84B" stroke-width="2" />
+<text x="177.5" y="212.5" text-anchor="middle" font-size="20" font-weight="800" fill="#F6B84B" >1 · Başlangıç</text>
+<text x="177.5" y="240.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >Herkese aynı tahmin</text>
+<text x="177.5" y="263.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >log-odds (sınıflama)</text>
+<text x="177.5" y="286.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >ortalama (regresyon)</text>
+<path d="M308 245 L350 245" fill="none" stroke="#F6B84B" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#okAltin)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<rect x="355" y="170" width="255" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#F472B6" stroke-width="2" />
+<text x="482.5" y="212.5" text-anchor="middle" font-size="20" font-weight="800" fill="#F472B6" >2 · Hata</text>
+<text x="482.5" y="240.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >gerçek − tahmin</text>
+<text x="482.5" y="263.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >artık = negatif gradyan</text>
+<text x="482.5" y="286.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >g ve h hesaplanır</text>
+<path d="M613 245 L655 245" fill="none" stroke="#F472B6" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<rect x="660" y="170" width="255" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#38BDF8" stroke-width="2" filter="url(#parilti)"/>
+<text x="787.5" y="212.5" text-anchor="middle" font-size="20" font-weight="800" fill="#38BDF8" >3 · Ağaç</text>
+<text x="787.5" y="240.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >en yüksek gain&#x27;li</text>
+<text x="787.5" y="263.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >bölünmeyi seç</text>
+<text x="787.5" y="286.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >benzerlik skoru</text>
+<path d="M918 245 L960 245" fill="none" stroke="#38BDF8" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<rect x="965" y="170" width="255" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#34D399" stroke-width="2" />
+<text x="1092.5" y="212.5" text-anchor="middle" font-size="20" font-weight="800" fill="#34D399" >4 · Yaprak</text>
+<text x="1092.5" y="240.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >her yaprağa bir değer</text>
+<text x="1092.5" y="263.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >ΣR / (Σp(1−p)+λ)</text>
+<text x="1092.5" y="286.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" ></text>
+<path d="M1223 245 L1265 245" fill="none" stroke="#34D399" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<rect x="1270" y="170" width="255" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#A78BFA" stroke-width="2" />
+<text x="1397.5" y="212.5" text-anchor="middle" font-size="20" font-weight="800" fill="#A78BFA" >5 · Güncelle</text>
+<text x="1397.5" y="240.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >F ← F + η · yaprak</text>
+<text x="1397.5" y="263.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >sigmoid ile olasılık</text>
+<text x="1397.5" y="286.5" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >başa dön ↺</text>
+<path d="M1425 325 Q800.0 420.0 175 325" fill="none" stroke="#F6B84B" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#okAltin)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<text x="800.0" y="362.5" text-anchor="middle" font-size="15" font-weight="700" fill="#F6B84B" >M tur boyunca tekrar</text>
+<text x="800" y="520" text-anchor="middle" font-size="21" font-weight="700" fill="#F8FAFC" >Final tahmin  F(x) = F₀ + η·H₁(x) + η·H₂(x) + … + η·H_M(x)   →   p = 1 / (1 + e^(−F))</text>
+<rect x="1" y="1" width="1598" height="558" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

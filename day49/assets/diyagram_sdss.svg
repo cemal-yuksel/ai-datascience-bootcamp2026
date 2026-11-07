@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" width="1600" height="560" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#120F35"/><stop offset="1" stop-color="#1E0A33"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F6B84B" stop-opacity="0.40"/><stop offset="1" stop-color="#F6B84B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FCA5A5"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="560" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="560" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="560" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="560" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="295" cy="256" r="0.8" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.1s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1522" cy="361" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="5.4s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="1239" cy="191" r="1.5" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="5.3s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="107" cy="29" r="1.5" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="4.1s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="236" cy="551" r="1.5" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="5.4s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="1438" cy="342" r="1.5" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.08;0.30" dur="3.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1340" cy="535" r="0.8" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="3.7s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="892" cy="58" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="3.1s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="1044" cy="299" r="1.5" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.12;0.46" dur="4.0s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="386" cy="322" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1227" cy="547" r="1.1" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="5.2s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="193" cy="462" r="1.1" fill="#E0E7FF" opacity="0.23"><animate attributeName="opacity" values="0.23;0.06;0.23" dur="5.0s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="411" cy="532" r="0.8" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="3.2s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="359" cy="38" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.4s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="1297" cy="203" r="1.1" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="4.3s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="1333" cy="214" r="1.5" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="479" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="4.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1205" cy="299" r="1.5" fill="#E0E7FF" opacity="0.42"><animate attributeName="opacity" values="0.42;0.11;0.42" dur="4.2s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1325" cy="370" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="4.5s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="45" cy="199" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1296" cy="452" r="1.5" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="3.1s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="729" cy="128" r="0.8" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="55" cy="290" r="0.8" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="248" cy="545" r="0.8" fill="#E0E7FF" opacity="0.21"><animate attributeName="opacity" values="0.21;0.05;0.21" dur="3.9s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="75" cy="218" r="0.8" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="4.6s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="1418" cy="437" r="1.1" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="141" cy="169" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.6s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="1029" cy="170" r="1.5" fill="#E0E7FF" opacity="0.28"><animate attributeName="opacity" values="0.28;0.07;0.28" dur="5.1s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="12" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="5.5s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="485" cy="461" r="1.5" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.9s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B" letter-spacing="5">SDSS: IŞIĞI BEŞ RENKTE ÖLÇMEK</text>
+<text x="800.0" y="100" text-anchor="middle" font-size="24" font-weight="700" fill="#F8FAFC" >Teleskop her nesneyi u, g, r, i, z filtrelerinden ayrı ayrı ölçer</text>
+<rect x="60" y="150" width="170" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#A78BFA" stroke-width="2" />
+<text x="145.0" y="214.8" text-anchor="middle" font-size="48" font-weight="800" fill="#A78BFA" >u</text>
+<text x="145.0" y="242.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >ultraviyole</text>
+<text x="145.0" y="264.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >parlaklık (mag)</text>
+<rect x="260" y="150" width="170" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#34D399" stroke-width="2" filter="url(#parilti)"/>
+<text x="345.0" y="214.8" text-anchor="middle" font-size="48" font-weight="800" fill="#34D399" >g</text>
+<text x="345.0" y="242.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >yeşil</text>
+<text x="345.0" y="264.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >parlaklık (mag)</text>
+<rect x="460" y="150" width="170" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#F87171" stroke-width="2" />
+<text x="545.0" y="214.8" text-anchor="middle" font-size="48" font-weight="800" fill="#F87171" >r</text>
+<text x="545.0" y="242.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >kırmızı</text>
+<text x="545.0" y="264.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >parlaklık (mag)</text>
+<rect x="660" y="150" width="170" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#FB923C" stroke-width="2" />
+<text x="745.0" y="214.8" text-anchor="middle" font-size="48" font-weight="800" fill="#FB923C" >i</text>
+<text x="745.0" y="242.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >yakın kızılötesi</text>
+<text x="745.0" y="264.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >parlaklık (mag)</text>
+<rect x="860" y="150" width="170" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#F472B6" stroke-width="2" />
+<text x="945.0" y="214.8" text-anchor="middle" font-size="48" font-weight="800" fill="#F472B6" >z</text>
+<text x="945.0" y="242.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >kızılötesi</text>
+<text x="945.0" y="264.8" text-anchor="middle" font-size="15" font-weight="500" fill="#CBD5E1" >parlaklık (mag)</text>
+<rect x="1090" y="150" width="450" height="150" rx="18" fill="#0B1026" opacity="0.88" stroke="#F6B84B" stroke-width="2" />
+<text x="1315.0" y="205.1" text-anchor="middle" font-size="26" font-weight="800" fill="#F6B84B" >Renk indeksi</text>
+<text x="1315.0" y="233.1" text-anchor="middle" font-size="17" font-weight="500" fill="#CBD5E1" >u−g, g−r, r−i, i−z</text>
+<text x="1315.0" y="257.1" text-anchor="middle" font-size="17" font-weight="500" fill="#CBD5E1" >komşu iki filtrenin farkı → sıcaklık ipucu</text>
+<path d="M1020 225 L1090 225" fill="none" stroke="#F6B84B" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#okAltin)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.3s" repeatCount="indefinite"/></path>
+<rect x="60" y="350" width="700" height="140" rx="18" fill="#0B1026" opacity="0.88" stroke="#38BDF8" stroke-width="2" />
+<text x="410.0" y="397.0" text-anchor="middle" font-size="20" font-weight="800" fill="#38BDF8" >Magnitüd tersine işler</text>
+<text x="410.0" y="425.0" text-anchor="middle" font-size="18" font-weight="500" fill="#CBD5E1" >küçük sayı = parlak nesne</text>
+<text x="410.0" y="450.0" text-anchor="middle" font-size="18" font-weight="500" fill="#CBD5E1" >u=17 olan nesne, u=19 olandan ≈ 6 kat parlaktır</text>
+<rect x="840" y="350" width="700" height="140" rx="18" fill="#0B1026" opacity="0.88" stroke="#34D399" stroke-width="2" />
+<text x="1190.0" y="397.0" text-anchor="middle" font-size="20" font-weight="800" fill="#34D399" >Redshift (z)</text>
+<text x="1190.0" y="425.0" text-anchor="middle" font-size="18" font-weight="500" fill="#CBD5E1" >ışığın kırmızıya kayma miktarı</text>
+<text x="1190.0" y="450.0" text-anchor="middle" font-size="18" font-weight="500" fill="#CBD5E1" >yıldız ≈ 0; galaksi küçük; kuasar çok uzak ve büyük</text>
+<text x="800" y="535" text-anchor="middle" font-size="18" font-weight="500" fill="#94A3B8" >Redshift spektrumdan gelir; yalnız fotometrik (u,g,r,i,z) çalışmak daha zor ve gerçekçi bir senaryodur.</text>
+<rect x="1" y="1" width="1598" height="558" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
