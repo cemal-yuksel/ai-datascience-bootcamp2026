@@ -1,0 +1,5 @@
+karar kuralı,kaçırılan kuasar (FN),boşa spektrum (FP),toplam maliyet,kişi başı maliyet,kuasar geri çağırma,kuasar kesinlik
+"varsayılan eşik (τ = 0,5)",12,9,69.0,0.0345,0.9294117647058824,0.9461077844311377
+maliyet-en-iyi eşik (τ = 0.09),7,38,73.0,0.0365,0.9588235294117647,0.8109452736318408
+hiç spektrum alma,170,0,850.0,0.425,0.0,
+hepsi için spektrum al,0,1830,1830.0,0.915,1.0,0.085

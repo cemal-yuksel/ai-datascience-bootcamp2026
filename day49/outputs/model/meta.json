@@ -1,0 +1,56 @@
+{
+  "model": "XGBoost · arama #4 (Senaryo B: yalnizca fotometri)",
+  "hedef": "class (GALAXY=0, QSO=1, STAR=2)",
+  "siniflar": [
+    "GALAXY",
+    "QSO",
+    "STAR"
+  ],
+  "girdiler": [
+    "u",
+    "g",
+    "r",
+    "i",
+    "z"
+  ],
+  "xgboost_parametreleri": {
+    "colsample_bytree": 0.92650472773368,
+    "gamma": 0.44167333810437853,
+    "learning_rate": 0.056746629069360614,
+    "max_depth": 8.0,
+    "min_child_weight": 1.11754198007617,
+    "n_estimators": 472.0,
+    "reg_alpha": 0.0042359281594473485,
+    "reg_lambda": 2.394772387189076,
+    "subsample": 0.9744619096643123
+  },
+  "veri_md5": "79dab32ea14f1ea9d7db831cf9a0a3b5",
+  "egitim_satir": 8000,
+  "test_satir": 2000,
+  "bolme": "train_test_split(test_size=0.20, stratify=y, random_state=42)",
+  "cv": "StratifiedKFold(5, shuffle=True, random_state=42)",
+  "test_metrikleri": {
+    "Doğruluk": 0.9695,
+    "Dengeli doğruluk": 0.9588,
+    "Makro-F1": 0.9593,
+    "MCC": 0.9466,
+    "QSO geri çağırma": 0.9294,
+    "Log-loss": 0.1094,
+    "AUC (OvR)": 0.9911
+  },
+  "qso_karar_esigi_tau": 0.09,
+  "maliyet_varsayimi": {
+    "kacirilan_qso": 5.0,
+    "bosa_spektrum": 1.0
+  },
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0",
+    "catboost": "1.2.10",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "uyari": "Egitim amaclidir. SDSS spektroskopik orneklemi (u <= 19.6) uzerinde egitildi; cok soluk nesneler ve baska taramalar icin dogrulanmamistir."
+}
