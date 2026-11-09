@@ -1,0 +1,7 @@
+yöntem,doğrulama RMSE,süre (sn)
+gbtree · hist (varsayılan),45602.26,0.56
+gbtree · exact,45526.14,1.92
+gbtree · approx,45602.26,0.68
+gbtree · lossguide (yaprak odaklı),44951.77,1.31
+DART (dropout),45934.3,3.3
+gblinear (doğrusal),70898.53,0.5

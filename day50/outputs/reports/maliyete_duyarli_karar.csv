@@ -1,0 +1,4 @@
+,ort. maliyet ($/mahalle),RMSE ($),fazla tahmin oranı (%)
+ortalama tahmin (final XGBoost),42504.51,43838.47,56.66
+"medyan tahmin (kuantil 0,5)",41941.14,48389.22,51.26
+asimetrik kuantil (τ = 0.33),38519.62,51431.37,37.48

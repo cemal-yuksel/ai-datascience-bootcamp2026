@@ -1,0 +1,4 @@
+özellik kümesi,XGBoost RMSE,Ridge RMSE
+ham: yalnızca ham sütunlar,48099.4,69694.5
+"oran: + oda/hane, yatak/oda, kişi/hane",46824.9,67794.6
+tam: + en yakın büyük şehre uzaklık,45954.2,67295.0

@@ -1,0 +1,11 @@
+,tür,n,kapsama %
+<1H OCEAN,ocean_proximity,1812,79.86
+INLAND,ocean_proximity,1325,81.36
+NEAR BAY,ocean_proximity,460,74.13
+NEAR OCEAN,ocean_proximity,531,75.52
+Ç1 (en düşük),gelir dilimi,1021,81.78
+Ç2,gelir dilimi,1064,82.33
+Ç3,gelir dilimi,1057,80.13
+Ç4 (en yüksek),gelir dilimi,986,71.91
+tavanlı (500.001 $),fiyat tavanı,178,40.45
+tavansız,fiyat tavanı,3950,80.89

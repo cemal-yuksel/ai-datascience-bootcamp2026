@@ -1,0 +1,6 @@
+model,kuantil,log,saglam,standart,en iyi
+MLP,51083.3,51775.6,51970.9,52459.2,kuantil
+Ridge,70051.4,67295.0,67183.8,67183.6,standart
+SGD,70236.9,68668.4,2663858873545555.5,410363765.3,log
+SVR (RBF),51539.2,51945.2,58890.4,54532.9,kuantil
+k-En Yakın Komşu,55492.2,55905.5,58369.7,59372.8,kuantil

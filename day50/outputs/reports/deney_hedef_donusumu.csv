@@ -1,0 +1,3 @@
+model,hedef düz,hedef log (sonra exp),fark
+XGBoost,45954.2,46709.4,755.2
+Ridge,67295.0,65276.1,-2019.0

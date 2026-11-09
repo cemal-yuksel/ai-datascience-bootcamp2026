@@ -1,0 +1,5 @@
+model,sınav,RMSE,MAE,R²,MAPE %,Medyan APE %
+XGBoost · varsayılan,rastgele 5 kat,45954.1922,30156.8993,0.8418,16.6367,11.0967
+XGBoost · varsayılan,coğrafi 5 kat,63257.1001,44532.7778,0.7002,25.1699,17.1357
+Ridge (log + ölçek),rastgele 5 kat,67295.0331,50185.0792,0.6607,30.2814,21.3078
+Ridge (log + ölçek),coğrafi 5 kat,71048.7856,53225.1807,0.6217,32.0776,22.47

@@ -1,0 +1,3 @@
+strateji,tüm mahalleler RMSE,tavansız mahalleler RMSE,tavanlı mahallelerde ort. tahmin
+A · hepsini bırak,45954.2,42819.4,450870.7
+B · tavanlıları eğitimden çıkar,46898.8,41870.7,420295.7
