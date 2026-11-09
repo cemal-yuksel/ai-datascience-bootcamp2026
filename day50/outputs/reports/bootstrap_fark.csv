@@ -1,0 +1,9 @@
+algoritma,RMSE farkı (aday − XGB varsayılan),%95 alt,%95 üst,sıfırı içeriyor mu?
+CatBoost,-2020.5,-2480.3,-1591.5,hayır (gerçek)
+Voting (XGB + LGBM + Cat),-1934.2,-2217.2,-1654.5,hayır (gerçek)
+Stacking (ET + XGB + LGBM → Ridge),-1234.5,-1511.0,-948.9,hayır (gerçek)
+XGBoost · DART,-48.4,-410.9,302.2,evet (şans)
+LightGBM,-15.1,-469.3,433.0,evet (şans)
+HistGradientBoosting,144.9,-330.6,598.2,evet (şans)
+Extra Trees,2330.4,1778.2,2938.5,hayır (gerçek)
+Random Forest,2795.0,2232.2,3372.6,hayır (gerçek)

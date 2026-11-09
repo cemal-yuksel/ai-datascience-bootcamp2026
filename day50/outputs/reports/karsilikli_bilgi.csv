@@ -1,0 +1,13 @@
+,korelasyon (r),karşılıklı bilgi
+longitude,-0.0463,0.4046
+median_income,0.6917,0.3935
+latitude,-0.1443,0.3739
+en_yakin_sehir_km,-0.3788,0.2784
+yatak_oda_orani,-0.2567,0.1414
+oda_hane,0.1688,0.1082
+kisi_hane,-0.0322,0.0724
+total_rooms,0.1398,0.0441
+households,0.0689,0.03
+total_bedrooms,0.0537,0.026
+housing_median_age,0.1027,0.0219
+population,-0.0195,0.0217

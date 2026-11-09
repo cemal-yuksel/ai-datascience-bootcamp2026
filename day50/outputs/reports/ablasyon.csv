@@ -1,0 +1,10 @@
+grup,çıkarılan sütun,CV RMSE,kayıp ($)
+Tümü,0,43073.0,0.0
+"− Konum (boylam, enlem)",2,52552.5,9479.5
+− Okyanus yakınlığı,5,43488.1,415.2
+− Şehre uzaklık,1,44391.6,1318.6
+− Tüm konum bilgisi,8,64254.5,21181.5
+− Gelir,1,44691.2,1618.2
+− Konut yaşı,1,44314.2,1241.2
+"− Ham toplam sayılar (oda, yatak, nüfus, hane)",4,42907.4,-165.6
+− Oran özellikleri,3,44103.9,1030.9

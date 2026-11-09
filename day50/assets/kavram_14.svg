@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="1600" height="300" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#14103A"/><stop offset="1" stop-color="#2A0F2E"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#FB923C" stop-opacity="0.42"/><stop offset="1" stop-color="#FB923C" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FDA4AF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="300" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="300" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="300" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="300" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="300" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="222" cy="273" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.08;0.30" dur="3.6s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1352" cy="234" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.9s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="246" cy="138" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="3.7s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="742" cy="268" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="4.5s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="25" cy="39" r="0.8" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="3.1s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="786" cy="210" r="1.5" fill="#E0E7FF" opacity="0.50"><animate attributeName="opacity" values="0.50;0.12;0.50" dur="4.0s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="1316" cy="61" r="1.5" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="4.4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="197" cy="253" r="1.5" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="996" cy="148" r="1.5" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="3.3s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="574" cy="147" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="51" r="1.1" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="936" cy="162" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="3.9s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="529" cy="246" r="1.1" fill="#E0E7FF" opacity="0.29"><animate attributeName="opacity" values="0.29;0.07;0.29" dur="4.9s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="295" r="0.8" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="3.6s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="1447" cy="211" r="1.1" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.6s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="968" cy="138" r="1.1" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="965" cy="135" r="0.8" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.1s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="4" cy="263" r="1.1" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.8s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="237" cy="21" r="0.8" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="3.0s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1029" cy="139" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="4.3s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="192" r="0.8" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.3s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="1554" cy="85" r="1.5" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.4s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="505" cy="202" r="1.5" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.09;0.38" dur="5.0s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="1258" cy="20" r="0.8" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.9s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="187" cy="138" r="0.8" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="3.1s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="437" cy="136" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="221" cy="135" r="1.5" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.9s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="459" cy="50" r="0.8" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.4s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="458" cy="184" r="1.5" fill="#E0E7FF" opacity="0.41"><animate attributeName="opacity" values="0.41;0.10;0.41" dur="4.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="836" cy="243" r="1.1" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="3.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="35" r="1.5" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="4.4s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="144" cy="222" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.8s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="143" cy="4" r="1.5" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.3s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="1210" cy="80" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="4.0s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="1475" cy="274" r="0.8" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="5.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="1398" cy="264" r="0.8" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.09;0.38" dur="4.8s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="19" cy="187" r="0.8" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.12;0.46" dur="3.9s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="712" cy="174" r="0.8" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.07;0.30" dur="3.6s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1578" cy="163" r="0.8" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.8s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="1327" cy="39" r="1.1" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></circle>
+<text x="64" y="212" font-size="176" font-weight="800" fill="url(#vurguGrad)" letter-spacing="-6" filter="url(#parilti)" opacity="0.95">14</text>
+<rect x="338" y="62" width="3" height="176" rx="1.5" fill="#F6B84B" opacity="0.7"/>
+<text x="376" y="92" text-anchor="start" font-size="17" font-weight="700" fill="#F6B84B" letter-spacing="4">BÖLÜM 14 / 15  ·  SIFIRDAN XGBOOST</text>
+<text x="374" y="169" text-anchor="start" font-size="58" font-weight="800" fill="#F8FAFC" letter-spacing="-1">40 satırda mini regresör</text>
+<text x="376" y="218" text-anchor="start" font-size="26" font-weight="500" fill="#CBD5E1" font-style="italic">Gerçek kütüphaneyle sınav</text>
+<rect x="1" y="1" width="1598" height="298" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

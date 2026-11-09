@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 575" width="1600" height="575" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B1F"/><stop offset="0.6" stop-color="#14103A"/><stop offset="1" stop-color="#2A0F2E"/></linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#FB923C" stop-opacity="0.42"/><stop offset="1" stop-color="#FB923C" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.45"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="vurguGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6B84B"/></linearGradient>
+  <linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FDA4AF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+  <linearGradient id="isik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <pattern id="izgara" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+  <filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="yumusak" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter>
+  <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+  <marker id="okAltin" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#F6B84B"/></marker>
+</defs>
+<rect width="1600" height="575" rx="26" fill="url(#bg)"/>
+<rect width="1600" height="575" rx="26" fill="url(#izgara)"/>
+<rect width="1600" height="575" rx="26" fill="url(#glow)"/>
+<rect width="1600" height="575" rx="26" fill="url(#glow2)"/>
+<rect x="-500" y="0" width="420" height="575" fill="url(#isik)" transform="skewX(-20)"><animate attributeName="x" values="-500;2000" dur="9.5s" repeatCount="indefinite"/></rect>
+<circle cx="491" cy="561" r="0.8" fill="#E0E7FF" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="4.3s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="138" cy="17" r="1.1" fill="#E0E7FF" opacity="0.30"><animate attributeName="opacity" values="0.30;0.08;0.30" dur="3.5s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="967" cy="557" r="1.5" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1304" cy="159" r="1.5" fill="#E0E7FF" opacity="0.34"><animate attributeName="opacity" values="0.34;0.08;0.34" dur="3.0s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="47" r="1.1" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="4.8s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1222" cy="400" r="1.5" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="3.9s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1185" cy="459" r="0.8" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="448" cy="268" r="1.5" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="1042" cy="399" r="1.5" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="4.3s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="693" cy="33" r="1.1" fill="#E0E7FF" opacity="0.50"><animate attributeName="opacity" values="0.50;0.12;0.50" dur="4.5s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="672" cy="558" r="1.5" fill="#E0E7FF" opacity="0.38"><animate attributeName="opacity" values="0.38;0.10;0.38" dur="4.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1178" cy="277" r="1.1" fill="#E0E7FF" opacity="0.26"><animate attributeName="opacity" values="0.26;0.07;0.26" dur="4.1s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="994" cy="94" r="1.1" fill="#E0E7FF" opacity="0.45"><animate attributeName="opacity" values="0.45;0.11;0.45" dur="3.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="605" cy="441" r="1.1" fill="#E0E7FF" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="3.1s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="96" cy="390" r="1.5" fill="#E0E7FF" opacity="0.39"><animate attributeName="opacity" values="0.39;0.10;0.39" dur="4.2s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="521" r="0.8" fill="#E0E7FF" opacity="0.50"><animate attributeName="opacity" values="0.50;0.12;0.50" dur="3.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1232" cy="552" r="0.8" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="5.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="543" cy="163" r="1.5" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="4.9s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="287" cy="390" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.1s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1223" cy="109" r="1.5" fill="#E0E7FF" opacity="0.49"><animate attributeName="opacity" values="0.49;0.12;0.49" dur="4.8s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1303" cy="247" r="1.1" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="698" cy="15" r="1.1" fill="#E0E7FF" opacity="0.50"><animate attributeName="opacity" values="0.50;0.12;0.50" dur="3.7s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="1210" cy="140" r="0.8" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.7s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="726" cy="289" r="1.5" fill="#E0E7FF" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.3s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="47" cy="382" r="1.1" fill="#E0E7FF" opacity="0.40"><animate attributeName="opacity" values="0.40;0.10;0.40" dur="3.7s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="367" cy="376" r="0.8" fill="#E0E7FF" opacity="0.31"><animate attributeName="opacity" values="0.31;0.08;0.31" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="619" cy="390" r="0.8" fill="#E0E7FF" opacity="0.44"><animate attributeName="opacity" values="0.44;0.11;0.44" dur="3.1s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1509" cy="138" r="1.1" fill="#E0E7FF" opacity="0.37"><animate attributeName="opacity" values="0.37;0.09;0.37" dur="4.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="675" cy="195" r="1.5" fill="#E0E7FF" opacity="0.35"><animate attributeName="opacity" values="0.35;0.09;0.35" dur="4.5s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="663" cy="345" r="1.5" fill="#E0E7FF" opacity="0.46"><animate attributeName="opacity" values="0.46;0.11;0.46" dur="4.0s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="85" r="1.1" fill="#E0E7FF" opacity="0.43"><animate attributeName="opacity" values="0.43;0.11;0.43" dur="3.5s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="558" cy="234" r="0.8" fill="#E0E7FF" opacity="0.24"><animate attributeName="opacity" values="0.24;0.06;0.24" dur="5.1s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1181" cy="191" r="1.1" fill="#E0E7FF" opacity="0.32"><animate attributeName="opacity" values="0.32;0.08;0.32" dur="4.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1272" cy="357" r="1.5" fill="#E0E7FF" opacity="0.27"><animate attributeName="opacity" values="0.27;0.07;0.27" dur="3.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<text x="800.0" y="52" text-anchor="middle" font-size="16" font-weight="700" fill="#F6B84B" letter-spacing="5">PROJE AKIŞI</text>
+<text x="800.0" y="100" text-anchor="middle" font-size="24" font-weight="700" fill="#F8FAFC" >Sekiz aşama, her aşamada bir soru ve bir ölçüm</text>
+
+<rect x="52" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#F472B6" stroke-width="2"/>
+<text x="134" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🏡</text>
+<text x="134" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#F472B6" >Senaryo</text>
+<text x="134" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >mahalle fiyatı</text>
+<path d="M218 265 L238 265" fill="none" stroke="#F472B6" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="240" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#FB923C" stroke-width="2"/>
+<text x="322" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🩺</text>
+<text x="322" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#FB923C" >Kalite</text>
+<text x="322" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >tavan, eksik</text>
+<path d="M406 265 L426 265" fill="none" stroke="#FB923C" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="428" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#F6B84B" stroke-width="2"/>
+<text x="510" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🗺️</text>
+<text x="510" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#F6B84B" >Keşif</text>
+<text x="510" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >harita, gelir</text>
+<path d="M594 265 L614 265" fill="none" stroke="#F6B84B" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#okAltin)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="616" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#34D399" stroke-width="2"/>
+<text x="698" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">✂️</text>
+<text x="698" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#34D399" >Bölme</text>
+<text x="698" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >dürüst test</text>
+<path d="M782 265 L802 265" fill="none" stroke="#34D399" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="804" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#38BDF8" stroke-width="2"/>
+<text x="886" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🧱</text>
+<text x="886" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#38BDF8" >Pipeline</text>
+<text x="886" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >sızıntısız</text>
+<path d="M970 265 L990 265" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="992" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#A78BFA" stroke-width="2"/>
+<text x="1074" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🏁</text>
+<text x="1074" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#A78BFA" >Yarış</text>
+<text x="1074" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >29 algoritma</text>
+<path d="M1158 265 L1178 265" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="1180" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#22D3EE" stroke-width="2"/>
+<text x="1262" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🚀</text>
+<text x="1262" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#22D3EE" >Ayar</text>
+<text x="1262" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >XGBoost</text>
+<path d="M1346 265 L1366 265" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#ok)"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="1368" y="170" width="164" height="190" rx="18" fill="#0B1026" opacity="0.9" stroke="#FB7185" stroke-width="2"/>
+<text x="1450" y="235" text-anchor="middle" font-size="46" font-family="'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif">🎯</text>
+<text x="1450" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#FB7185" >Karar</text>
+<text x="1450" y="316" text-anchor="middle" font-size="16" font-weight="500" fill="#CBD5E1" >hata, aralık</text>
+<path d="M1500 372 C1300 470 400 470 160 372" fill="none" stroke="#F6B84B" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#okAltin)"><animate attributeName="stroke-dashoffset" values="20;0" dur="2.2s" repeatCount="indefinite"/></path>
+<text x="800" y="484" text-anchor="middle" font-size="19" font-weight="700" fill="#F6B84B" >hatadan öğren, varsayımı ölç, tekrar dene</text>
+<text x="800" y="535" text-anchor="middle" font-size="23" font-weight="800" fill="#F8FAFC" >Ham tablo → güvenilir fiyat tahmini + “ne kadar güvenebilirim?” cevabı</text>
+<rect x="1" y="1" width="1598" height="573" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

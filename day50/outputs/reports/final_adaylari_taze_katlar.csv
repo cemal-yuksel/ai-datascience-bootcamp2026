@@ -1,0 +1,9 @@
+aday,taze CV RMSE,std
+Voting (ayarlı XGB + ayarlı LGBM + Cat),42971.17,670.52
+XGBoost · ayarlı #1,43260.82,561.43
+XGBoost · ayarlı #2,43339.24,663.93
+LightGBM · ayarlı,43453.35,744.82
+XGBoost · ayarlı #3,43717.27,741.64
+CatBoost · varsayılan,43919.14,707.29
+LightGBM · varsayılan,45914.95,688.42
+XGBoost · varsayılan,46453.1,949.05

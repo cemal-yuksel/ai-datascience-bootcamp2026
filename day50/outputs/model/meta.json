@@ -1,0 +1,40 @@
+{
+  "model": "XGBoost · ayarlı #1",
+  "hedef": "median_house_value",
+  "birim": "ABD doları (ortanca ev değeri)",
+  "parametreler": {
+    "colsample_bytree": 0.561019,
+    "gamma": 95654.992159,
+    "learning_rate": 0.032022,
+    "max_depth": 8,
+    "min_child_weight": 1,
+    "n_estimators": 761,
+    "reg_alpha": 97.177753,
+    "reg_lambda": 2.100836,
+    "subsample": 0.808027
+  },
+  "egitim_satir": 16512,
+  "test_satir": 4128,
+  "test_metrikleri": {
+    "RMSE": 43838.472,
+    "MAE": 28276.0786,
+    "R²": 0.8544,
+    "MAPE %": 16.0653,
+    "Medyan APE %": 10.0844
+  },
+  "aralik": {
+    "hedef_kapsama": 0.8,
+    "test_kapsama": 0.7914,
+    "cqr_duzeltme_usd": 7762.3
+  },
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "veri_sha256": "8a3727f4cf54ac1a327f69b1d5b4db54c5834ea81c6e4efc0d163300022a685e",
+  "model_sha256": "667ac17e481217857792c73a88281043eaedf12816ff6232ea9af3cd664b9672",
+  "uyari": "1990 nüfus sayımı verisiyle eğitildi; fiyatlar o döneme aittir ve 500.001 $ üzerinde kesilmiştir. Eğitim projesidir."
+}
