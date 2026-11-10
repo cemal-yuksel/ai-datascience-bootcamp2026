@@ -1,0 +1,15 @@
+,tür,eksik,benzersiz,min,medyan,maks,sıfır payı %,açıklama
+CRIM,float64,0,504,0.006,0.257,88.976,0.0,Kişi başı suç oranı
+ZN,float64,0,26,0.0,0.0,100.0,73.518,Büyük parsel (25 bin ft² üstü) konut payı %
+INDUS,float64,0,76,0.46,9.69,27.74,0.0,Sanayi (perakende dışı) arazi payı %
+CHAS,int64,0,2,0.0,0.0,1.0,93.083,Charles Nehri kıyısı (1/0)
+NOX,float64,0,81,0.385,0.538,0.871,0.0,Azot oksit derişimi (hava kirliliği)
+RM,float64,0,446,3.561,6.208,8.78,0.0,Konut başına ortalama oda sayısı
+AGE,float64,0,356,2.9,77.5,100.0,0.0,1940 öncesi yapılmış konut payı %
+DIS,float64,0,412,1.13,3.207,12.126,0.0,Beş iş merkezine ağırlıklı uzaklık
+RAD,int64,0,9,1.0,5.0,24.0,0.0,Çevre yoluna erişim endeksi
+TAX,float64,0,66,187.0,330.0,711.0,0.0,Emlak vergisi (10 bin $ başına)
+PTRATIO,float64,0,46,12.6,19.05,22.0,0.0,Öğrenci/öğretmen oranı
+B,float64,0,357,0.32,391.44,396.9,0.0,Irksal bileşenli endeks (KULLANILMAZ)
+LSTAT,float64,0,455,1.73,11.36,37.97,0.0,Düşük statülü nüfus payı %
+MEDV,float64,0,229,5.0,21.2,50.0,0.0,"Konut medyan değeri (bin $, 1970'ler)"

@@ -1,0 +1,5 @@
+mahalle,RM,LSTAT,CRIM,gerçek,P(premium),"tahmin (0,5 eşiği)",incelemeye al (τ=0.15)
+Test'ten bir standart,6.701,16.42,4.81213,Standart,0.004,Standart,False
+Test'ten bir premium,7.041,4.74,0.05561,Premium,0.979,Premium,True
+"Elle girilen: sakin, geniş evli, iyi okullu",7.4,4.5,0.04,?,0.994,Premium,True
+"Elle girilen: yoğun, sanayili, yüksek suç",5.6,22.0,9.0,?,0.001,Standart,False

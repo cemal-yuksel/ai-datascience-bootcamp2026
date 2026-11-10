@@ -1,0 +1,79 @@
+{
+  "model": "LightGBM · ayarlı (senaryo A: B ve MEDV kullanilmaz)",
+  "hedef": "premium = MEDV >= 25 (bin $)",
+  "siniflar": [
+    "Standart",
+    "Premium"
+  ],
+  "girdiler": [
+    "CRIM",
+    "ZN",
+    "INDUS",
+    "CHAS",
+    "NOX",
+    "RM",
+    "AGE",
+    "DIS",
+    "RAD",
+    "TAX",
+    "PTRATIO",
+    "LSTAT"
+  ],
+  "lightgbm_parametreleri": {
+    "colsample_bytree": 0.9037151259083807,
+    "learning_rate": 0.17853336023934638,
+    "max_depth": -1.0,
+    "min_child_samples": 12.0,
+    "min_split_gain": 0.20716806973369217,
+    "n_estimators": 576.0,
+    "num_leaves": 14.0,
+    "reg_alpha": 0.14709699119495137,
+    "reg_lambda": 8.096258313714102,
+    "subsample": 0.8661124432047806,
+    "subsample_freq": 1.0
+  },
+  "veri_md5": "d4accdce7a25600298819f8e28e8d593",
+  "egitim_satir": 404,
+  "test_satir": 102,
+  "bolme": "train_test_split(test_size=0.20, stratify=y, random_state=42)",
+  "cv": "RepeatedStratifiedKFold(5 kat x 3 tekrar)",
+  "test_metrikleri": {
+    "Doğruluk": 0.9216,
+    "Dengeli doğruluk": 0.8874,
+    "F1 (premium)": 0.8462,
+    "Kesinlik": 0.88,
+    "Duyarlılık": 0.8148,
+    "MCC": 0.7947,
+    "ROC-AUC": 0.9462,
+    "AP (PR-AUC)": 0.9195,
+    "Log-loss": 0.2657,
+    "Brier": 0.0657
+  },
+  "ilce_bazli_test_metrikleri": {
+    "Doğruluk": 0.894,
+    "Dengeli doğruluk": 0.7532,
+    "F1 (premium)": 0.6364,
+    "Kesinlik": 0.7778,
+    "Duyarlılık": 0.5385,
+    "MCC": 0.5901,
+    "ROC-AUC": 0.9046,
+    "AP (PR-AUC)": 0.7835,
+    "Log-loss": 0.3072,
+    "Brier": 0.078
+  },
+  "karar_esigi_tau": 0.15,
+  "maliyet_varsayimi": {
+    "kacirilan_premium": 3.0,
+    "gereksiz_inceleme": 1.0
+  },
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "uyari": "Egitim amaclidir. 1970 Boston sayim bolgeleri (506 mahalle) uzerinde egitildi; baska sehir/donem icin gecerli degildir. B (irksal bilesenli endeks) bilincli olarak kullanilmadi."
+}
