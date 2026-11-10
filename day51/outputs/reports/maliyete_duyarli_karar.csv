@@ -1,0 +1,11 @@
+görünüm,kural,toplam maliyet / mahalle,kaçırılan premium,gereksiz inceleme,F1
+rastgele test,"eşik 0,50",0.17647058823529413,5,3,0.8461538461538461
+rastgele test,teorik τ = 0.25,0.17647058823529413,4,6,0.8214285714285714
+rastgele test,deneysel τ = 0.15,0.17647058823529413,4,6,0.8214285714285714
+rastgele test,hepsini incele,0.7352941176470589,0,75,0.4186046511627907
+rastgele test,hiçbirini inceleme,0.7941176470588235,27,0,0.0
+ilçe bazlı test,"eşik 0,50",0.26490066225165565,12,4,0.6363636363636364
+ilçe bazlı test,teorik τ = 0.25,0.2119205298013245,7,11,0.6785714285714286
+ilçe bazlı test,deneysel τ = 0.15,0.2119205298013245,7,11,0.6785714285714286
+ilçe bazlı test,hepsini incele,0.8278145695364238,0,125,0.2937853107344633
+ilçe bazlı test,hiçbirini inceleme,0.5165562913907285,26,0,0.0
