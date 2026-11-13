@@ -1,0 +1,4 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Ornek, Mr. Bir",male,22,0,0,X1,7.8,,S
+1,"Ornek, Miss. Iki",female,25,0,1,X2,120.0,B58,C
+2,"Ornek, Master. Uc",male,6,1,1,X3,26.0,,S

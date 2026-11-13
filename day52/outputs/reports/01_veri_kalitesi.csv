@@ -1,0 +1,13 @@
+﻿,tür,eksik,eksik %,tekil değer
+PassengerId,int64,0,0.0,891
+Survived,int64,0,0.0,2
+Pclass,int64,0,0.0,3
+Name,str,0,0.0,891
+Sex,str,0,0.0,2
+Age,float64,177,19.9,88
+SibSp,int64,0,0.0,7
+Parch,int64,0,0.0,7
+Ticket,str,0,0.0,681
+Fare,float64,0,0.0,248
+Cabin,str,687,77.1,147
+Embarked,str,2,0.2,3

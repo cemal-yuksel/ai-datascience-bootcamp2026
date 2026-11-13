@@ -1,0 +1,9 @@
+﻿,Name,Pclass,Sex,Age,Fare,SibSp,Parch,p(kurtuldu),gerçek,güvenle yanlış
+92,"Harris, Mr. George",2,male,62.0,10.5,0,0,0.03925801092311641,1,0.9607419890768836
+41,"Allison, Miss. Helen Loraine",1,female,2.0,151.55,1,2,0.9525709510813102,0,0.9525709510813102
+139,"Johannesen-Bratthammer, Mr. Bernt",3,male,,8.1125,0,0,0.06624219235000739,1,0.9337578076499926
+53,"Williams, Mr. Charles Eugene",2,male,,13.0,0,0,0.07556986945675695,1,0.9244301305432431
+99,"Tornquist, Mr. William Henry",3,male,25.0,0.0,0,0,0.10247335820027782,1,0.8975266417997222
+150,"Hedman, Mr. Oskar Arvid",3,male,27.0,6.975,0,0,0.11402183135588362,1,0.8859781686441164
+2,"Leeni, Mr. Fahim (""Philip Zenni"")",3,male,22.0,7.225,0,0,0.1270558429536521,1,0.8729441570463479
+112,"Andersson, Mr. August Edvard (""Wennerstrom"")",3,male,27.0,7.7958,0,0,0.15254429441131426,1,0.8474557055886858

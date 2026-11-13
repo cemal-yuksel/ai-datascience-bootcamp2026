@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 470" width="1600" height="470" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050B1A"/><stop offset="0.6" stop-color="#0A1F3D"/><stop offset="1" stop-color="#0B3A52"/></linearGradient>
+<linearGradient id="altin" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+<linearGradient id="dalga1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0EA5C6" stop-opacity="0.55"/><stop offset="1" stop-color="#0B3A52" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="dalga2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#0A1F3D" stop-opacity="0.9"/></linearGradient>
+<radialGradient id="ay" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FEF9C3" stop-opacity="0.95"/><stop offset="1" stop-color="#FEF9C3" stop-opacity="0"/></radialGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes kay{0%{transform:translateX(0)}100%{transform:translateX(-400px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="470" rx="26" fill="url(#bg)"/>
+<text x="800.0" y="62" text-anchor="middle" font-size="38" class="b" fill="url(#altin)">Kazanç (gain): bölünme ne kadar işe yaradı?</text><rect x="100" y="150" width="300" height="120" rx="16" fill="#0F172A" stroke="karışık grup: 50/50" stroke-width="2.4"/><text x="250.0" y="206.0" text-anchor="middle" font-size="22" class="b t">Bölünmeden önce</text><text x="250.0" y="234.0" text-anchor="middle" font-size="16" class="k">#F87171</text><path id="m12" d="M402 210 L598 150" stroke="#CBD5E1" stroke-width="3" fill="none" marker-end="url(#ok)" class="akis"/><circle r="6" fill="#FBBF24" filter="url(#parilti)"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#m12"/></animateMotion></circle><path id="m13" d="M402 210 L598 270" stroke="#CBD5E1" stroke-width="3" fill="none" marker-end="url(#ok)" class="akis"/><circle r="6" fill="#FBBF24" filter="url(#parilti)"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#m13"/></animateMotion></circle><rect x="600" y="100" width="300" height="100" rx="16" fill="#0F172A" stroke="çoğu kurtuldu" stroke-width="2.4"/><text x="750.0" y="146.0" text-anchor="middle" font-size="22" class="b t">Kadınlar</text><text x="750.0" y="174.0" text-anchor="middle" font-size="16" class="k">#34D399</text><rect x="600" y="230" width="300" height="100" rx="16" fill="#0F172A" stroke="çoğu kurtulamadı" stroke-width="2.4"/><text x="750.0" y="276.0" text-anchor="middle" font-size="22" class="b t">Erkekler</text><text x="750.0" y="304.0" text-anchor="middle" font-size="16" class="k">#38BDF8</text><path id="m14" d="M902 150 L1098 210" stroke="#CBD5E1" stroke-width="3" fill="none" marker-end="url(#ok)" class="akis"/><circle r="6" fill="#FBBF24" filter="url(#parilti)"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#m14"/></animateMotion></circle><path id="m15" d="M902 280 L1098 210" stroke="#CBD5E1" stroke-width="3" fill="none" marker-end="url(#ok)" class="akis"/><circle r="6" fill="#FBBF24" filter="url(#parilti)"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#m15"/></animateMotion></circle><rect x="1100" y="150" width="400" height="120" rx="16" fill="#0F172A" stroke="bölünme sonrası karışıklık ne kadar azaldı" stroke-width="2.4"/><text x="1300.0" y="206.0" text-anchor="middle" font-size="22" class="b t">Kazanç = ne kadar düzen</text><text x="1300.0" y="234.0" text-anchor="middle" font-size="16" class="k">#FBBF24</text><text x="800" y="410" text-anchor="middle" font-size="24" class="t">Ağaç, her adımda <tspan class="b" fill="#FBBF24">en yüksek kazancı</tspan> getiren soruyu seçer.</text>
+</svg>

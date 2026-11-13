@@ -1,0 +1,3 @@
+﻿Model,Eğitim süresi (sn),Test doğruluğu
+XGBoost,1.6165340899997318,0.9764833333333334
+LightGBM,1.7121375360002276,0.9734

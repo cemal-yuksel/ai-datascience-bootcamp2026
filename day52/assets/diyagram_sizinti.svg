@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" width="1600" height="440" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050B1A"/><stop offset="0.6" stop-color="#0A1F3D"/><stop offset="1" stop-color="#0B3A52"/></linearGradient>
+<linearGradient id="altin" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+<linearGradient id="dalga1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0EA5C6" stop-opacity="0.55"/><stop offset="1" stop-color="#0B3A52" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="dalga2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#0A1F3D" stop-opacity="0.9"/></linearGradient>
+<radialGradient id="ay" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FEF9C3" stop-opacity="0.95"/><stop offset="1" stop-color="#FEF9C3" stop-opacity="0"/></radialGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes kay{0%{transform:translateX(0)}100%{transform:translateX(-400px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="440" rx="26" fill="url(#bg)"/>
+<text x="800.0" y="62" text-anchor="middle" font-size="38" class="b" fill="url(#altin)">Aile sızıntısı: aynı ailenin üyeleri iki tarafta</text><rect x="100" y="130" width="500" height="120" rx="16" fill="#0F172A" stroke="aile eğitimde de testte de" stroke-width="2.4"/><text x="350.0" y="186.0" text-anchor="middle" font-size="22" class="b t">Rastgele bölme</text><text x="350.0" y="214.0" text-anchor="middle" font-size="16" class="k">#F87171</text><rect x="1000" y="130" width="500" height="120" rx="16" fill="#0F172A" stroke="aile ya eğitimde ya testte" stroke-width="2.4"/><text x="1250.0" y="186.0" text-anchor="middle" font-size="22" class="b t">Aile bazlı bölme</text><text x="1250.0" y="214.0" text-anchor="middle" font-size="16" class="k">#34D399</text><circle cx="180" cy="320" r="18" fill="#38BDF8" class="yan" style="animation-delay:0.0s"/><circle cx="1080" cy="320" r="18" fill="#38BDF8"/><circle cx="240" cy="320" r="18" fill="#FBBF24" class="yan" style="animation-delay:0.3s"/><circle cx="1140" cy="320" r="18" fill="#38BDF8"/><circle cx="300" cy="320" r="18" fill="#38BDF8" class="yan" style="animation-delay:0.6s"/><circle cx="1200" cy="320" r="18" fill="#38BDF8"/><circle cx="360" cy="320" r="18" fill="#FBBF24" class="yan" style="animation-delay:0.8999999999999999s"/><circle cx="1260" cy="320" r="18" fill="#FBBF24"/><circle cx="420" cy="320" r="18" fill="#38BDF8" class="yan" style="animation-delay:1.2s"/><circle cx="1320" cy="320" r="18" fill="#FBBF24"/><text x="350" y="385" text-anchor="middle" font-size="20" class="k">model akrabayı ezberler → iyimser skor</text><text x="1250" y="385" text-anchor="middle" font-size="20" class="k">gerçek kullanım koşuluna yakın → dürüst skor</text>
+</svg>
