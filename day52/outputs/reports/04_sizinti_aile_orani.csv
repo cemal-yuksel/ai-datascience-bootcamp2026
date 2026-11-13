@@ -1,0 +1,5 @@
+﻿,Doğruluk,ROC-AUC
+AileOrani yok (referans),0.8286861026297647,0.8901559086159401
+AileOrani: etiket sızdırılmış (rastgele katlar),0.8448586624642962,0.9056642839048795
+AileOrani: yalnızca eğitim etiketleri (rastgele katlar),0.8406283856988083,0.9018606057967343
+AileOrani: yalnızca eğitim etiketleri (grup katları),0.8025742254615494,0.8557381646558454

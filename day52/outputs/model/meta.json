@@ -1,0 +1,35 @@
+{
+  "model": "LightGBM (ayarlı) + sızıntısız boru hattı",
+  "ozellikler": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked",
+    "Unvan"
+  ],
+  "en_iyi_ayar": {
+    "colsample_bytree": 0.6093821097865351,
+    "learning_rate": 0.05322399201282944,
+    "max_depth": 5,
+    "min_child_samples": 53,
+    "min_split_gain": 0.019467674132694467,
+    "n_estimators": 131,
+    "num_leaves": 14,
+    "reg_alpha": 0.010165510266418737,
+    "reg_lambda": 0.535788451771409,
+    "subsample": 0.7203513239267079
+  },
+  "egitim_satir": 712,
+  "test_dogruluk": 0.8212,
+  "test_auc": 0.8563,
+  "secilen_esik_maliyet": 0.31999999999999995,
+  "surumler": {
+    "lightgbm": "4.7.0",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.5"
+  },
+  "uyari": "Tarihsel veriyle eğitilmiş eğitim amaçlı modeldir; gerçek kişiler hakkında karar vermek için kullanılamaz."
+}
