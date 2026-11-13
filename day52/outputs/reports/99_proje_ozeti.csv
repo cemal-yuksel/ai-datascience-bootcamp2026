@@ -1,0 +1,11 @@
+﻿Ölçüm,Değer
+Algoritma sayısı (taban hariç),27
+Grup-CV'de en yüksek AUC (algoritma),0.873 (Oylama (LR + RF + LightGBM))
+"LightGBM (varsayılan, ortak boru hattı) grup-CV AUC / sıra",0.855 / 14.
+Rastgele katlar − grup katları (doğruluk),+0.013
+Seçilen özellik kümesi,8 özellik
+"LightGBM ayarlı, taze katlarda log-loss",0.4331 (varsayılan 0.5223)
+Final test doğruluğu / AUC,0.821 / 0.856
+"Basit kural «kadınsa kurtulur», test doğruluğu",0.777
+Görülmemiş bilet gruplarında test doğruluğu,0.830
+Maliyete duyarlı eşik,0.32

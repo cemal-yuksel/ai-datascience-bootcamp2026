@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050B1A"/><stop offset="0.6" stop-color="#0A1F3D"/><stop offset="1" stop-color="#0B3A52"/></linearGradient>
+<linearGradient id="altin" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+<linearGradient id="dalga1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0EA5C6" stop-opacity="0.55"/><stop offset="1" stop-color="#0B3A52" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="dalga2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/><stop offset="1" stop-color="#0A1F3D" stop-opacity="0.9"/></linearGradient>
+<radialGradient id="ay" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FEF9C3" stop-opacity="0.95"/><stop offset="1" stop-color="#FEF9C3" stop-opacity="0"/></radialGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes kay{0%{transform:translateX(0)}100%{transform:translateX(-400px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="600" rx="26" fill="url(#bg)"/>
+<text x="800.0" y="62" text-anchor="middle" font-size="38" class="b" fill="url(#altin)">İki kardeş: XGBoost ve LightGBM</text><text x="560" y="130" text-anchor="middle" font-size="28" class="b" fill="#38BDF8">XGBoost</text><text x="1140" y="130" text-anchor="middle" font-size="28" class="b" fill="#34D399">LightGBM</text><text x="100" y="202" font-size="24" class="b t">Büyüme</text><rect x="300" y="160" width="480" height="64" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="2.4"/><text x="540.0" y="200.0" text-anchor="middle" font-size="20" class="b t">katman katman</text><rect x="900" y="160" width="480" height="64" rx="16" fill="#0F172A" stroke="#34D399" stroke-width="2.4"/><text x="1140.0" y="200.0" text-anchor="middle" font-size="20" class="b t">yaprak yaprak</text><text x="100" y="282" font-size="24" class="b t">Aday bölünme</text><rect x="300" y="240" width="480" height="64" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="2.4"/><text x="540.0" y="280.0" text-anchor="middle" font-size="20" class="b t">exact: tüm değerler · hist: kova</text><rect x="900" y="240" width="480" height="64" rx="16" fill="#0F172A" stroke="#34D399" stroke-width="2.4"/><text x="1140.0" y="280.0" text-anchor="middle" font-size="20" class="b t">kova sınırları</text><text x="100" y="362" font-size="24" class="b t">Kategorik</text><rect x="300" y="320" width="480" height="64" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="2.4"/><text x="540.0" y="360.0" text-anchor="middle" font-size="20" class="b t">genelde sayıya çevrilir</text><rect x="900" y="320" width="480" height="64" rx="16" fill="#0F172A" stroke="#34D399" stroke-width="2.4"/><text x="1140.0" y="360.0" text-anchor="middle" font-size="20" class="b t">doğrudan kabul</text><text x="100" y="442" font-size="24" class="b t">Hız</text><rect x="300" y="400" width="480" height="64" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="2.4"/><text x="540.0" y="440.0" text-anchor="middle" font-size="20" class="b t">hızlı (hist ile)</text><rect x="900" y="400" width="480" height="64" rx="16" fill="#0F172A" stroke="#34D399" stroke-width="2.4"/><text x="1140.0" y="440.0" text-anchor="middle" font-size="20" class="b t">hızlı (kova ile)</text><text x="100" y="522" font-size="24" class="b t">Risk</text><rect x="300" y="480" width="480" height="64" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="2.4"/><text x="540.0" y="520.0" text-anchor="middle" font-size="20" class="b t">dengeli ağaç</text><rect x="900" y="480" width="480" height="64" rx="16" fill="#0F172A" stroke="#34D399" stroke-width="2.4"/><text x="1140.0" y="520.0" text-anchor="middle" font-size="20" class="b t">küçük veride ezber riski</text>
+</svg>

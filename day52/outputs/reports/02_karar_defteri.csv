@@ -1,0 +1,8 @@
+﻿Sütun,Karar,Gerekçe
+PassengerId,Çıkarıldı,"Kimlik numarası; tahmin gücü yok, ezber yoluna açık"
+Survived,Hedef,1 = kurtuldu
+"Pclass, Sex, SibSp, Parch, Fare, Embarked",Kullanıldı,Ham sütunlar (Embarked'de 2 eksik: eğitimdeki en sık değer)
+Age,Kullanıldı + YasEksik bayrağı,"%19,9 eksik; eksik olması bilgi taşıyabilir; doldurma yalnızca eğitim katının medyanıyla"
+Name,"Unvan (Mr, Mrs, Miss, Master, Diger) üretildi",Ham ad modele verilmez; unvan yaş ve medeni durumu özetler
+Ticket,BiletGrubu ve KisiBasiUcret üretildi,Aynı bileti paylaşanlar çoğunlukla aile/grup; bilet no kendisi çıkarıldı. Aynı zamanda grup anahtarı (5. bölüm)
+Cabin,KabinVar bayrağı ve Guverte (ilk harf),%77 eksik; kabin kaydının olması sınıfla ilişkili
