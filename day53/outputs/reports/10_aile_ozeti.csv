@@ -1,0 +1,8 @@
+﻿Aile,ΔRMSE %,ΔMAE %,ΔRMSLE %
+Boosting,0.1,-13.9,-14.4
+Doğrusal,64.3,45.8,2.6
+Orman / torbalama,-0.9,-16.3,-12.2
+Sinir ağı,1.4,-10.4,-25.2
+Tek ağaç,-1.3,-13.9,-10.6
+Topluluk (karma),3.2,-10.5,-7.8
+Çekirdek / uzaklık,2.5,-10.5,-9.0

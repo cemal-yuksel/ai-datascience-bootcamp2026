@@ -1,0 +1,20 @@
+{
+  "final_aday": "SVR (RBF) · ayarlı · dönüşüm serbest (ham)",
+  "model_hedef_donusumu": "StandardScaler",
+  "aralik_donusumu": "Box-Cox",
+  "aralik_lambda": 0.05146379689682055,
+  "aralik_nominal": 0.9,
+  "q_alt_donusmus": -0.4292076301318583,
+  "q_ust_donusmus": 0.991504297805568,
+  "ek_ozellikler": true,
+  "test_RMSE": 3224.99130848389,
+  "test_MAE": 1529.7416744406623,
+  "test_R2": 0.9278517493815108,
+  "surumler": {
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.5",
+    "lightgbm": "4.7.0",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10"
+  }
+}

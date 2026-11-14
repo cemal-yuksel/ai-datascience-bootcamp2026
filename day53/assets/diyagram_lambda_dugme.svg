@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 470" width="1600" height="470" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06121F"/><stop offset="0.6" stop-color="#0A2A3D"/><stop offset="1" stop-color="#0B4A5A"/></linearGradient>
+<linearGradient id="baslik" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient>
+<linearGradient id="cubuk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A59"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+<linearGradient id="cubukN" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#047857"/></linearGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="470" rx="26" fill="url(#bg)"/>
+<text x="800" y="62" text-anchor="middle" font-size="36" class="b" fill="url(#baslik)">λ düğmesi: tek sayı, bütün bir güç ailesi</text><circle cx="160" cy="230" r="64" fill="#0B1026" stroke="#A78BFA" stroke-width="4" class="nefes" style="animation-delay:0.0s"/><text x="160" y="222" text-anchor="middle" font-size="22" fill="#A78BFA" class="b">λ = -1</text><text x="160" y="252" text-anchor="middle" font-size="22" class="t b">1/y</text><text x="160" y="340" text-anchor="middle" font-size="17" class="k">çok güçlü sıkıştırma</text><line x1="160" y1="230" x2="160" y2="230" stroke="none"/><circle cx="480" cy="230" r="64" fill="#0B1026" stroke="#FF7A59" stroke-width="4" class="nefes" style="animation-delay:0.3s"/><text x="480" y="222" text-anchor="middle" font-size="22" fill="#FF7A59" class="b">λ = 0</text><text x="480" y="252" text-anchor="middle" font-size="22" class="t b">log</text><text x="480" y="340" text-anchor="middle" font-size="17" class="k">güçlü sıkıştırma</text><line x1="480" y1="230" x2="480" y2="230" stroke="none"/><circle cx="800" cy="230" r="64" fill="#0B1026" stroke="#FBBF24" stroke-width="4" class="nefes" style="animation-delay:0.6s"/><text x="800" y="222" text-anchor="middle" font-size="22" fill="#FBBF24" class="b">λ = 0.5</text><text x="800" y="252" text-anchor="middle" font-size="22" class="t b">karekök</text><text x="800" y="340" text-anchor="middle" font-size="17" class="k">orta sıkıştırma</text><line x1="800" y1="230" x2="800" y2="230" stroke="none"/><circle cx="1120" cy="230" r="64" fill="#0B1026" stroke="#34D399" stroke-width="4" class="nefes" style="animation-delay:0.8999999999999999s"/><text x="1120" y="222" text-anchor="middle" font-size="22" fill="#34D399" class="b">λ = 1</text><text x="1120" y="252" text-anchor="middle" font-size="22" class="t b">değişmez</text><text x="1120" y="340" text-anchor="middle" font-size="17" class="k">dönüşüm yok</text><line x1="1120" y1="230" x2="1120" y2="230" stroke="none"/><circle cx="1440" cy="230" r="64" fill="#0B1026" stroke="#38BDF8" stroke-width="4" class="nefes" style="animation-delay:1.2s"/><text x="1440" y="222" text-anchor="middle" font-size="22" fill="#38BDF8" class="b">λ = 2</text><text x="1440" y="252" text-anchor="middle" font-size="22" class="t b">kare</text><text x="1440" y="340" text-anchor="middle" font-size="17" class="k">büyükleri şişirir</text><line x1="1440" y1="230" x2="1440" y2="230" stroke="none"/><line x1="160" y1="400" x2="1440" y2="400" stroke="#FBBF24" stroke-width="3" class="akis" marker-end="url(#okA)"/><text x="800" y="440" text-anchor="middle" font-size="20" class="k">λ küçüldükçe sağ kuyruk daha çok sıkışır</text>
+</svg>

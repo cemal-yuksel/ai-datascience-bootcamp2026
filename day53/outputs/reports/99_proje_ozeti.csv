@@ -1,0 +1,13 @@
+﻿Ölçüm,Değer
+Algoritma sayısı (taban hariç),27
+Hedef çarpıklığı (eğitim),+1.51 → Box-Cox sonrası -0.01 (λ = 0.051)
+Özellik kümesi kararı,ek özellikler KALDI
+"Büyük yarış lideri (CV RMSE, en iyi senaryoda)","Yığın (Ridge meta) (4,643 $)"
+Bootstrap: Box-Cox dolar (RMSE) hükmü,2 algoritmada daha iyi / 15 daha kötü / 10 ayırt edilemez
+Bootstrap: Box-Cox göreli (RMSLE) hükmü,19 daha iyi / 0 daha kötü / 8 ayırt edilemez
+Seçilen final aday,SVR (RBF) · ayarlı · dönüşüm serbest (ham)
+Final test RMSE / MAE / R²,"3,225 $ / 1,530 $ / 0.928"
+Basit kural (sigara × obez) test RMSE,"5,294 $"
+%90 aralık kapsaması (dönüşmüş uzay ↔ dolar bandı),0.93 ↔ 0.94
+Maliyet çarpanı (3:1 asimetri),1.00
+En riskli %10'u yakalama,%96 (rastgele %10)
