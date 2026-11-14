@@ -1,0 +1,9 @@
+﻿Sütun,Karar,Gerekçe
+charges,Hedef,Yıllık masraf ($). Hep pozitif → Box-Cox uygulanabilir. Çarpık
+age,Kullanıldı,18–64 yaş; eksik yok
+sex,Kullanıldı (etik not),İkili. Fiyatlamada kısıtlı olabilir → 11. bölümde çıkarmanın maliyeti ölçülecek
+bmi,Kullanıldı + obez bayrağı (BMI ≥ 30),Sağlık riski eşiği; sigara ile etkileşimi güçlü
+children,Kullanıldı,Sayı; %43 sıfır → özellik dönüşümünde Yeo-Johnson
+smoker,Kullanıldı,En güçlü sinyal (keşifte görülecek)
+region,Tek-sıcak kodlama,4 bölge
+Tekrarlı satır,1 satır çıkarıldı,"Aynı kişinin iki kopyası, bölmede sızıntı yapabilir"

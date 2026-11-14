@@ -1,0 +1,8 @@
+﻿,tür,eksik,eksik %,tekil değer
+age,int64,0,0.0,47
+sex,str,0,0.0,2
+bmi,float64,0,0.0,548
+children,int64,0,0.0,6
+smoker,str,0,0.0,2
+region,str,0,0.0,4
+charges,float64,0,0.0,1337
