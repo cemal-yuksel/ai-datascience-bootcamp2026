@@ -1,0 +1,8 @@
+﻿Bulgu,Karar,Neden,Nasıl
+Eksik değer,Yok,Müdahale gerekmedi.,Doldurma işlemine gerek yok; boru hattında imputer yok.
+Kopya satırlar (68),Çıkarıldı,Aynı fasulye hem eğitime hem teste düşerse test iyimser olur (5.2'de ölçülecek).,drop_duplicates()
+Aykırı değerler,Bırakıldı,Bombay gibi gerçekten iri fasulyeler; silmek bir sınıfı silmek olurdu.,Doğrusal olmayan modeller ve ölçekleyici ile yönetilir.
+"Ölçek farkı (alan ≈ 10⁴, oran ≈ 1)",StandardScaler,PCA ve mesafe tabanlı modeller büyük sayılara aldanır (kavram dersi).,Boru hattının ilk adımı; yalnızca eğitim katında öğrenilir.
+Çok güçlü korelasyon (alan–çevre–eksenler),Korundu,PCA'nın var olma sebebi; doğrusal modellerde çoklu doğrusallık kaygısı ayrıca düzenlemeyle yönetilir.,PCA ve L2 düzenleme.
+Sınıf dengesizliği (522 ↔ 3546),Katmanlı bölme + makro F1,Küçük sınıf test ve katlarda temsil edilsin; metrik küçük sınıfı da saysın.,stratify=y
+Hedef kodlama,LabelEncoder,Sınıf adları metin; modellerin tamsayı etiket beklediği yerde sorun çıkmasın.,Tahmin sonrası Türkçe ada çevrilir.

@@ -1,0 +1,12 @@
+﻿Başlık,Değer
+Veri,"13543 fasulye (kopyasız), 16 ölçü, 7 tür; eğitim 10834 / test 2709"
+Algoritma sayısı (taban hariç),27
+PCA k (önceden yazılmış %95 kuralı),4
+Ham dünyada lider (5 kat makro F1),Oylama (yumuşak) · 0.9424
+PCA dünyasında lider,SVM (RBF) · 0.8982
+"Kural 2'yi geçen (ΔF1 ≥ −0,005 ve ≥ %30 hızlanma)",yok
+Final model (kural 3),SVM (RBF) · PCA'sız
+Final test: makro F1 / doğruluk / AUC,0.9389 / 0.9280 / 0.9940
+Taban makro F1 (test),0.059
+Güven eşiği ile otomatik kabul (test),"%88.3 kabul, kabul edilenlerde doğruluk 0.9674"
+Maliyete duyarlı karar (test),toplam maliyet 251 → 251
