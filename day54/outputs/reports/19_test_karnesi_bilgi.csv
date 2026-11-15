@@ -1,0 +1,11 @@
+﻿,Test makro F1,Test makro F1,Test doğruluk,Test doğruluk
+Görünüm,Ham,PCA,Ham,PCA
+Algoritma,,,,
+CatBoost,0.9349,0.8862,0.9217,0.8834
+HistGradientBoosting,0.9335,0.8863,0.9206,0.8834
+LightGBM,0.9336,0.8807,0.9203,0.8778
+Lojistik regresyon,0.9289,0.8876,0.9166,0.8841
+Oylama (yumuşak),0.938,0.8869,0.9265,0.8837
+SVM (RBF),0.9376,0.8905,0.9265,0.8889
+XGBoost,0.9314,0.8729,0.9184,0.8704
+Yığın (stacking),0.9333,0.8895,0.9217,0.8856
