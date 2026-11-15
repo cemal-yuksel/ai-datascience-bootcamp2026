@@ -1,0 +1,8 @@
+﻿Aile,Algoritma,Hızlanma_medyan,ΔF1_ort
+Ağaç,2,2.9686,-0.0598
+Boosting,6,2.5363,-0.0624
+Doğrusal,7,1.7529,-0.1793
+Mesafe/olasılık,4,1.0866,-0.0408
+Sinir ağı,1,1.1991,-0.0412
+Topluluk,5,1.7537,-0.0434
+Çekirdek,2,0.8686,-0.043

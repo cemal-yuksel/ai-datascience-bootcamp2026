@@ -1,0 +1,48 @@
+{
+  "proje": "Gün 54 — Kuru fasulye tasnifi (PCA)",
+  "model": "SVM (RBF) · PCA'sız",
+  "ozellikler": [
+    "Area",
+    "Perimeter",
+    "MajorAxisLength",
+    "MinorAxisLength",
+    "AspectRation",
+    "Eccentricity",
+    "ConvexArea",
+    "EquivDiameter",
+    "Extent",
+    "Solidity",
+    "roundness",
+    "Compactness",
+    "ShapeFactor1",
+    "ShapeFactor2",
+    "ShapeFactor3",
+    "ShapeFactor4"
+  ],
+  "siniflar_kodlu": {
+    "0": "Barbunya",
+    "1": "Bombay",
+    "2": "Dermason",
+    "3": "Horoz",
+    "4": "Sıra",
+    "5": "Çalı",
+    "6": "Şeker"
+  },
+  "pca_k": null,
+  "test": {
+    "Doğruluk": 0.928,
+    "Makro F1": 0.9389,
+    "Dengeli doğruluk": 0.936,
+    "Log-loss": 0.2172,
+    "ROC AUC (OvR makro)": 0.994
+  },
+  "random_state": 42,
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5"
+  },
+  "not": "Siniflar alfabetik (Turkce) sirada kodlanir; model sayisal etiket dondurur, fasulye_yardimci.tahmin_et Turkce ada cevirir."
+}
