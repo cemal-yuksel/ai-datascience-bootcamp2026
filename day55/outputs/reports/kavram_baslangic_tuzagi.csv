@@ -1,0 +1,5 @@
+﻿Veri,Başlangıç,ortalama,en_kotu,%1'den kötü deneme oranı
+Gerçek müşteriler (k=5),K-Means++,1.802,10.149,0.44
+Gerçek müşteriler (k=5),Rastgele,1.962,10.18,0.45
+Sentetik 8 ada (k=8),K-Means++,6.608,12.845,0.59
+Sentetik 8 ada (k=8),Rastgele,236.613,1118.868,0.935

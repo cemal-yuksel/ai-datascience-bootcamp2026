@@ -1,0 +1,43 @@
+{
+  "proje": "Gün 55 — Müşteri segmentasyonu (K-Means ve 28 algoritma)",
+  "model": "K-Medoids (n_init=10, max_iter=100)",
+  "k": 3,
+  "ozellikler": [
+    "Gelir",
+    "Yaş",
+    "Çocuk",
+    "Toplam harcama",
+    "Alışveriş sayısı",
+    "İndirim oranı",
+    "Web ziyaret/ay"
+  ],
+  "log_sutunlari": [
+    "Gelir",
+    "Toplam harcama",
+    "Alışveriş sayısı"
+  ],
+  "segment_adlari": {
+    "1": "💎 Varlıklı Keyif Müşterileri",
+    "0": "🏡 Olgun Orta Gelirli Aileler",
+    "2": "🌱 Genç ve Bütçe Dostu Aileler"
+  },
+  "aykiri_esik": 3.8020390757087306,
+  "basari": {
+    "egitim_siluet": 0.2736,
+    "test_siluet": 0.2754,
+    "test_yeniden_kesif_ari": 0.8638,
+    "vekil_agac_test_sadakati": 0.9075
+  },
+  "veri": {
+    "kaynak": "Kaggle — Customer Personality Analysis (Patel, 2021)",
+    "egitim": 1643,
+    "test": 411
+  },
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5"
+  },
+  "uyari": "Yalnızca bu veri setinin müşteri tanımları ve 2012–2014 dönemi için geçerlidir."
+}

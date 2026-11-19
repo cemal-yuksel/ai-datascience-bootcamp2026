@@ -1,0 +1,6 @@
+﻿Ön işleme,En baskın özellik,Baskın η²,Söz hakkı dengesi,Kararlılık (ARI),En küçük segment %
+Ölçeksiz ham,Gelir,0.872,0.911,0.658,17.833
+Standart (log yok),Toplam harcama,0.713,0.976,0.957,19.355
+MinMax (log yok),Çocuk,0.782,0.959,0.952,18.503
+Robust + log,Çocuk,0.696,0.975,0.968,18.624
+Standart + log (seçilen),Çocuk,0.683,0.973,0.924,17.346

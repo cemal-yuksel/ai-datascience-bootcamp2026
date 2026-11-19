@@ -1,0 +1,5 @@
+﻿,Silüet,Davies-Bouldin,Calinski-Harabasz,Taze kararlılık,Merkez tabanlı mı?,Bileşik sıra
+"K-Medoids (n_init=10, max_iter=100)",0.2736,1.2781,864.5853,0.9221,True,2.0
+"K-Means (init=k-means++, n_init=30, elkan)",0.2669,1.3087,884.1049,0.9479,True,2.25
+"Bisecting (biggest_inertia, init=random, n_init=1)",0.2999,1.403,839.2127,0.9762,True,2.5
+"GMM (spherical, reg=0.1, init=k-means++)",0.2647,1.2859,845.8773,0.9046,True,3.25

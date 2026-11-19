@@ -1,0 +1,8 @@
+﻿Bulgu,Karar,Gerekçe
+Eksik gelir (24),Boru hattında medyanla doldur,Satırı atmak 24 müşteriyi kaybettirir; medyan YALNIZCA eğitimden öğrenilir (sızıntısız).
+Doğum yılı < 1920 (3),Satırı çıkar,"1893, 1899, 1900 doğumlu müşteri: 114–121 yaş, yazım hatası. Düzeltmek için bilgi yok."
+Gelir 666.666 (1),Satırı çıkar,Diğer en yüksek gelirin 4 katı ve 'şeytani' sayı; veri giriş hatası olarak değerlendirildi.
+ID dışında aynı satırlar (182),"İlkini tut, diğerlerini çıkar",Aynı müşteri hem eğitimde hem testte olursa test iyimser olur; segment boyları şişer.
+"Z_CostContact = 3, Z_Revenue = 11","Kümelemeden çıkar, iş analizinde kullan",Sabit sütun: bilgi taşımaz; vaka çalışmasında iletişim maliyeti ve yanıt başına gelir olarak yorumlanır (varsayım).
+YOLO / Absurd / Alone (7),"Alone → Bekâr, diğerleri → Belirsiz",Medeni durum kümelemede kullanılmıyor; yalnızca adalet denetiminde gruplama için.
+Response ve eski kampanyalar,Kümelemede KULLANMA,Segmentlerin kampanya yanıtını 'bilmeden' bulunması gerekir; aksi hâlde dış doğrulama anlamsızlaşır.

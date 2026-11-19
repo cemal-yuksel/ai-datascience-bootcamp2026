@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0A23"/><stop offset="0.5" stop-color="#1B1446"/><stop offset="1" stop-color="#0F3B4A"/></linearGradient>
+<linearGradient id="parlak" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient>
+<radialGradient id="hale" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FDE68A" stop-opacity="0.6"/><stop offset="1" stop-color="#FDE68A" stop-opacity="0"/></radialGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<marker id="okY" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#34D399"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+@keyframes don{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes kay{0%,100%{transform:translateX(0)}50%{transform:translateX(14px)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+.don{transform-box:fill-box;transform-origin:center;animation:don 18s linear infinite}
+.kay{animation:kay 4s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="420" rx="26" fill="url(#bg)"/>
+<circle cx="1226" cy="219" r="0.8" fill="#fff" class="yan" style="animation-delay:2.1s"/>
+<circle cx="55" cy="329" r="1.9" fill="#fff" class="yan" style="animation-delay:1.8s"/>
+<circle cx="274" cy="119" r="1.7" fill="#fff" class="yan" style="animation-delay:0.5s"/>
+<circle cx="967" cy="166" r="1.8" fill="#fff" class="yan" style="animation-delay:2.0s"/>
+<circle cx="1296" cy="42" r="1.7" fill="#fff" class="yan" style="animation-delay:1.4s"/>
+<circle cx="1027" cy="299" r="1.2" fill="#fff" class="yan" style="animation-delay:1.5s"/>
+<circle cx="1266" cy="391" r="1.6" fill="#fff" class="yan" style="animation-delay:2.5s"/>
+<circle cx="1326" cy="135" r="1.5" fill="#fff" class="yan" style="animation-delay:1.4s"/>
+<circle cx="1246" cy="173" r="1.8" fill="#fff" class="yan" style="animation-delay:1.9s"/>
+<circle cx="781" cy="179" r="1.8" fill="#fff" class="yan" style="animation-delay:0.4s"/>
+<circle cx="816" cy="148" r="1.8" fill="#fff" class="yan" style="animation-delay:1.4s"/>
+<circle cx="94" cy="279" r="1.1" fill="#fff" class="yan" style="animation-delay:1.2s"/>
+<circle cx="130" cy="151" r="0.9" fill="#fff" class="yan" style="animation-delay:2.8s"/>
+<circle cx="579" cy="201" r="1.2" fill="#fff" class="yan" style="animation-delay:0.8s"/>
+<circle cx="875" cy="344" r="1.2" fill="#fff" class="yan" style="animation-delay:2.3s"/>
+<circle cx="1040" cy="33" r="1.6" fill="#fff" class="yan" style="animation-delay:2.2s"/>
+<circle cx="1263" cy="391" r="1.1" fill="#fff" class="yan" style="animation-delay:0.1s"/>
+<circle cx="1397" cy="337" r="1.5" fill="#fff" class="yan" style="animation-delay:0.8s"/>
+<circle cx="595" cy="177" r="1.7" fill="#fff" class="yan" style="animation-delay:2.0s"/>
+<circle cx="252" cy="60" r="1.2" fill="#fff" class="yan" style="animation-delay:1.4s"/>
+<circle cx="769" cy="195" r="2.0" fill="#fff" class="yan" style="animation-delay:0.2s"/>
+<circle cx="963" cy="315" r="1.9" fill="#fff" class="yan" style="animation-delay:1.7s"/>
+<circle cx="1013" cy="287" r="1.2" fill="#fff" class="yan" style="animation-delay:0.6s"/>
+<circle cx="317" cy="165" r="1.7" fill="#fff" class="yan" style="animation-delay:2.7s"/>
+<circle cx="587" cy="35" r="0.9" fill="#fff" class="yan" style="animation-delay:2.3s"/>
+<text x="60" y="60" font-size="32" class="t b" text-anchor="start" >Sızıntısız boru hattı</text><g class="yuz" style="animation-delay:0.0s"><rect x="40" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#FBBF24" stroke-width="2.4"/><text x="152.5" y="212" font-size="21" class="t b" text-anchor="middle" >Eğitim müşterileri</text><text x="152.5" y="244" font-size="15" class="k" text-anchor="middle" >%80</text></g><line x1="268" y1="220" x2="295" y2="220" stroke="#CBD5E1" stroke-width="3" class="akis" marker-end="url(#ok)"/><g class="yuz" style="animation-delay:0.3s"><rect x="299" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#38BDF8" stroke-width="2.4"/><text x="411.5" y="212" font-size="21" class="t b" text-anchor="middle" >Doldur</text><text x="411.5" y="244" font-size="15" class="k" text-anchor="middle" >gelir medyanı</text></g><line x1="527" y1="220" x2="554" y2="220" stroke="#CBD5E1" stroke-width="3" class="akis" marker-end="url(#ok)"/><g class="yuz" style="animation-delay:0.6s"><rect x="558" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#F472B6" stroke-width="2.4"/><text x="670.5" y="212" font-size="21" class="t b" text-anchor="middle" >log1p</text><text x="670.5" y="244" font-size="15" class="k" text-anchor="middle" >gelir, harcama, adet</text></g><line x1="786" y1="220" x2="813" y2="220" stroke="#CBD5E1" stroke-width="3" class="akis" marker-end="url(#ok)"/><g class="yuz" style="animation-delay:0.9s"><rect x="817" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#34D399" stroke-width="2.4"/><text x="929.5" y="212" font-size="21" class="t b" text-anchor="middle" >Ölçekle</text><text x="929.5" y="244" font-size="15" class="k" text-anchor="middle" >ortalama, std</text></g><line x1="1045" y1="220" x2="1072" y2="220" stroke="#CBD5E1" stroke-width="3" class="akis" marker-end="url(#ok)"/><g class="yuz" style="animation-delay:1.2s"><rect x="1076" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#A78BFA" stroke-width="2.4"/><text x="1188.5" y="212" font-size="21" class="t b" text-anchor="middle" >K-Means</text><text x="1188.5" y="244" font-size="15" class="k" text-anchor="middle" >merkezler</text></g><line x1="1304" y1="220" x2="1331" y2="220" stroke="#CBD5E1" stroke-width="3" class="akis" marker-end="url(#ok)"/><g class="yuz" style="animation-delay:1.5s"><rect x="1335" y="150" width="225" height="140" rx="18" fill="#0B1026" fill-opacity=".85" stroke="#FBBF24" stroke-width="2.4"/><text x="1447.5" y="212" font-size="21" class="t b" text-anchor="middle" >Yeni müşteri</text><text x="1447.5" y="244" font-size="15" class="k" text-anchor="middle" >aynı adımlar → segment</text></g><text x="800" y="360" font-size="22" class="k" text-anchor="middle" >Medyan, ortalama ve merkezler yalnızca eğitimden öğrenilir; test ve yeni müşteri bunları sadece KULLANIR</text>
+</svg>
