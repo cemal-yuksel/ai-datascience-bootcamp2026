@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0A23"/><stop offset="0.5" stop-color="#1B1446"/><stop offset="1" stop-color="#0F3B4A"/></linearGradient>
+<linearGradient id="parlak" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDE68A"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient>
+<radialGradient id="hale" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FDE68A" stop-opacity="0.6"/><stop offset="1" stop-color="#FDE68A" stop-opacity="0"/></radialGradient>
+<filter id="parilti" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#CBD5E1"/></marker>
+<marker id="okA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#FBBF24"/></marker>
+<marker id="okY" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#34D399"/></marker>
+<style>
+.t{fill:#E2E8F0}.k{fill:#94A3B8}.b{font-weight:700}
+@keyframes yuz{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes yan{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes akis{to{stroke-dashoffset:-40}}
+@keyframes nefes{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+@keyframes don{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes kay{0%,100%{transform:translateX(0)}50%{transform:translateX(14px)}}
+.yuz{animation:yuz 4s ease-in-out infinite}.yan{animation:yan 3s ease-in-out infinite}
+.akis{stroke-dasharray:8 8;animation:akis 1.2s linear infinite}
+.nefes{transform-box:fill-box;transform-origin:center;animation:nefes 3s ease-in-out infinite}
+.don{transform-box:fill-box;transform-origin:center;animation:don 18s linear infinite}
+.kay{animation:kay 4s ease-in-out infinite}
+</style>
+</defs>
+<rect width="1600" height="600" rx="26" fill="url(#bg)"/>
+<circle cx="1503" cy="62" r="1.8" fill="#fff" class="yan" style="animation-delay:1.8s"/>
+<circle cx="1224" cy="235" r="1.0" fill="#fff" class="yan" style="animation-delay:0.9s"/>
+<circle cx="1104" cy="431" r="1.8" fill="#fff" class="yan" style="animation-delay:0.3s"/>
+<circle cx="747" cy="599" r="1.7" fill="#fff" class="yan" style="animation-delay:2.8s"/>
+<circle cx="153" cy="532" r="1.5" fill="#fff" class="yan" style="animation-delay:2.2s"/>
+<circle cx="769" cy="9" r="1.2" fill="#fff" class="yan" style="animation-delay:2.4s"/>
+<circle cx="361" cy="77" r="1.4" fill="#fff" class="yan" style="animation-delay:1.9s"/>
+<circle cx="1347" cy="63" r="1.6" fill="#fff" class="yan" style="animation-delay:1.0s"/>
+<circle cx="431" cy="154" r="1.1" fill="#fff" class="yan" style="animation-delay:1.3s"/>
+<circle cx="381" cy="267" r="1.1" fill="#fff" class="yan" style="animation-delay:2.7s"/>
+<circle cx="1112" cy="255" r="0.8" fill="#fff" class="yan" style="animation-delay:2.8s"/>
+<circle cx="1420" cy="216" r="2.0" fill="#fff" class="yan" style="animation-delay:0.4s"/>
+<circle cx="1190" cy="53" r="1.9" fill="#fff" class="yan" style="animation-delay:1.7s"/>
+<circle cx="141" cy="18" r="1.6" fill="#fff" class="yan" style="animation-delay:0.0s"/>
+<circle cx="619" cy="523" r="0.7" fill="#fff" class="yan" style="animation-delay:2.1s"/>
+<circle cx="283" cy="181" r="1.1" fill="#fff" class="yan" style="animation-delay:2.6s"/>
+<circle cx="292" cy="400" r="0.8" fill="#fff" class="yan" style="animation-delay:2.4s"/>
+<circle cx="218" cy="139" r="1.2" fill="#fff" class="yan" style="animation-delay:0.8s"/>
+<circle cx="1353" cy="465" r="1.0" fill="#fff" class="yan" style="animation-delay:1.9s"/>
+<circle cx="561" cy="246" r="0.8" fill="#fff" class="yan" style="animation-delay:0.5s"/>
+<circle cx="54" cy="187" r="0.8" fill="#fff" class="yan" style="animation-delay:1.3s"/>
+<circle cx="1071" cy="82" r="1.0" fill="#fff" class="yan" style="animation-delay:2.7s"/>
+<circle cx="393" cy="486" r="1.1" fill="#fff" class="yan" style="animation-delay:1.5s"/>
+<circle cx="733" cy="38" r="0.7" fill="#fff" class="yan" style="animation-delay:0.6s"/>
+<circle cx="1552" cy="531" r="1.2" fill="#fff" class="yan" style="animation-delay:2.8s"/>
+<text x="60" y="60" font-size="32" class="t b" text-anchor="start" >K-Means'in dört adımlık döngüsü</text><rect x="650" y="75" width="300" height="110" rx="18" fill="#0B1026" stroke="#FBBF24" stroke-width="2.5"><animate attributeName="stroke-width" values="2.5;7;2.5;2.5;2.5" keyTimes="0;.1;.22;.9;1" dur="8s" begin="0s" repeatCount="indefinite"/></rect><text x="800.0" y="116.0" font-size="22" class="t b" text-anchor="middle" >1 · Tohum</text><text x="800.0" y="144.0" font-size="16" class="k" text-anchor="middle" >k yıldız rastgele/++ ile</text><text x="800.0" y="166.0" font-size="16" class="k" text-anchor="middle" >yerleşir</text><rect x="970" y="275" width="300" height="110" rx="18" fill="#0B1026" stroke="#38BDF8" stroke-width="2.5"><animate attributeName="stroke-width" values="2.5;7;2.5;2.5;2.5" keyTimes="0;.1;.22;.9;1" dur="8s" begin="2s" repeatCount="indefinite"/></rect><text x="1120.0" y="316.0" font-size="22" class="t b" text-anchor="middle" >2 · Ata</text><text x="1120.0" y="344.0" font-size="16" class="k" text-anchor="middle" >her nokta en yakın</text><text x="1120.0" y="366.0" font-size="16" class="k" text-anchor="middle" >yıldıza katılır</text><rect x="650" y="475" width="300" height="110" rx="18" fill="#0B1026" stroke="#F472B6" stroke-width="2.5"><animate attributeName="stroke-width" values="2.5;7;2.5;2.5;2.5" keyTimes="0;.1;.22;.9;1" dur="8s" begin="4s" repeatCount="indefinite"/></rect><text x="800.0" y="516.0" font-size="22" class="t b" text-anchor="middle" >3 · Taşı</text><text x="800.0" y="544.0" font-size="16" class="k" text-anchor="middle" >yıldız, grubunun</text><text x="800.0" y="566.0" font-size="16" class="k" text-anchor="middle" >ortalamasına gider</text><rect x="330" y="275" width="300" height="110" rx="18" fill="#0B1026" stroke="#34D399" stroke-width="2.5"><animate attributeName="stroke-width" values="2.5;7;2.5;2.5;2.5" keyTimes="0;.1;.22;.9;1" dur="8s" begin="6s" repeatCount="indefinite"/></rect><text x="480.0" y="316.0" font-size="22" class="t b" text-anchor="middle" >4 · Durdu mu?</text><text x="480.0" y="344.0" font-size="16" class="k" text-anchor="middle" >kimse grup değiştirmiyorsa</text><text x="480.0" y="366.0" font-size="16" class="k" text-anchor="middle" >bitti, yoksa 2'ye dön</text><ellipse cx="800" cy="330" rx="160.0" ry="130" fill="none" stroke="#FBBF24" stroke-width="3" class="akis"/><circle r="9" fill="#FBBF24" filter="url(#parilti)"><animateMotion dur="8s" repeatCount="indefinite" path="M800,200 A160.0,130 0 1,1 799.9,200"/></circle><text x="800" y="338" font-size="20" class="k" text-anchor="middle" >WCSS her turda azalır</text>
+</svg>

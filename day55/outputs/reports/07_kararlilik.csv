@@ -1,0 +1,7 @@
+﻿Algoritma,ortalama,alt_5,std,Tohum ARI (deterministikse boş)
+K-Medoids,0.8835,0.766,0.1181,0.9481
+"K-Means (rastgele, 10 deneme)",0.9147,0.8292,0.093,1.0
+"K-Means (k-means++, 10 deneme)",0.9186,0.8371,0.0924,1.0
+K-Means (Elkan),0.9186,0.8371,0.0924,1.0
+Bisecting K-Means (en büyük atalet),0.9682,0.9319,0.0204,0.9997
+K-Medyan (Manhattan),0.9656,0.9356,0.022,1.0

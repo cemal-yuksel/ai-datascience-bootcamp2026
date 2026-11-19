@@ -1,0 +1,6 @@
+﻿ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recency,MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,AcceptedCmp3,AcceptedCmp4,AcceptedCmp5,AcceptedCmp1,AcceptedCmp2,Complain,Z_CostContact,Z_Revenue,Response
+9204,1970,Graduation,Widow,66731.0,0,1,2012-09-12,33,371,159,194,58,106,141,4,4,3,6,3,0,0,0,0,0,0,3,11,0
+10242,1966,PhD,Together,47472.0,1,1,2013-09-16,39,56,0,11,0,0,8,2,2,0,4,5,0,0,0,0,0,0,3,11,0
+5454,1979,Master,Married,45057.0,1,0,2013-12-01,80,37,0,7,3,0,3,1,2,0,3,5,0,0,0,0,0,0,3,11,0
+8387,1957,Graduation,Married,43140.0,0,1,2013-01-05,68,134,8,76,6,0,11,1,4,1,5,6,0,0,0,0,0,0,3,11,0
+3074,1984,PhD,Married,70643.0,0,0,2012-10-15,66,1218,107,304,23,143,33,1,5,8,4,6,0,0,0,0,0,0,3,11,1

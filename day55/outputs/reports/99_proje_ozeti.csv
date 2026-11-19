@@ -1,0 +1,13 @@
+﻿Başlık,Sonuç
+Veri,"2054 müşteri (temiz), 7 kümeleme özelliği; eğitim 1643 / test 411"
+Segment sayısı (kural 1),k = 3 (geometrik ölçütlerin tercihi k = 2; dirsek 3)
+Yarış,"28 algoritma + taban; uygun: 18, uygun değil: 10"
+Yarış lideri (bileşik sıra),"K-Medoids — silüet 0.274, kararlılık 0.870"
+Final model (kural 3),"K-Medoids (n_init=10, max_iter=100)"
+Silüet eğitim / test,0.274 / 0.275
+Testte yeniden keşif (ARI),0.864
+Vekil ağaç test sadakati,%90.8
+Test yanıt oranları,Varlıklı Keyif Müşterileri: %29.9 · Olgun Orta Gelirli Aileler: %13.3 · Genç ve Bütçe Dostu Aileler: %7.1
+Kâr eşiği,%27.3
+Hedefleme (test),"herkese: kâr -540 · kural: kâr 118 (56 müşteri, yanıtların %41'i)"
+Yaş çıkarılınca uyum (ARI),0.813
