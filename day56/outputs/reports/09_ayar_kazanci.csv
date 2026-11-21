@@ -1,0 +1,8 @@
+﻿Aile,Ayar,Silüet,Davies-Bouldin,Calinski-Harabasz,Kararlılık (ARI),En küçük %,Segment,Uygun,Bileşik sıra,Varsayılan silüet,Varsayılan kararlılık
+K-Means,"init=k-means++, n_init=10, elkan",0.2623,1.3145,69.9229,0.9225,27.8195,3,True,9.0,0.2623,0.9232
+Konsensüs hiyerarşik,"taban=kmeans, son=average, B=50",0.2623,1.3145,69.9229,0.9061,27.8195,3,True,9.625,0.2509,0.8038
+Spektral,n_neighbors=15,0.2645,1.2819,69.2278,0.8804,25.5639,3,True,9.75,0.2605,0.8282
+K-Medoids,n_init=10,0.2641,1.2918,69.0372,0.8207,24.0602,3,True,13.875,0.2641,0.7611
+GMM,"spherical, reg=1e-06",0.2621,1.3162,69.8961,0.8813,26.3158,3,True,18.75,0.2541,0.6025
+Birleştiren hiyerarşik,"ward, euclidean, komşu=5",0.2493,1.3317,66.3641,0.712,26.3158,3,True,33.25,0.2493,0.8109
+Bisecting K-Means,"biggest_inertia, n_init=20",0.2308,1.4086,64.7569,0.8215,25.5639,3,True,35.75,0.2308,0.9108

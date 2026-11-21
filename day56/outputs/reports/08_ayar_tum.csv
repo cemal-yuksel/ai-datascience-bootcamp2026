@@ -1,0 +1,67 @@
+﻿,Aile,Ayar,Silüet,Davies-Bouldin,Calinski-Harabasz,Kararlılık (ARI),En küçük %,Segment,Uygun,Bileşik sıra
+0,Birleştiren hiyerarşik,"ward, euclidean, komşu=yok",0.2493,1.3317,66.3641,0.712,26.3158,3,True,33.625
+1,Birleştiren hiyerarşik,"ward, euclidean, komşu=5",0.2493,1.3317,66.3641,0.712,26.3158,3,True,33.25
+2,Birleştiren hiyerarşik,"ward, euclidean, komşu=10",0.2493,1.3317,66.3641,0.712,26.3158,3,True,33.625
+3,Birleştiren hiyerarşik,"complete, euclidean, komşu=yok",0.2405,1.2915,52.4842,0.5016,6.7669,3,True,36.0
+4,Birleştiren hiyerarşik,"complete, euclidean, komşu=5",0.188,0.5399,3.1393,0.5544,0.7519,3,False,
+5,Birleştiren hiyerarşik,"complete, euclidean, komşu=10",0.0267,5.1058,2.8072,0.0429,0.7519,3,False,
+6,Birleştiren hiyerarşik,"complete, manhattan, komşu=yok",0.2709,1.0957,41.6864,0.3928,1.5038,3,False,
+7,Birleştiren hiyerarşik,"complete, manhattan, komşu=5",0.136,0.7238,5.7743,0.5512,0.7519,3,False,
+8,Birleştiren hiyerarşik,"complete, manhattan, komşu=10",0.2392,0.8754,7.4884,0.3812,1.5038,3,False,
+9,Birleştiren hiyerarşik,"complete, cosine, komşu=yok",0.1952,1.4546,52.5141,0.5545,15.0376,3,True,49.75
+10,Birleştiren hiyerarşik,"complete, cosine, komşu=5",-0.1093,2.1058,12.4708,0.0701,1.5038,3,False,
+11,Birleştiren hiyerarşik,"complete, cosine, komşu=10",0.0171,3.5847,14.7643,0.0745,24.0602,3,True,52.0
+12,Birleştiren hiyerarşik,"average, euclidean, komşu=yok",0.2709,1.0604,43.5838,0.326,1.5038,3,False,
+13,Birleştiren hiyerarşik,"average, euclidean, komşu=5",0.188,0.5399,3.1393,0.5619,0.7519,3,False,
+14,Birleştiren hiyerarşik,"average, euclidean, komşu=10",0.188,0.5399,3.1393,0.6066,0.7519,3,False,
+15,Birleştiren hiyerarşik,"average, manhattan, komşu=yok",0.2947,0.9013,40.8107,0.5921,0.7519,3,False,
+16,Birleştiren hiyerarşik,"average, manhattan, komşu=5",0.188,0.5399,3.1393,0.3903,0.7519,3,False,
+17,Birleştiren hiyerarşik,"average, manhattan, komşu=10",0.1755,0.8017,4.2548,0.5608,0.7519,3,False,
+18,Birleştiren hiyerarşik,"average, cosine, komşu=yok",0.2179,1.4246,58.0656,0.7463,17.2932,3,True,44.25
+19,Birleştiren hiyerarşik,"average, cosine, komşu=5",-0.3005,2.4559,0.3425,0.212,0.7519,3,False,
+20,Birleştiren hiyerarşik,"average, cosine, komşu=10",-0.3185,2.9455,0.1087,0.0629,0.7519,3,False,
+21,Konsensüs hiyerarşik,"taban=ward, son=average, B=20",0.2462,1.3766,66.5526,0.7364,28.5714,3,True,33.75
+22,Konsensüs hiyerarşik,"taban=ward, son=average, B=50",0.2584,1.278,67.0996,0.8208,25.5639,3,True,19.75
+23,Konsensüs hiyerarşik,"taban=ward, son=complete, B=20",0.2038,1.5196,62.1675,0.5291,30.0752,3,True,48.5
+24,Konsensüs hiyerarşik,"taban=ward, son=complete, B=50",0.262,1.2923,68.8463,0.8329,27.0677,3,True,18.25
+25,Konsensüs hiyerarşik,"taban=kmeans, son=average, B=20",0.2596,1.3291,69.8899,0.8776,27.8195,3,True,21.875
+26,Konsensüs hiyerarşik,"taban=kmeans, son=average, B=50",0.2623,1.3145,69.9229,0.9061,27.8195,3,True,9.625
+27,Konsensüs hiyerarşik,"taban=kmeans, son=complete, B=20",0.2596,1.3291,69.8899,0.8674,27.8195,3,True,22.125
+28,Konsensüs hiyerarşik,"taban=kmeans, son=complete, B=50",0.2623,1.3145,69.9229,0.889,27.8195,3,True,11.375
+29,Bisecting K-Means,"biggest_inertia, n_init=5",0.2308,1.4086,64.7569,0.7991,25.5639,3,True,37.25
+30,Bisecting K-Means,"biggest_inertia, n_init=10",0.2308,1.4086,64.7569,0.8164,25.5639,3,True,36.75
+31,Bisecting K-Means,"biggest_inertia, n_init=20",0.2308,1.4086,64.7569,0.8215,25.5639,3,True,35.75
+32,Bisecting K-Means,"largest_cluster, n_init=5",0.2308,1.4086,64.7569,0.7991,25.5639,3,True,37.25
+33,Bisecting K-Means,"largest_cluster, n_init=10",0.2308,1.4086,64.7569,0.8164,25.5639,3,True,36.75
+34,Bisecting K-Means,"largest_cluster, n_init=20",0.2308,1.4086,64.7569,0.8215,25.5639,3,True,35.75
+35,K-Means,"init=k-means++, n_init=1, lloyd",0.2623,1.3145,69.9229,0.7739,27.8195,3,True,16.75
+36,K-Means,"init=k-means++, n_init=1, elkan",0.2623,1.3145,69.9229,0.7739,27.8195,3,True,16.75
+37,K-Means,"init=k-means++, n_init=10, lloyd",0.2623,1.3145,69.9229,0.9225,27.8195,3,True,9.0
+38,K-Means,"init=k-means++, n_init=10, elkan",0.2623,1.3145,69.9229,0.9225,27.8195,3,True,9.0
+39,K-Means,"init=k-means++, n_init=30, lloyd",0.2623,1.3145,69.9229,0.8954,27.8195,3,True,11.0
+40,K-Means,"init=k-means++, n_init=30, elkan",0.2623,1.3145,69.9229,0.8954,27.8195,3,True,11.0
+41,K-Means,"init=random, n_init=1, lloyd",0.2623,1.3145,69.9229,0.7061,27.8195,3,True,19.0
+42,K-Means,"init=random, n_init=1, elkan",0.2623,1.3145,69.9229,0.7061,27.8195,3,True,19.0
+43,K-Means,"init=random, n_init=10, lloyd",0.2623,1.3145,69.9229,0.8976,27.8195,3,True,10.5
+44,K-Means,"init=random, n_init=10, elkan",0.2623,1.3145,69.9229,0.8976,27.8195,3,True,10.5
+45,K-Means,"init=random, n_init=30, lloyd",0.2623,1.3145,69.9229,0.8999,27.8195,3,True,10.0
+46,K-Means,"init=random, n_init=30, elkan",0.2623,1.3145,69.9229,0.8999,27.8195,3,True,10.0
+47,K-Medoids,n_init=5,0.2641,1.2918,69.0372,0.7734,24.0602,3,True,16.375
+48,K-Medoids,n_init=10,0.2641,1.2918,69.0372,0.8207,24.0602,3,True,13.875
+49,K-Medoids,n_init=30,0.2207,1.4245,64.2194,0.7004,28.5714,3,True,44.75
+50,GMM,"full, reg=1e-06",0.2541,1.3153,68.0322,0.609,26.3158,3,True,30.875
+51,GMM,"full, reg=0.001",0.2541,1.3153,68.0322,0.6575,26.3158,3,True,30.375
+52,GMM,"full, reg=0.1",0.2136,1.4346,58.3744,0.5287,22.5564,3,True,48.25
+53,GMM,"tied, reg=1e-06",0.2094,1.3552,53.4232,0.6863,18.797,3,True,44.25
+54,GMM,"tied, reg=0.001",0.2255,1.3638,59.8251,0.7272,24.0602,3,True,40.5
+55,GMM,"tied, reg=0.1",0.2418,1.3368,64.5693,0.7742,26.3158,3,True,35.0
+56,GMM,"diag, reg=1e-06",0.2407,1.3918,67.5498,0.8588,29.3233,3,True,29.5
+57,GMM,"diag, reg=0.001",0.2407,1.3918,67.5498,0.8588,29.3233,3,True,29.5
+58,GMM,"diag, reg=0.1",0.2329,1.4217,66.4641,0.9149,29.3233,3,True,29.25
+59,GMM,"spherical, reg=1e-06",0.2621,1.3162,69.8961,0.8813,26.3158,3,True,18.75
+60,GMM,"spherical, reg=0.001",0.2621,1.3162,69.8961,0.8813,26.3158,3,True,18.75
+61,GMM,"spherical, reg=0.1",0.2621,1.3162,69.8961,0.8836,26.3158,3,True,18.75
+62,Spektral,n_neighbors=5,0.2252,1.1946,55.4024,0.6092,11.2782,3,True,35.0
+63,Spektral,n_neighbors=8,0.2582,1.2886,65.4186,0.7923,20.3008,3,True,23.75
+64,Spektral,n_neighbors=10,0.2605,1.2878,67.2557,0.7884,22.5564,3,True,21.0
+65,Spektral,n_neighbors=15,0.2645,1.2819,69.2278,0.8804,25.5639,3,True,9.75

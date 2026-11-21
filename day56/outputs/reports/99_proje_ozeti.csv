@@ -1,0 +1,13 @@
+﻿Başlık,Sonuç
+Veri,"167 ülke, 9 gösterge; eğitim 133 / test 34 (GSYH çeyreğine göre tabakalı)"
+Veri kalitesi,"Myanmar'ın ihracat/ithalatı (%0,1) hatalı sayıldı → boru hattında eğitim medyanı; uç değerler gerçek olgu olarak korundu"
+Ön işleme,"Doldur → log1p (6) + işaretli log (enflasyon) → standart ölçek, tek Pipeline"
+Segment sayısı (kural 1),"K = 3 (silüet k = 2, kesim aralığı k = 2)"
+Yarış (kural 2),27 algoritma + taban; uygun 18; lider K-Means; en yüksek silüet HDBSCAN (yoğunluk hiyerarşisi) (uygun değil)
+Final (kural 3),"Konsensüs hiyerarşik (taban=kmeans, son=average, B=50)"
+Eğitim / test silüeti,0.262 / 0.265
+Test yeniden keşif ARI · vekil ağaç test sadakati,0.822 · %76.5
+Segmentler,🆘 Öncelikli Destek (46) · 🌱 Gelişmekte Olan (71) · 🏙️ Gelişmiş (50)
+EAGÜ dış doğrulama (tümü),kesinlik %80.4 · duyarlılık %90.2
+Kısa liste ilk 5,"Haiti, Orta Afrika Cumhuriyeti, Kongo Demokratik Cumhuriyeti, Nijer, Burundi"
+Adalet,"kıta × segment Cramér V = 0.63; sınırdaki 4, sıra dışı 2 ülke"
