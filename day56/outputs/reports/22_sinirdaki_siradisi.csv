@@ -1,0 +1,7 @@
+﻿,Ülke (EN),Ülke,Çocuk ölümü,İhracat,Sağlık harcaması,İthalat,Gelir,Enflasyon,Yaşam beklentisi,Doğurganlık,Kişi başı GSYH,Kıta,EAGÜ (BM 2018),Segment,Veri,Öncelikli mi?,İhtiyaç endeksi,Konsensüs oyu,Oy oranı %,Silüet,Merkeze uzaklık,Sınırda mı?,Sıra dışı mı?
+81,Panama,Panama,19.7,70.0,8.1,78.2,15400,2.59,77.8,2.62,8080,Kuzey Amerika,0,🏙️ Gelişmiş,Eğitim,False,-0.362,0,0.0,-0.003,2.085,True,False
+86,United States,ABD,7.3,12.4,17.9,15.8,49400,1.22,78.7,1.93,48400,Kuzey Amerika,0,🏙️ Gelişmiş,Eğitim,False,-1.09,0,0.0,0.192,4.585,False,True
+112,"Macedonia, FYR",Kuzey Makedonya,10.4,39.8,7.09,58.1,11400,2.04,74.0,1.47,4540,Avrupa,0,🏙️ Gelişmiş,Eğitim,False,-0.472,0,0.0,-0.017,1.816,True,False
+117,Singapore,Singapur,2.8,200.0,3.96,174.0,72100,-0.046,82.7,1.15,46600,Asya,0,🏙️ Gelişmiş,Eğitim,False,-1.546,0,0.0,0.208,4.185,False,True
+142,Lao,Laos,78.9,35.4,4.47,49.3,3980,9.2,63.8,3.15,1140,Asya,1,🆘 Öncelikli Destek,Test,True,0.745,8,44.444,-0.044,1.742,True,False
+147,Maldives,Maldivler,13.2,77.6,6.33,65.4,10500,2.88,77.9,2.23,7100,Asya,0,🌱 Gelişmekte Olan,Test,False,-0.416,0,0.0,-0.171,1.876,True,False

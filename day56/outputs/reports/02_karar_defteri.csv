@@ -1,0 +1,8 @@
+﻿,Bulgu,Karar,Gerekçe
+0,"Myanmar: ihracat %0,109, ithalat %0,066 (GSYH'nin)","Eksik say (NaN), boru hattında eğitim medyanıyla doldur",Bir sonraki en düşük ihracat bunun 20 katı; dış ticareti GSYH'nin %1'inden küçük ülke yoktur → birim/giriş hatası. Bırakılırsa log dönüşümünden sonra Myanmar tek kişilik bir küme olur.
+1,"Singapur, Lüksemburg, Malta: ihracat > %150",Koru,Transit ticaret merkezleri; ihracatın GSYH'yi aşması gerçek bir olgudur (yeniden ihracat). Log ile sıkıştırılır.
+2,Nijerya: enflasyon %104,"Koru, işaretli log ile sıkıştır",GSYH deflatörüne dayalı ölçüm; tek ülkede aşırı ama olanaksız değil. İşaretli log uç değerin etkisini azaltır; 14. bölümde 'sıra dışı' olarak izlenir.
+3,8 ülkede negatif enflasyon,"Koru, işaretli log",Deflasyon gerçek bir ekonomik durumdur; log1p negatif değer alamayacağı için sign(x)·log(1+|x|) kullanılır.
+4,"Haiti: yaşam beklentisi 32,1",Koru,"2010 depreminin yılına ait şok değeri olabilir; gerçek bir felaket izidir, hata kanıtı yok. 'Sıra dışı' olarak izlenir."
+5,Kıta ve EAGÜ sütunları,Kümelemede KULLANMA,"Kıta yalnızca adalet denetiminde, EAGÜ yalnızca dış doğrulamada kullanılır (sonuçları önceden belirlemesin)."
+6,"Ülke adları benzersiz, kopya satır yok",İşlem yok,"167 ülke, her biri bir kez."

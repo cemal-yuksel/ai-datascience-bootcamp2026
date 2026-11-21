@@ -1,0 +1,7 @@
+﻿Ön işleme,Boyut,Söz hakkı dengesi ↑,En büyük söz,En büyük söz payı,Kararlılık ↑,Kofenetik ↑,En küçük segment %,Boylar
+Ham (ölçeksiz),9,0.8601,Kişi başı GSYH,0.2293,0.5362,0.8214,15.0376,"[67, 46, 20]"
+Standart,9,0.8566,Çocuk ölümü,0.1934,0.6133,0.5111,20.3008,"[63, 43, 27]"
+Robust,9,0.9106,Çocuk ölümü,0.1856,0.4106,0.6015,18.797,"[56, 52, 25]"
+Log + standart,9,0.9449,Çocuk ölümü,0.1708,0.661,0.6108,26.3158,"[59, 39, 35]"
+Yeo-Johnson + standart,9,0.9305,Çocuk ölümü,0.1909,0.5421,0.5793,25.5639,"[51, 48, 34]"
+Log + standart + PCA (%90),4,0.9439,Çocuk ölümü,0.1686,0.7746,0.6273,27.0677,"[61, 36, 36]"

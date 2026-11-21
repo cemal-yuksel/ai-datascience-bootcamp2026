@@ -1,0 +1,4 @@
+﻿Veri,Öncelikli segmentte,EAGÜ,İkisi de,Kesinlik %,Duyarlılık %,ARI (2 grup)
+Eğitim,38,35,32,84.211,91.429,0.735
+Test,8,6,5,62.5,83.333,0.523
+Tümü,46,41,37,80.435,90.244,0.696

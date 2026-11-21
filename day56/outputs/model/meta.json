@@ -1,0 +1,49 @@
+{
+  "proje": "Gün 56 — Ülke segmentasyonu (hiyerarşik kümeleme ve 27 algoritma)",
+  "model": "Konsensüs hiyerarşik (taban=kmeans, son=average, B=50)",
+  "k": 3,
+  "ozellikler": [
+    "Çocuk ölümü",
+    "İhracat",
+    "Sağlık harcaması",
+    "İthalat",
+    "Gelir",
+    "Enflasyon",
+    "Yaşam beklentisi",
+    "Doğurganlık",
+    "Kişi başı GSYH"
+  ],
+  "log_sutunlari": [
+    "Çocuk ölümü",
+    "İhracat",
+    "İthalat",
+    "Gelir",
+    "Kişi başı GSYH",
+    "Doğurganlık"
+  ],
+  "isaretli_log_sutunlari": [
+    "Enflasyon"
+  ],
+  "segment_adlari": {
+    "2": "🆘 Öncelikli Destek",
+    "0": "🌱 Gelişmekte Olan",
+    "1": "🏙️ Gelişmiş"
+  },
+  "oncelikli_segment": 2,
+  "aykiri_esik": 4.0724575225841635,
+  "basari": {
+    "egitim_siluet": 0.2623,
+    "test_siluet": 0.2654,
+    "test_yeniden_kesif_ari": 0.8216,
+    "vekil_agac_test_sadakati": 0.7647
+  },
+  "atama_kurali": "en yakın segment merkezi (AgacAtayici)",
+  "veri": "Kaggle — Unsupervised Learning on Country Data (167 ülke)",
+  "surumler": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1"
+  }
+}
