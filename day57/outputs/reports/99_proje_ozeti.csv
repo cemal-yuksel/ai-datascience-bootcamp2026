@@ -1,0 +1,13 @@
+Başlık,Sonuç
+Veri,48.895 ilan · eğitim 39.116 / test 9.779
+Yarış,23 algoritma + rastgele taban · kurallara uyan: 16
+Yarış lideri (uygunlar),Mean Shift · DBCV +0.048
+Final,"HDBSCAN · yaprak · mcs=150, ms=10"
+Final uygulama,hdbscan · approximate_predict
+Odaklar,"53 odak · eğitim gürültü %48,7 · en büyük %4,7"
+DBCV (eğitim / test),+0.133 / +0.107
+Test tutarlılığı,"ARI 0.593 · odakta-mı uyumu %83,0"
+"Dış doğrulama (test R², log fiyat)",ilçe 0.131 · mahalle 0.260 · odak 0.197
+"Denetim (15 km², test)",odak 26.7% · mahalle 27.6% · rastgele 4.3%
+Adalet,"odak dışı oran: Manhattan %45,5 · Staten Island %6,0"
+Model,Ayrı süreçte yüklendi ve aynı tahminleri verdi: True

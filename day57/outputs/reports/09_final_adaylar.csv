@@ -1,0 +1,6 @@
+Algoritma,Ayar,Odak sayısı,Gürültü %,En büyük odak %,DBCV,Uygun,Kararlılık ARI
+HDBSCAN · yaprak,"mcs=150, ms=10",51,46.748,4.914,0.137,True,0.738
+HDBSCAN · EOM + tavan,"mcs=100, ms=30, tavan=5867",42,44.381,7.427,0.111,True,0.83
+Mean Shift,"bant=700 m, min_bin=10",111,37.077,3.991,0.086,True,
+DBSCAN,"eps=150 m, minPts=40",58,47.837,10.213,-0.017,True,
+Ward,k=120,120,0.0,3.464,-0.267,True,

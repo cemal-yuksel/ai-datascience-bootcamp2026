@@ -1,0 +1,15 @@
+,Tip,Eksik,Eksik %,Benzersiz,Örnek
+İlan no,int64,0,0.0,48895,2539
+Ev sahibi no,int64,0,0.0,37457,2787
+İlçe,str,0,0.0,5,Brooklyn
+Mahalle,str,0,0.0,221,Kensington
+Enlem,float64,0,0.0,19048,40.64749
+Boylam,float64,0,0.0,14718,-73.97237
+Oda tipi,str,0,0.0,3,Özel oda
+Fiyat,int64,0,0.0,674,149
+En az gece,int64,0,0.0,109,1
+Yorum sayısı,int64,0,0.0,394,9
+Son yorum,str,10052,20.56,1764,2018-10-19
+Aylık yorum,float64,10052,20.56,937,0.21
+Ev sahibinin ilan sayısı,int64,0,0.0,47,6
+Yıllık müsaitlik,int64,0,0.0,366,365

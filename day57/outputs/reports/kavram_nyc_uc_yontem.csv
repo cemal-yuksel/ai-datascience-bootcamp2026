@@ -1,0 +1,4 @@
+Yöntem,Odak sayısı,Gürültü %,En büyük odak %,DBCV
+DBSCAN · eps 130 m · minPts 15,24.0,77.4,4.4,0.012
+HDBSCAN · EOM · mcs 40,3.0,1.1,72.8,-0.002
+HDBSCAN · yaprak · mcs 40,20.0,59.1,3.6,0.147
