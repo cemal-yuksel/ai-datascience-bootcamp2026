@@ -1,0 +1,8 @@
+Durum,Kapsam,Karar
+Tam kopya satır,Yok,İşlem gerekmedi
+Aynı ev sahibi + aynı nokta + aynı tip,3 ilan,KORUNDU: ayrı ilanlar (aynı binada birden çok oda/daire); 14.3'te 'tek ev sahibi odakları' olarak izlenecek
+Fiyat = 0,11 ilan,Konum geçerli → kümelemede KORUNDU; fiyat analizlerinde eksik (NaN) sayıldı
+Fiyat > 2.000 $,86 ilan,KORUNDU: lüks ilan olabilir; fiyat özetlerinde medyan ve log ölçek kullanıldı
+En az gece > 365,14 ilan,KORUNDU: kümelemeye girmez; 'riskli ilan' tanımında zaten < 30 gece aranır
+Yorumsuz ilanda Aylık yorum eksik,10052 ilan,Yapısal eksik → 0 ile dolduruldu (yorum yoksa aylık yorum 0'dır)
+Beyan ≠ poligon ilçesi,12 ilan,Kümeleme yalnızca koordinatı kullanır → etkisiz; ilçe analizlerinde BEYAN edilen ilçe kullanıldı

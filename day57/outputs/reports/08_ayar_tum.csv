@@ -1,0 +1,68 @@
+Algoritma,Ayar,Odak sayısı,Gürültü %,En büyük odak %,DBCV,Uygun
+DBSCAN,"eps=60 m, minPts=10",312,60.824,6.005,-0.004,False
+DBSCAN,"eps=60 m, minPts=20",72,89.774,1.465,0.031,False
+DBSCAN,"eps=60 m, minPts=30",15,97.975,0.499,0.013,False
+DBSCAN,"eps=60 m, minPts=40",3,99.663,0.128,0.003,False
+DBSCAN,"eps=60 m, minPts=60",0,100.0,0.0,,False
+DBSCAN,"eps=80 m, minPts=10",245,38.358,10.382,-0.106,False
+DBSCAN,"eps=80 m, minPts=20",106,70.641,5.946,0.041,False
+DBSCAN,"eps=80 m, minPts=30",49,86.801,1.971,0.033,False
+DBSCAN,"eps=80 m, minPts=40",15,95.508,1.04,0.023,False
+DBSCAN,"eps=80 m, minPts=60",1,99.673,0.327,,False
+DBSCAN,"eps=100 m, minPts=10",149,25.228,26.076,-0.376,False
+DBSCAN,"eps=100 m, minPts=20",115,50.798,6.908,0.006,False
+DBSCAN,"eps=100 m, minPts=30",59,71.114,5.215,0.04,False
+DBSCAN,"eps=100 m, minPts=40",34,83.117,3.106,0.02,False
+DBSCAN,"eps=100 m, minPts=60",10,95.511,1.572,0.03,False
+DBSCAN,"eps=120 m, minPts=10",89,18.772,40.93,-0.426,False
+DBSCAN,"eps=120 m, minPts=20",89,35.903,20.429,-0.185,False
+DBSCAN,"eps=120 m, minPts=30",75,54.673,6.972,0.001,False
+DBSCAN,"eps=120 m, minPts=40",44,68.826,6.524,0.042,False
+DBSCAN,"eps=120 m, minPts=60",24,85.392,2.871,0.023,False
+DBSCAN,"eps=150 m, minPts=10",66,13.989,43.627,-0.456,False
+DBSCAN,"eps=150 m, minPts=20",54,23.395,28.395,-0.402,False
+DBSCAN,"eps=150 m, minPts=30",46,35.433,15.239,-0.227,False
+DBSCAN,"eps=150 m, minPts=40",58,47.837,10.213,-0.017,True
+DBSCAN,"eps=150 m, minPts=60",30,68.616,6.8,0.015,False
+DBSCAN,"eps=200 m, minPts=10",77,9.689,44.028,-0.472,False
+DBSCAN,"eps=200 m, minPts=20",26,15.756,43.632,-0.472,False
+DBSCAN,"eps=200 m, minPts=30",26,20.575,41.415,-0.415,False
+DBSCAN,"eps=200 m, minPts=40",20,27.528,38.207,-0.417,False
+DBSCAN,"eps=200 m, minPts=60",32,41.837,16.535,-0.109,False
+DBSCAN,"eps=300 m, minPts=10",67,5.581,45.472,-0.381,False
+DBSCAN,"eps=300 m, minPts=20",30,10.142,44.1,-0.467,False
+DBSCAN,"eps=300 m, minPts=30",11,13.498,44.031,-0.366,False
+DBSCAN,"eps=300 m, minPts=40",10,15.428,43.931,-0.46,False
+DBSCAN,"eps=300 m, minPts=60",9,19.074,43.317,-0.119,False
+HDBSCAN · yaprak,"mcs=60, ms=10",119,54.315,1.429,0.114,False
+HDBSCAN · yaprak,"mcs=60, ms=20",99,61.128,1.301,0.152,False
+HDBSCAN · yaprak,"mcs=60, ms=30",86,63.509,1.547,0.171,False
+HDBSCAN · yaprak,"mcs=100, ms=10",77,52.85,1.687,0.082,False
+HDBSCAN · yaprak,"mcs=100, ms=20",60,54.804,3.367,0.117,False
+HDBSCAN · yaprak,"mcs=100, ms=30",54,58.035,3.237,0.114,False
+HDBSCAN · yaprak,"mcs=150, ms=10",51,46.748,4.914,0.137,True
+HDBSCAN · yaprak,"mcs=150, ms=20",45,49.555,4.852,0.131,True
+HDBSCAN · yaprak,"mcs=150, ms=30",43,52.705,5.07,0.142,False
+HDBSCAN · yaprak,"mcs=250, ms=10",33,49.057,4.914,0.136,True
+HDBSCAN · yaprak,"mcs=250, ms=20",34,50.36,4.852,0.103,False
+HDBSCAN · yaprak,"mcs=250, ms=30",30,54.88,5.07,0.109,False
+HDBSCAN · EOM + tavan,"mcs=100, ms=10, tavan=5867",57,37.68,7.455,0.081,True
+HDBSCAN · EOM + tavan,"mcs=100, ms=30, tavan=5867",42,44.381,7.427,0.111,True
+HDBSCAN · EOM + tavan,"mcs=250, ms=10, tavan=5867",29,41.589,7.455,0.095,True
+HDBSCAN · EOM + tavan,"mcs=250, ms=30, tavan=5867",19,41.548,12.085,-0.024,True
+Mean Shift,"bant=300 m, min_bin=10",234,43.532,1.227,0.065,False
+Mean Shift,"bant=300 m, min_bin=20",163,49.353,1.227,0.072,False
+Mean Shift,"bant=300 m, min_bin=40",85,63.099,1.227,0.068,False
+Mean Shift,"bant=400 m, min_bin=10",177,40.469,1.963,0.057,False
+Mean Shift,"bant=400 m, min_bin=20",108,45.818,1.963,0.039,True
+Mean Shift,"bant=400 m, min_bin=40",77,52.227,1.963,0.034,False
+Mean Shift,"bant=500 m, min_bin=10",132,42.085,2.592,0.067,True
+Mean Shift,"bant=500 m, min_bin=20",86,45.669,2.592,0.048,True
+Mean Shift,"bant=500 m, min_bin=40",63,49.213,2.592,0.041,True
+Mean Shift,"bant=700 m, min_bin=10",111,37.077,3.991,0.086,True
+Mean Shift,"bant=700 m, min_bin=20",66,40.372,3.991,0.072,True
+Mean Shift,"bant=700 m, min_bin=40",41,44.225,3.991,0.061,True
+Ward,k=30,30,0.0,10.469,-0.406,True
+Ward,k=50,50,0.0,8.01,-0.364,True
+Ward,k=80,80,0.0,4.745,-0.307,True
+Ward,k=120,120,0.0,3.464,-0.267,True

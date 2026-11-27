@@ -1,0 +1,7 @@
+Algoritma,Aile,Uygun (yarış),ARI ort.,ARI std,Odak sayısı ort.,Odak sayısı std,Süre (sn)
+Mean Shift,Yoğunluk,True,0.789,0.016,80.875,3.723,26.691
+Ward,Hiyerarşik,True,0.664,0.037,50.0,0.0,2.102
+Yoğunluk Tepeleri,Yoğunluk,True,0.877,0.024,50.0,0.0,5.414
+HDBSCAN · yaprak,Yoğunluk,False,0.775,0.031,64.125,2.368,47.157
+OPTICS · ξ,Yoğunluk,False,0.527,0.104,6.75,1.714,234.813
+Izgara Yoğunluğu,Yoğunluk,False,0.896,0.047,26.75,1.984,0.068
